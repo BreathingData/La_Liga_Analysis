@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee
+1,Sat,8/17/2013,,Valencia,1@0,M·laga,,Mestalla,¡Ålvarez Izquierdo
+1,Sat,8/17/2013,,Real Sociedad,2@0,Getafe,,Anoeta,MartÌnez Munuera
+1,Sat,8/17/2013,,Valladolid,1@2,Athletic Club,,JosÈ Zorrilla,Ayza G·mez
+1,Sun,8/18/2013,,Sevilla,1@3,AtlÈtico Madrid,,RamÛn S·nchez Pizju·n,Clos GÛmez
+1,Sun,8/18/2013,,Osasuna,1@2,Granada,,Reyno de Navarra,Gonz·lez Gonz·lez
+1,Sun,8/18/2013,,Barcelona,7@0,Levante,,Camp Nou,Del Cerro Grande
+1,Sun,8/18/2013,,Real Madrid,2@1,Betis,,Santiago BernabÈu,Gil Manzano
+1,Mon,8/19/2013,,Rayo Vallecano,3@0,Elche,,Estadio de Vallecas Teresa Rivero,Fern·ndez Borbal·n
+1,Mon,8/19/2013,,AlmerÌa,2@3,Villarreal,,Estadio Mediterr·neo,Undiano Mallenco
+1,Mon,8/19/2013,,Celta Vigo,2@2,Espanyol,,BalaÌdos,Teixeira Vitienes
+2,Fri,8/23/2013,,Getafe,2@2,AlmerÌa,,Coliseum Alfonso PÈrez,Hern·ndez Hern·ndez
+2,Fri,8/23/2013,,Athletic Club,2@0,Osasuna,,Anoeta,MuÒiz Fern·ndez
+2,Sat,8/24/2013,,Espanyol,3@1,Valencia,,Cornell· - El Prat,Velasco Carballo
+2,Sat,8/24/2013,,Elche,1@1,Real Sociedad,,MartÌnez Valero,PÈrez Montero
+2,Sat,8/24/2013,,Villarreal,2@1,Valladolid,,El Madrigal,Gil Manzano
+2,Sun,8/25/2013,,M·laga,0@1,Barcelona,,La Rosaleda,Mateu Lahoz
+2,Sun,8/25/2013,,AtlÈtico Madrid,5@0,Rayo Vallecano,,Vicente CalderÛn,Iglesias Villanueva
+2,Sun,8/25/2013,,Levante,0@0,Sevilla,,Ciutat de Valencia,Teixeira Vitienes
+2,Sun,8/25/2013,,Betis,1@2,Celta Vigo,,Benito VillamarÌn,Prieto Iglesias
+2,Mon,8/26/2013,,Granada,0@1,Real Madrid,,Nuevo Los C·rmenes,Estrada Fern·ndez
+3,Fri,8/30/2013,,Rayo Vallecano,1@2,Levante,,Estadio de Vallecas Teresa Rivero,PÈrez Montero
+3,Fri,8/30/2013,,AlmerÌa,2@2,Elche,,Estadio Mediterr·neo,¡Ålvarez Izquierdo
+3,Sat,8/31/2013,,Celta Vigo,1@1,Granada,,BalaÌdos,MartÌnez Munuera
+3,Sat,8/31/2013,,Osasuna,0@3,Villarreal,,Reyno de Navarra,Fern·ndez Borbal·n
+3,Sat,8/31/2013,,Valladolid,1@0,Getafe,,JosÈ Zorrilla,Undiano Mallenco
+3,Sun,9/1/2013,,Real Madrid,3@1,Athletic Club,,Santiago BernabÈu,Clos GÛmez
+3,Sun,9/1/2013,,Sevilla,2@2,M·laga,,RamÛn S·nchez Pizju·n,Del Cerro Grande
+3,Sun,9/1/2013,,Espanyol,0@0,Betis,,Cornell· - El Prat,Gonz·lez Gonz·lez
+3,Sun,9/1/2013,,Real Sociedad,1@2,AtlÈtico Madrid,,Anoeta,Ayza G·mez
+3,Sun,9/1/2013,,Valencia,2@3,Barcelona,,Mestalla,Teixeira Vitienes
+4,Sat,9/14/2013,,Villarreal,2@2,Real Madrid,,El Madrigal,Teixeira Vitienes
+4,Sat,9/14/2013,,Barcelona,3@2,Sevilla,,Camp Nou,MuÒiz Fern·ndez
+4,Sat,9/14/2013,,Levante,0@0,Real Sociedad,,Ciutat de Valencia,Prieto Iglesias
+4,Sat,9/14/2013,,AtlÈtico Madrid,4@2,AlmerÌa,,Vicente CalderÛn,Gonz·lez Gonz·lez
+4,Sun,9/15/2013,,M·laga,5@0,Rayo Vallecano,,La Rosaleda,Hern·ndez Hern·ndez
+4,Sun,9/15/2013,,Granada,0@1,Espanyol,,Nuevo Los C·rmenes,Iglesias Villanueva
+4,Sun,9/15/2013,,Getafe,2@1,Osasuna,,Coliseum Alfonso PÈrez,Mateu Lahoz
+4,Sun,9/15/2013,,Betis,3@1,Valencia,,Benito VillamarÌn,Estrada Fern·ndez
+4,Mon,9/16/2013,,Athletic Club,3@2,Celta Vigo,,San MamÈs,Gil Manzano
+4,Mon,9/16/2013,,Elche,0@0,Valladolid,,MartÌnez Valero,Fern·ndez Borbal·n
+5,Fri,9/20/2013,,Osasuna,2@1,Elche,,Reyno de Navarra,Del Cerro Grande
+5,Sat,9/21/2013,,AlmerÌa,2@2,Levante,,Estadio Mediterr·neo,Velasco Carballo
+5,Sat,9/21/2013,,Real Sociedad,0@0,M·laga,,Anoeta,Teixeira Vitienes
+5,Sat,9/21/2013,,Rayo Vallecano,0@4,Barcelona,,Estadio de Vallecas Teresa Rivero,Clos GÛmez
+5,Sat,9/21/2013,,Valladolid,0@2,AtlÈtico Madrid,,JosÈ Zorrilla,¡Ålvarez Izquierdo
+5,Sun,9/22/2013,,Valencia,3@1,Sevilla,,Mestalla,Undiano Mallenco
+5,Sun,9/22/2013,,Real Madrid,4@1,Getafe,,Santiago BernabÈu,Fern·ndez Borbal·n
+5,Sun,9/22/2013,,Betis,0@0,Granada,,Benito VillamarÌn,Ayza G·mez
+5,Sun,9/22/2013,,Celta Vigo,0@0,Villarreal,,BalaÌdos,PÈrez Montero
+5,Mon,9/23/2013,,Espanyol,3@2,Athletic Club,,Cornell· - El Prat,MartÌnez Munuera
+6,Tue,9/24/2013,,Barcelona,4@1,Real Sociedad,,Camp Nou,Gil Manzano
+6,Tue,9/24/2013,,Levante,1@1,Valladolid,,Ciutat de Valencia,Hern·ndez Hern·ndez
+6,Tue,9/24/2013,,M·laga,2@0,AlmerÌa,,La Rosaleda,Clos GÛmez
+6,Tue,9/24/2013,,AtlÈtico Madrid,2@1,Osasuna,,Vicente CalderÛn,Estrada Fern·ndez
+6,Wed,9/25/2013,,Elche,1@2,Real Madrid,,MartÌnez Valero,MuÒiz Fern·ndez
+6,Wed,9/25/2013,,Sevilla,4@1,Rayo Vallecano,,RamÛn S·nchez Pizju·n,Mateu Lahoz
+6,Wed,9/25/2013,,Granada,0@1,Valencia,,Nuevo Los C·rmenes,Teixeira Vitienes
+6,Thu,9/26/2013,,Getafe,2@0,Celta Vigo,,Coliseum Alfonso PÈrez,Gonz·lez Gonz·lez
+6,Thu,9/26/2013,,Athletic Club,2@1,Betis,,San MamÈs,Iglesias Villanueva
+6,Thu,9/26/2013,,Villarreal,2@1,Espanyol,,El Madrigal,Prieto Iglesias
+7,Fri,9/27/2013,,Valladolid,2@2,M·laga,,JosÈ Zorrilla,MartÌnez Munuera
+7,Sat,9/28/2013,,Valencia,1@0,Rayo Vallecano,,Mestalla,Fern·ndez Borbal·n
+7,Sat,9/28/2013,,Real Sociedad,1@1,Sevilla,,Anoeta,Velasco Carballo
+7,Sat,9/28/2013,,Real Madrid,0@1,AtlÈtico Madrid,,Santiago BernabÈu,Mateu Lahoz
+7,Sat,9/28/2013,,AlmerÌa,0@2,Barcelona,,Estadio Mediterr·neo,Ayza G·mez
+7,Sun,9/29/2013,,Osasuna,0@1,Levante,,Reyno de Navarra,Teixeira Vitienes
+7,Sun,9/29/2013,,Betis,1@0,Villarreal,,Benito VillamarÌn,Delgado Ferreiro
+7,Sun,9/29/2013,,Celta Vigo,0@1,Elche,,BalaÌdos,Prieto Iglesias
+7,Sun,9/29/2013,,Espanyol,0@2,Getafe,,Cornell· - El Prat,PÈrez Montero
+7,Mon,9/30/2013,,Granada,2@0,Athletic Club,,Nuevo Los C·rmenes,¡Ålvarez Izquierdo
+8,Fri,10/4/2013,,M·laga,0@1,Osasuna,,La Rosaleda,Gil Manzano
+8,Fri,10/4/2013,,Villarreal,3@0,Granada,,El Madrigal,Hern·ndez Hern·ndez
+8,Sat,10/5/2013,,Rayo Vallecano,1@0,Real Sociedad,,Estadio de Vallecas Teresa Rivero,Estrada Fern·ndez
+8,Sat,10/5/2013,,Barcelona,4@1,Valladolid,,Camp Nou,Teixeira Vitienes
+8,Sat,10/5/2013,,Elche,2@1,Espanyol,,MartÌnez Valero,Clos GÛmez
+8,Sat,10/5/2013,,Levante,2@3,Real Madrid,,Ciutat de Valencia,Gonz·lez Gonz·lez
+8,Sun,10/6/2013,,Athletic Club,1@1,Valencia,,San MamÈs,Del Cerro Grande
+8,Sun,10/6/2013,,AtlÈtico Madrid,2@1,Celta Vigo,,Vicente CalderÛn,Undiano Mallenco
+8,Sun,10/6/2013,,Sevilla,2@1,AlmerÌa,,RamÛn S·nchez Pizju·n,Iglesias Villanueva
+8,Sun,10/6/2013,,Getafe,3@1,Betis,,Coliseum Alfonso PÈrez,¡Ålvarez Izquierdo
+9,Sat,10/19/2013,,Espanyol,1@0,AtlÈtico Madrid,,Cornell· - El Prat,Fern·ndez Borbal·n
+9,Sat,10/19/2013,,Valencia,1@2,Real Sociedad,,Mestalla,Hern·ndez Hern·ndez
+9,Sat,10/19/2013,,Real Madrid,2@0,M·laga,,Santiago BernabÈu,Ayza G·mez
+9,Sat,10/19/2013,,Osasuna,0@0,Barcelona,,Reyno de Navarra,PÈrez Montero
+9,Sun,10/20/2013,,AlmerÌa,0@1,Rayo Vallecano,,Estadio Mediterr·neo,Delgado Ferreiro
+9,Sun,10/20/2013,,Betis,1@2,Elche,,Benito VillamarÌn,Velasco Carballo
+9,Sun,10/20/2013,,Valladolid,2@2,Sevilla,,JosÈ Zorrilla,Prieto Iglesias
+9,Sun,10/20/2013,,Granada,0@2,Getafe,,Nuevo Los C·rmenes,Mateu Lahoz
+9,Mon,10/21/2013,,Athletic Club,2@0,Villarreal,,San MamÈs,Teixeira Vitienes
+9,Mon,10/21/2013,,Celta Vigo,0@1,Levante,,BalaÌdos,¡Ålvarez Izquierdo
+10,Fri,10/25/2013,,Rayo Vallecano,0@3,Valladolid,,Estadio de Vallecas Teresa Rivero,Iglesias Villanueva
+10,Sat,10/26/2013,,Barcelona,2@1,Real Madrid,,Camp Nou,Undiano Mallenco
+10,Sat,10/26/2013,,Levante,3@0,Espanyol,,Ciutat de Valencia,MuÒiz Fern·ndez
+10,Sat,10/26/2013,,Elche,0@1,Granada,,MartÌnez Valero,Del Cerro Grande
+10,Sat,10/26/2013,,M·laga,0@5,Celta Vigo,,La Rosaleda,Estrada Fern·ndez
+10,Sun,10/27/2013,,Sevilla,2@1,Osasuna,,RamÛn S·nchez Pizju·n,Gonz·lez Gonz·lez
+10,Sun,10/27/2013,,Villarreal,4@1,Valencia,,El Madrigal,Clos GÛmez
+10,Sun,10/27/2013,,Real Sociedad,3@0,AlmerÌa,,Anoeta,Teixeira Vitienes
+10,Sun,10/27/2013,,AtlÈtico Madrid,5@0,Betis,,Vicente CalderÛn,MartÌnez Munuera
+10,Mon,10/28/2013,,Getafe,0@1,Athletic Club,,Coliseum Alfonso PÈrez,Gil Manzano
+11,Tue,10/29/2013,,Celta Vigo,0@3,Barcelona,,BalaÌdos,Fern·ndez Borbal·n
+11,Tue,10/29/2013,,Espanyol,0@0,M·laga,,Cornell· - El Prat,Delgado Ferreiro
+11,Wed,10/30/2013,,Valencia,1@2,AlmerÌa,,Mestalla,Prieto Iglesias
+11,Wed,10/30/2013,,Osasuna,3@1,Rayo Vallecano,,Reyno de Navarra,Ayza G·mez
+11,Wed,10/30/2013,,Valladolid,2@2,Real Sociedad,,JosÈ Zorrilla,Mateu Lahoz
+11,Wed,10/30/2013,,Real Madrid,7@3,Sevilla,,Santiago BernabÈu,Teixeira Vitienes
+11,Thu,10/31/2013,,Granada,1@2,AtlÈtico Madrid,,Nuevo Los C·rmenes,Gonz·lez Gonz·lez
+11,Thu,10/31/2013,,Athletic Club,2@2,Elche,,San MamÈs,PÈrez Montero
+11,Thu,10/31/2013,,Villarreal,0@2,Getafe,,El Madrigal,Estrada Fern·ndez
+11,Thu,10/31/2013,,Betis,0@0,Levante,,Benito VillamarÌn,Hern·ndez Hern·ndez
+12,Fri,11/1/2013,,Barcelona,1@0,Espanyol,,Camp Nou,Velasco Carballo
+12,Sat,11/2/2013,,Real Sociedad,5@0,Osasuna,,Anoeta,Del Cerro Grande
+12,Sat,11/2/2013,,Sevilla,0@1,Celta Vigo,,RamÛn S·nchez Pizju·n,MartÌnez Munuera
+12,Sat,11/2/2013,,AlmerÌa,1@0,Valladolid,,Estadio Mediterr·neo,MuÒiz Fern·ndez
+12,Sat,11/2/2013,,Rayo Vallecano,2@3,Real Madrid,,Estadio de Vallecas Teresa Rivero,¡Ålvarez Izquierdo
+12,Sun,11/3/2013,,Levante,0@1,Granada,,Ciutat de Valencia,Clos GÛmez
+12,Sun,11/3/2013,,M·laga,3@2,Betis,,La Rosaleda,Undiano Mallenco
+12,Sun,11/3/2013,,AtlÈtico Madrid,2@0,Athletic Club,,Vicente CalderÛn,Teixeira Vitienes
+12,Sun,11/3/2013,,Getafe,0@1,Valencia,,Coliseum Alfonso PÈrez,Iglesias Villanueva
+12,Mon,11/4/2013,,Elche,0@1,Villarreal,,MartÌnez Valero,Gil Manzano
+13,Fri,11/8/2013,,Osasuna,0@1,AlmerÌa,,Reyno de Navarra,Mateu Lahoz
+13,Fri,11/8/2013,,Granada,3@1,M·laga,,Nuevo Los C·rmenes,Prieto Iglesias
+13,Sat,11/9/2013,,Celta Vigo,0@2,Rayo Vallecano,,BalaÌdos,Teixeira Vitienes
+13,Sat,11/9/2013,,Athletic Club,2@1,Levante,,San MamÈs,Fern·ndez Borbal·n
+13,Sat,11/9/2013,,Real Madrid,5@1,Real Sociedad,,Santiago BernabÈu,MartÌnez Munuera
+13,Sat,11/9/2013,,Getafe,1@1,Elche,,Coliseum Alfonso PÈrez,Teixeira Vitienes
+13,Sun,11/10/2013,,Espanyol,1@3,Sevilla,,Cornell· - El Prat,Ayza G·mez
+13,Sun,11/10/2013,,Betis,1@4,Barcelona,,Benito VillamarÌn,Gonz·lez Gonz·lez
+13,Sun,11/10/2013,,Valencia,2@2,Valladolid,,Mestalla,Delgado Ferreiro
+13,Sun,11/10/2013,,Villarreal,1@1,AtlÈtico Madrid,,El Madrigal,PÈrez Montero
+14,Fri,11/22/2013,,Valladolid,0@1,Osasuna,,JosÈ Zorrilla,Fern·ndez Borbal·n
+14,Sat,11/23/2013,,AtlÈtico Madrid,7@0,Getafe,,Vicente CalderÛn,Clos GÛmez
+14,Sat,11/23/2013,,Barcelona,4@0,Granada,,Camp Nou,Mateu Lahoz
+14,Sat,11/23/2013,,Real Sociedad,4@3,Celta Vigo,,Anoeta,MuÒiz Fern·ndez
+14,Sat,11/23/2013,,AlmerÌa,0@5,Real Madrid,,Estadio Mediterr·neo,Gil Manzano
+14,Sun,11/24/2013,,Rayo Vallecano,1@4,Espanyol,,Estadio de Vallecas Teresa Rivero,Gonz·lez Gonz·lez
+14,Sun,11/24/2013,,Sevilla,4@0,Betis,,RamÛn S·nchez Pizju·n,Estrada Fern·ndez
+14,Sun,11/24/2013,,Elche,2@1,Valencia,,MartÌnez Valero,Undiano Mallenco
+14,Sun,11/24/2013,,Levante,0@3,Villarreal,,Ciutat de Valencia,¡Ålvarez Izquierdo
+14,Mon,11/25/2013,,M·laga,1@2,Athletic Club,,La Rosaleda,Iglesias Villanueva
+15,Fri,11/29/2013,,Getafe,1@0,Levante,,Coliseum Alfonso PÈrez,Prieto Iglesias
+15,Fri,11/29/2013,,Villarreal,1@1,M·laga,,El Madrigal,Gonz·lez Gonz·lez
+15,Sat,11/30/2013,,Celta Vigo,3@1,AlmerÌa,,BalaÌdos,Ayza G·mez
+15,Sat,11/30/2013,,Real Madrid,4@0,Valladolid,,Santiago BernabÈu,PÈrez Montero
+15,Sat,11/30/2013,,Elche,0@2,AtlÈtico Madrid,,MartÌnez Valero,Delgado Ferreiro
+15,Sat,11/30/2013,,Espanyol,1@2,Real Sociedad,,Cornell· - El Prat,Teixeira Vitienes
+15,Sun,12/1/2013,,Betis,2@2,Rayo Vallecano,,Benito VillamarÌn,Teixeira Vitienes
+15,Sun,12/1/2013,,Granada,1@2,Sevilla,,Nuevo Los C·rmenes,Del Cerro Grande
+15,Sun,12/1/2013,,Valencia,3@0,Osasuna,,Mestalla,Velasco Carballo
+15,Sun,12/1/2013,,Athletic Club,1@0,Barcelona,,San MamÈs,MartÌnez Munuera
+16,Fri,12/13/2013,,Levante,2@1,Elche,,Ciutat de Valencia,Estrada Fern·ndez
+16,Sat,12/14/2013,,M·laga,1@0,Getafe,,La Rosaleda,¡Ålvarez Izquierdo
+16,Sat,12/14/2013,,Rayo Vallecano,0@2,Granada,,Estadio de Vallecas Teresa Rivero,MuÒiz Fern·ndez
+16,Sat,12/14/2013,,Osasuna,2@2,Real Madrid,,Reyno de Navarra,Clos GÛmez
+16,Sat,12/14/2013,,Barcelona,2@1,Villarreal,,Camp Nou,Iglesias Villanueva
+16,Sun,12/15/2013,,AtlÈtico Madrid,3@0,Valencia,,Vicente CalderÛn,Fern·ndez Borbal·n
+16,Sun,12/15/2013,,Real Sociedad,5@1,Betis,,Anoeta,Mateu Lahoz
+16,Sun,12/15/2013,,AlmerÌa,0@0,Espanyol,,Estadio Mediterr·neo,Del Cerro Grande
+16,Sun,12/15/2013,,Sevilla,1@1,Athletic Club,,RamÛn S·nchez Pizju·n,Undiano Mallenco
+16,Mon,12/16/2013,,Valladolid,3@0,Celta Vigo,,JosÈ Zorrilla,Teixeira Vitienes
+17,Fri,12/20/2013,,Elche,0@1,M·laga,,MartÌnez Valero,Del Cerro Grande
+17,Sat,12/21/2013,,Betis,0@1,AlmerÌa,,Benito VillamarÌn,MartÌnez Munuera
+17,Sat,12/21/2013,,AtlÈtico Madrid,3@2,Levante,,Vicente CalderÛn,Gonz·lez Gonz·lez
+17,Sat,12/21/2013,,Villarreal,1@2,Sevilla,,El Madrigal,Gil Manzano
+17,Sat,12/21/2013,,Granada,1@3,Real Sociedad,,Nuevo Los C·rmenes,Clos GÛmez
+17,Sun,12/22/2013,,Celta Vigo,1@1,Osasuna,,BalaÌdos,Delgado Ferreiro
+17,Sun,12/22/2013,,Getafe,2@5,Barcelona,,Coliseum Alfonso PÈrez,Undiano Mallenco
+17,Sun,12/22/2013,,Espanyol,4@2,Valladolid,,Cornell· - El Prat,Mateu Lahoz
+17,Sun,12/22/2013,,Valencia,2@3,Real Madrid,,Mestalla,Teixeira Vitienes
+17,Sun,12/22/2013,,Athletic Club,2@1,Rayo Vallecano,,San MamÈs,Prieto Iglesias
+18,Sat,1/4/2014,,M·laga,0@1,AtlÈtico Madrid,,La Rosaleda,Teixeira Vitienes
+18,Sat,1/4/2014,,Valladolid,0@0,Betis,,JosÈ Zorrilla,Velasco Carballo
+18,Sat,1/4/2014,,Valencia,2@0,Levante,,Mestalla,MuÒiz Fern·ndez
+18,Sat,1/4/2014,,AlmerÌa,3@0,Granada,,Estadio Mediterr·neo,Estrada Fern·ndez
+18,Sun,1/5/2014,,Barcelona,4@0,Elche,,Camp Nou,Fern·ndez Borbal·n
+18,Sun,1/5/2014,,Real Sociedad,2@0,Athletic Club,,Anoeta,PÈrez Montero
+18,Sun,1/5/2014,,Osasuna,1@0,Espanyol,,Reyno de Navarra,Iglesias Villanueva
+18,Sun,1/5/2014,,Sevilla,3@0,Getafe,,RamÛn S·nchez Pizju·n,Ayza G·mez
+18,Mon,1/6/2014,,Rayo Vallecano,2@5,Villarreal,,Estadio de Vallecas Teresa Rivero,Hern·ndez Hern·ndez
+18,Mon,1/6/2014,,Real Madrid,3@0,Celta Vigo,,Santiago BernabÈu,¡Ålvarez Izquierdo
+19,Fri,1/10/2014,,Granada,4@0,Valladolid,,Nuevo Los C·rmenes,Ayza G·mez
+19,Sat,1/11/2014,,Elche,1@1,Sevilla,,MartÌnez Valero,¡Ålvarez Izquierdo
+19,Sat,1/11/2014,,AtlÈtico Madrid,0@0,Barcelona,,Vicente CalderÛn,Mateu Lahoz
+19,Sat,1/11/2014,,Celta Vigo,2@1,Valencia,,BalaÌdos,Gonz·lez Gonz·lez
+19,Sat,1/11/2014,,Athletic Club,6@1,AlmerÌa,,San MamÈs,Gil Manzano
+19,Sun,1/12/2014,,Getafe,0@1,Rayo Vallecano,,Coliseum Alfonso PÈrez,Clos GÛmez
+19,Sun,1/12/2014,,Espanyol,0@1,Real Madrid,,Cornell· - El Prat,Teixeira Vitienes
+19,Sun,1/12/2014,,Levante,1@0,M·laga,,Ciutat de Valencia,Undiano Mallenco
+19,Sun,1/12/2014,,Betis,1@2,Osasuna,,Benito VillamarÌn,Teixeira Vitienes
+19,Mon,1/13/2014,,Villarreal,5@1,Real Sociedad,,El Madrigal,Velasco Carballo
+20,Fri,1/17/2014,,M·laga,0@0,Valencia,,La Rosaleda,Velasco Carballo
+20,Sat,1/18/2014,,Betis,0@5,Real Madrid,,Benito VillamarÌn,Iglesias Villanueva
+20,Sat,1/18/2014,,Elche,2@0,Rayo Vallecano,,MartÌnez Valero,PÈrez Montero
+20,Sat,1/18/2014,,Granada,0@0,Osasuna,,Nuevo Los C·rmenes,MartÌnez Munuera
+20,Sat,1/18/2014,,Espanyol,1@0,Celta Vigo,,Cornell· - El Prat,Prieto Iglesias
+20,Sun,1/19/2014,,Levante,1@1,Barcelona,,Ciutat de Valencia,Del Cerro Grande
+20,Sun,1/19/2014,,AtlÈtico Madrid,1@1,Sevilla,,Vicente CalderÛn,Hern·ndez Hern·ndez
+20,Sun,1/19/2014,,Villarreal,2@0,AlmerÌa,,El Madrigal,MuÒiz Fern·ndez
+20,Sun,1/19/2014,,Getafe,2@2,Real Sociedad,,Coliseum Alfonso PÈrez,Fern·ndez Borbal·n
+20,Mon,1/20/2014,,Athletic Club,4@2,Valladolid,,San MamÈs,Estrada Fern·ndez
+21,Fri,1/24/2014,,Celta Vigo,4@2,Betis,,BalaÌdos,Hern·ndez Hern·ndez
+21,Sat,1/25/2014,,Real Madrid,2@0,Granada,,Santiago BernabÈu,Gil Manzano
+21,Sat,1/25/2014,,Valencia,2@2,Espanyol,,Mestalla,Fern·ndez Borbal·n
+21,Sat,1/25/2014,,Sevilla,2@3,Levante,,RamÛn S·nchez Pizju·n,Teixeira Vitienes
+21,Sat,1/25/2014,,Valladolid,1@0,Villarreal,,JosÈ Zorrilla,Del Cerro Grande
+21,Sun,1/26/2014,,Barcelona,3@0,M·laga,,Camp Nou,Clos GÛmez
+21,Sun,1/26/2014,,Osasuna,1@5,Athletic Club,,Reyno de Navarra,Velasco Carballo
+21,Sun,1/26/2014,,AlmerÌa,1@0,Getafe,,Estadio Mediterr·neo,Prieto Iglesias
+21,Sun,1/26/2014,,Rayo Vallecano,2@4,AtlÈtico Madrid,,Estadio de Vallecas Teresa Rivero,Undiano Mallenco
+21,Mon,1/27/2014,,Real Sociedad,4@0,Elche,,Anoeta,Iglesias Villanueva
+22,Fri,1/31/2014,,Granada,1@2,Celta Vigo,,Nuevo Los C·rmenes,Mateu Lahoz
+22,Sat,2/1/2014,,Getafe,0@0,Valladolid,,Coliseum Alfonso PÈrez,MartÌnez Munuera
+22,Sat,2/1/2014,,M·laga,3@2,Sevilla,,La Rosaleda,Gonz·lez Gonz·lez
+22,Sat,2/1/2014,,Barcelona,2@3,Valencia,,Camp Nou,PÈrez Montero
+22,Sat,2/1/2014,,Levante,0@0,Rayo Vallecano,,Ciutat de Valencia,Iglesias Villanueva
+22,Sun,2/2/2014,,Betis,2@0,Espanyol,,Benito VillamarÌn,MuÒiz Fern·ndez
+22,Sun,2/2/2014,,AtlÈtico Madrid,4@0,Real Sociedad,,Vicente CalderÛn,Estrada Fern·ndez
+22,Sun,2/2/2014,,Elche,1@0,AlmerÌa,,MartÌnez Valero,Teixeira Vitienes
+22,Sun,2/2/2014,,Athletic Club,1@1,Real Madrid,,San MamÈs,Ayza G·mez
+22,Mon,2/3/2014,,Villarreal,3@1,Osasuna,,El Madrigal,¡Ålvarez Izquierdo
+23,Fri,2/7/2014,,Espanyol,1@0,Granada,,Cornell· - El Prat,Iglesias Villanueva
+23,Sat,2/8/2014,,Valencia,5@0,Betis,,Mestalla,Estrada Fern·ndez
+23,Sat,2/8/2014,,Real Madrid,4@2,Villarreal,,Santiago BernabÈu,Gonz·lez Gonz·lez
+23,Sat,2/8/2014,,AlmerÌa,2@0,AtlÈtico Madrid,,Estadio Mediterr·neo,Teixeira Vitienes
+23,Sat,2/8/2014,,Rayo Vallecano,4@1,M·laga,,Estadio de Vallecas Teresa Rivero,Mateu Lahoz
+23,Sun,2/9/2014,,Osasuna,2@0,Getafe,,Reyno de Navarra,MuÒiz Fern·ndez
+23,Sun,2/9/2014,,Valladolid,2@2,Elche,,JosÈ Zorrilla,Delgado Ferreiro
+23,Sun,2/9/2014,,Sevilla,1@4,Barcelona,,RamÛn S·nchez Pizju·n,Teixeira Vitienes
+23,Sun,2/9/2014,,Real Sociedad,0@0,Levante,,Anoeta,Clos GÛmez
+23,Mon,2/10/2014,,Celta Vigo,0@0,Athletic Club,,BalaÌdos,Del Cerro Grande
+24,Fri,2/14/2014,,Elche,0@0,Osasuna,,MartÌnez Valero,Hern·ndez Hern·ndez
+24,Sat,2/15/2014,,Villarreal,0@2,Celta Vigo,,El Madrigal,Fern·ndez Borbal·n
+24,Sat,2/15/2014,,Barcelona,6@0,Rayo Vallecano,,Camp Nou,MartÌnez Munuera
+24,Sat,2/15/2014,,AtlÈtico Madrid,3@0,Valladolid,,Vicente CalderÛn,Prieto Iglesias
+24,Sat,2/15/2014,,Levante,1@0,AlmerÌa,,Ciutat de Valencia,Velasco Carballo
+24,Sun,2/16/2014,,Sevilla,0@0,Valencia,,RamÛn S·nchez Pizju·n,¡Ålvarez Izquierdo
+24,Sun,2/16/2014,,Granada,1@0,Betis,,Nuevo Los C·rmenes,Teixeira Vitienes
+24,Sun,2/16/2014,,Getafe,0@3,Real Madrid,,Coliseum Alfonso PÈrez,PÈrez Montero
+24,Sun,2/16/2014,,Athletic Club,1@2,Espanyol,,San MamÈs,Undiano Mallenco
+24,Mon,2/17/2014,,M·laga,0@1,Real Sociedad,,La Rosaleda,Del Cerro Grande
+25,Fri,2/21/2014,,Valladolid,1@1,Levante,,JosÈ Zorrilla,Estrada Fern·ndez
+25,Sat,2/22/2014,,AlmerÌa,0@0,M·laga,,Estadio Mediterr·neo,MuÒiz Fern·ndez
+25,Sat,2/22/2014,,Real Madrid,3@0,Elche,,Santiago BernabÈu,Prieto Iglesias
+25,Sat,2/22/2014,,Real Sociedad,3@1,Barcelona,,Anoeta,Fern·ndez Borbal·n
+25,Sat,2/22/2014,,Celta Vigo,1@1,Getafe,,BalaÌdos,Clos GÛmez
+25,Sun,2/23/2014,,Rayo Vallecano,0@1,Sevilla,,Estadio de Vallecas Teresa Rivero,Delgado Ferreiro
+25,Sun,2/23/2014,,Osasuna,3@0,AtlÈtico Madrid,,Reyno de Navarra,MartÌnez Munuera
+25,Sun,2/23/2014,,Betis,0@2,Athletic Club,,Benito VillamarÌn,Gil Manzano
+25,Sun,2/23/2014,,Valencia,2@1,Granada,,Mestalla,Gonz·lez Gonz·lez
+25,Mon,2/24/2014,,Espanyol,1@2,Villarreal,,Cornell· - El Prat,Teixeira Vitienes
+26,Fri,2/28/2014,,Athletic Club,4@0,Granada,,San MamÈs,¡Ålvarez Izquierdo
+26,Sat,3/1/2014,,Elche,1@0,Celta Vigo,,MartÌnez Valero,Velasco Carballo
+26,Sat,3/1/2014,,Getafe,0@0,Espanyol,,Coliseum Alfonso PÈrez,Mateu Lahoz
+26,Sat,3/1/2014,,M·laga,1@1,Valladolid,,La Rosaleda,Undiano Mallenco
+26,Sat,3/1/2014,,Levante,2@0,Osasuna,,Ciutat de Valencia,PÈrez Montero
+26,Sun,3/2/2014,,Barcelona,4@1,AlmerÌa,,Camp Nou,Del Cerro Grande
+26,Sun,3/2/2014,,AtlÈtico Madrid,2@2,Real Madrid,,Vicente CalderÛn,Delgado Ferreiro
+26,Sun,3/2/2014,,Rayo Vallecano,1@0,Valencia,,Estadio de Vallecas Teresa Rivero,Clos GÛmez
+26,Sun,3/2/2014,,Sevilla,1@0,Real Sociedad,,RamÛn S·nchez Pizju·n,Hern·ndez Hern·ndez
+26,Sun,3/2/2014,,Villarreal,1@1,Betis,,El Madrigal,Iglesias Villanueva
+27,Sat,3/8/2014,,Betis,2@0,Getafe,,Benito VillamarÌn,Undiano Mallenco
+27,Sat,3/8/2014,,Celta Vigo,0@2,AtlÈtico Madrid,,BalaÌdos,Mateu Lahoz
+27,Sat,3/8/2014,,Valladolid,1@0,Barcelona,,JosÈ Zorrilla,Hern·ndez Hern·ndez
+27,Sat,3/8/2014,,Granada,2@0,Villarreal,,Nuevo Los C·rmenes,MuÒiz Fern·ndez
+27,Sun,3/9/2014,,Real Madrid,3@0,Levante,,Santiago BernabÈu,Iglesias Villanueva
+27,Sun,3/9/2014,,Espanyol,3@1,Elche,,Cornell· - El Prat,Del Cerro Grande
+27,Sun,3/9/2014,,AlmerÌa,1@3,Sevilla,,Estadio Mediterr·neo,Clos GÛmez
+27,Sun,3/9/2014,,Valencia,1@1,Athletic Club,,Mestalla,Fern·ndez Borbal·n
+27,Mon,3/10/2014,,Real Sociedad,2@3,Rayo Vallecano,,Anoeta,¡Ålvarez Izquierdo
+27,Mon,3/10/2014,,Osasuna,0@2,M·laga,,Reyno de Navarra,Teixeira Vitienes
+28,Fri,3/14/2014,,Getafe,3@3,Granada,,Coliseum Alfonso PÈrez,Ayza G·mez
+28,Sat,3/15/2014,,Rayo Vallecano,3@1,AlmerÌa,,Estadio de Vallecas Teresa Rivero,Prieto Iglesias
+28,Sat,3/15/2014,,AtlÈtico Madrid,1@0,Espanyol,,Vicente CalderÛn,PÈrez Montero
+28,Sat,3/15/2014,,M·laga,0@1,Real Madrid,,La Rosaleda,MartÌnez Munuera
+28,Sat,3/15/2014,,Levante,0@1,Celta Vigo,,Ciutat de Valencia,Hern·ndez Hern·ndez
+28,Sun,3/16/2014,,Elche,0@0,Betis,,MartÌnez Valero,¡Ålvarez Izquierdo
+28,Sun,3/16/2014,,Barcelona,7@0,Osasuna,,Camp Nou,Teixeira Vitienes
+28,Sun,3/16/2014,,Sevilla,4@1,Valladolid,,RamÛn S·nchez Pizju·n,Velasco Carballo
+28,Sun,3/16/2014,,Real Sociedad,1@0,Valencia,,Anoeta,Estrada Fern·ndez
+28,Mon,3/17/2014,,Villarreal,1@1,Athletic Club,,El Madrigal,Gonz·lez Gonz·lez
+29,Fri,3/21/2014,,Celta Vigo,0@2,M·laga,,BalaÌdos,Gil Manzano
+29,Sat,3/22/2014,,Granada,1@0,Elche,,Nuevo Los C·rmenes,Hern·ndez Hern·ndez
+29,Sat,3/22/2014,,Espanyol,0@0,Levante,,Cornell· - El Prat,Fern·ndez Borbal·n
+29,Sat,3/22/2014,,Athletic Club,1@0,Getafe,,San MamÈs,Teixeira Vitienes
+29,Sat,3/22/2014,,Valladolid,1@1,Rayo Vallecano,,JosÈ Zorrilla,Mateu Lahoz
+29,Sun,3/23/2014,,Valencia,2@1,Villarreal,,Mestalla,PÈrez Montero
+29,Sun,3/23/2014,,Real Madrid,3@4,Barcelona,,Santiago BernabÈu,Undiano Mallenco
+29,Sun,3/23/2014,,Betis,0@2,AtlÈtico Madrid,,Benito VillamarÌn,Estrada Fern·ndez
+29,Sun,3/23/2014,,Osasuna,1@2,Sevilla,,Reyno de Navarra,¡Ålvarez Izquierdo
+29,Mon,3/24/2014,,AlmerÌa,4@3,Real Sociedad,,Estadio Mediterr·neo,Ayza G·mez
+30,Tue,3/25/2014,,M·laga,1@2,Espanyol,,La Rosaleda,Delgado Ferreiro
+30,Tue,3/25/2014,,Elche,0@0,Athletic Club,,MartÌnez Valero,Prieto Iglesias
+30,Wed,3/26/2014,,Sevilla,2@1,Real Madrid,,RamÛn S·nchez Pizju·n,Gonz·lez Gonz·lez
+30,Wed,3/26/2014,,Barcelona,3@0,Celta Vigo,,Camp Nou,Ayza G·mez
+30,Wed,3/26/2014,,AtlÈtico Madrid,1@0,Granada,,Vicente CalderÛn,MartÌnez Munuera
+30,Wed,3/26/2014,,Rayo Vallecano,1@0,Osasuna,,Estadio de Vallecas Teresa Rivero,Iglesias Villanueva
+30,Thu,3/27/2014,,Levante,1@3,Betis,,Ciutat de Valencia,MuÒiz Fern·ndez
+30,Thu,3/27/2014,,Getafe,0@1,Villarreal,,Coliseum Alfonso PÈrez,Clos GÛmez
+30,Thu,3/27/2014,,Real Sociedad,1@0,Valladolid,,Anoeta,Del Cerro Grande
+30,Thu,3/27/2014,,AlmerÌa,2@2,Valencia,,Estadio Mediterr·neo,Teixeira Vitienes
+31,Sat,3/29/2014,,Celta Vigo,1@0,Sevilla,,BalaÌdos,MartÌnez Munuera
+31,Sat,3/29/2014,,Athletic Club,1@2,AtlÈtico Madrid,,San MamÈs,Teixeira Vitienes
+31,Sat,3/29/2014,,Espanyol,0@1,Barcelona,,Cornell· - El Prat,Clos GÛmez
+31,Sat,3/29/2014,,Real Madrid,5@0,Rayo Vallecano,,Santiago BernabÈu,Delgado Ferreiro
+31,Sun,3/30/2014,,Valencia,1@3,Getafe,,Mestalla,Gil Manzano
+31,Sun,3/30/2014,,Villarreal,1@1,Elche,,El Madrigal,Undiano Mallenco
+31,Sun,3/30/2014,,Valladolid,1@0,AlmerÌa,,JosÈ Zorrilla,Teixeira Vitienes
+31,Sun,3/30/2014,,Osasuna,1@1,Real Sociedad,,Reyno de Navarra,Fern·ndez Borbal·n
+31,Mon,3/31/2014,,Granada,0@2,Levante,,Nuevo Los C·rmenes,¡Ålvarez Izquierdo
+31,Mon,3/31/2014,,Betis,1@2,M·laga,,Benito VillamarÌn,Mateu Lahoz
+32,Fri,4/4/2014,,AlmerÌa,1@2,Osasuna,,Estadio Mediterr·neo,Mateu Lahoz
+32,Sat,4/5/2014,,AtlÈtico Madrid,1@0,Villarreal,,Vicente CalderÛn,Gil Manzano
+32,Sat,4/5/2014,,Real Sociedad,0@4,Real Madrid,,Anoeta,Hern·ndez Hern·ndez
+32,Sat,4/5/2014,,Barcelona,3@1,Betis,,Camp Nou,Prieto Iglesias
+32,Sat,4/5/2014,,Rayo Vallecano,3@0,Celta Vigo,,Estadio de Vallecas Teresa Rivero,PÈrez Montero
+32,Sun,4/6/2014,,Elche,1@0,Getafe,,MartÌnez Valero,Iglesias Villanueva
+32,Sun,4/6/2014,,M·laga,4@1,Granada,,La Rosaleda,Teixeira Vitienes
+32,Sun,4/6/2014,,Sevilla,4@1,Espanyol,,RamÛn S·nchez Pizju·n,Del Cerro Grande
+32,Sun,4/6/2014,,Valladolid,0@0,Valencia,,JosÈ Zorrilla,MuÒiz Fern·ndez
+32,Mon,4/7/2014,,Levante,1@2,Athletic Club,,Ciutat de Valencia,Estrada Fern·ndez
+33,Fri,4/11/2014,,Osasuna,0@0,Valladolid,,Reyno de Navarra,Clos GÛmez
+33,Sat,4/12/2014,,Real Madrid,4@0,AlmerÌa,,Santiago BernabÈu,MartÌnez Munuera
+33,Sat,4/12/2014,,Celta Vigo,2@2,Real Sociedad,,BalaÌdos,Estrada Fern·ndez
+33,Sat,4/12/2014,,Villarreal,1@0,Levante,,El Madrigal,Hern·ndez Hern·ndez
+33,Sat,4/12/2014,,Granada,1@0,Barcelona,,Nuevo Los C·rmenes,Delgado Ferreiro
+33,Sun,4/13/2014,,Getafe,0@2,AtlÈtico Madrid,,Coliseum Alfonso PÈrez,Fern·ndez Borbal·n
+33,Sun,4/13/2014,,Betis,0@2,Sevilla,,Benito VillamarÌn,Velasco Carballo
+33,Sun,4/13/2014,,Valencia,2@1,Elche,,Mestalla,¡Ålvarez Izquierdo
+33,Sun,4/13/2014,,Espanyol,2@2,Rayo Vallecano,,Cornell· - El Prat,Undiano Mallenco
+33,Mon,4/14/2014,,Athletic Club,3@0,M·laga,,San MamÈs,Gonz·lez Gonz·lez
+34,Fri,4/18/2014,,AtlÈtico Madrid,2@0,Elche,,Vicente CalderÛn,Clos GÛmez
+34,Sat,4/19/2014,,Levante,0@0,Getafe,,Ciutat de Valencia,Teixeira Vitienes
+34,Sat,4/19/2014,,Real Sociedad,2@1,Espanyol,,Anoeta,Velasco Carballo
+34,Sat,4/19/2014,,Osasuna,1@1,Valencia,,Reyno de Navarra,Estrada Fern·ndez
+34,Sun,4/20/2014,,Barcelona,2@1,Athletic Club,,Camp Nou,MartÌnez Munuera
+34,Sun,4/20/2014,,AlmerÌa,2@4,Celta Vigo,,Estadio Mediterr·neo,MuÒiz Fern·ndez
+34,Sun,4/20/2014,,Rayo Vallecano,3@1,Betis,,Estadio de Vallecas Teresa Rivero,Hern·ndez Hern·ndez
+34,Sun,4/20/2014,,Sevilla,4@0,Granada,,RamÛn S·nchez Pizju·n,Teixeira Vitienes
+34,Mon,4/21/2014,,M·laga,2@0,Villarreal,,La Rosaleda,¡Ålvarez Izquierdo
+35,Fri,4/25/2014,,Elche,1@1,Levante,,MartÌnez Valero,Gil Manzano
+35,Sat,4/26/2014,,Betis,0@1,Real Sociedad,,Benito VillamarÌn,Ayza G·mez
+35,Sat,4/26/2014,,Granada,0@3,Rayo Vallecano,,Nuevo Los C·rmenes,Mateu Lahoz
+35,Sat,4/26/2014,,Real Madrid,4@0,Osasuna,,Santiago BernabÈu,Teixeira Vitienes
+35,Sat,4/26/2014,,Getafe,1@0,M·laga,,Coliseum Alfonso PÈrez,MuÒiz Fern·ndez
+35,Sun,4/27/2014,,Espanyol,1@2,AlmerÌa,,Cornell· - El Prat,Hern·ndez Hern·ndez
+35,Sun,4/27/2014,,Villarreal,2@3,Barcelona,,El Madrigal,Fern·ndez Borbal·n
+35,Sun,4/27/2014,,Valencia,0@1,AtlÈtico Madrid,,Mestalla,Undiano Mallenco
+35,Sun,4/27/2014,,Athletic Club,3@1,Sevilla,,San MamÈs,¡Ålvarez Izquierdo
+35,Mon,4/28/2014,,Celta Vigo,4@1,Valladolid,,BalaÌdos,Teixeira Vitienes
+36,Fri,5/2/2014,,Rayo Vallecano,0@3,Athletic Club,,Estadio de Vallecas Teresa Rivero,Fern·ndez Borbal·n
+36,Sat,5/3/2014,,Osasuna,0@2,Celta Vigo,,Reyno de Navarra,Gil Manzano
+36,Sat,5/3/2014,,M·laga,0@1,Elche,,La Rosaleda,Estrada Fern·ndez
+36,Sat,5/3/2014,,Barcelona,2@2,Getafe,,Camp Nou,Teixeira Vitienes
+36,Sat,5/3/2014,,Valladolid,1@0,Espanyol,,JosÈ Zorrilla,MuÒiz Fern·ndez
+36,Sun,5/4/2014,,Sevilla,0@0,Villarreal,,RamÛn S·nchez Pizju·n,Prieto Iglesias
+36,Sun,5/4/2014,,Real Madrid,2@2,Valencia,,Santiago BernabÈu,Clos GÛmez
+36,Sun,5/4/2014,,AlmerÌa,3@2,Betis,,Estadio Mediterr·neo,Iglesias Villanueva
+36,Sun,5/4/2014,,Levante,2@0,AtlÈtico Madrid,,Ciutat de Valencia,Gonz·lez Gonz·lez
+36,Mon,5/5/2014,,Real Sociedad,1@1,Granada,,Anoeta,Teixeira Vitienes
+34,Wed,5/7/2014,,Valladolid,1@1,Real Madrid,,JosÈ Zorrilla,Gil Manzano
+37,Sat,5/10/2014,,Villarreal,4@0,Rayo Vallecano,,El Madrigal,Gonz·lez Gonz·lez
+37,Sat,5/10/2014,,Levante,2@0,Valencia,,Ciutat de Valencia,Velasco Carballo
+37,Sun,5/11/2014,,Athletic Club,1@1,Real Sociedad,,San MamÈs,Del Cerro Grande
+37,Sun,5/11/2014,,Espanyol,1@1,Osasuna,,Cornell· - El Prat,Iglesias Villanueva
+37,Sun,5/11/2014,,AtlÈtico Madrid,1@1,M·laga,,Vicente CalderÛn,Teixeira Vitienes
+37,Sun,5/11/2014,,Betis,4@3,Valladolid,,Benito VillamarÌn,¡Ålvarez Izquierdo
+37,Sun,5/11/2014,,Granada,0@2,AlmerÌa,,Nuevo Los C·rmenes,Gil Manzano
+37,Sun,5/11/2014,,Celta Vigo,2@0,Real Madrid,,BalaÌdos,Hern·ndez Hern·ndez
+37,Sun,5/11/2014,,Elche,0@0,Barcelona,,MartÌnez Valero,Teixeira Vitienes
+37,Sun,5/11/2014,,Getafe,1@0,Sevilla,,Coliseum Alfonso PÈrez,Estrada Fern·ndez
+38,Fri,5/16/2014,,M·laga,1@0,Levante,,La Rosaleda,Prieto Iglesias
+38,Sat,5/17/2014,,Barcelona,1@1,AtlÈtico Madrid,,Camp Nou,Mateu Lahoz
+38,Sat,5/17/2014,,Real Madrid,3@1,Espanyol,,Santiago BernabÈu,Fern·ndez Borbal·n
+38,Sat,5/17/2014,,Valencia,2@1,Celta Vigo,,Mestalla,Del Cerro Grande
+38,Sun,5/18/2014,,Osasuna,2@1,Betis,,Reyno de Navarra,MartÌnez Munuera
+38,Sun,5/18/2014,,Sevilla,3@1,Elche,,RamÛn S·nchez Pizju·n,Hern·ndez Hern·ndez
+38,Sun,5/18/2014,,Rayo Vallecano,1@2,Getafe,,Estadio de Vallecas Teresa Rivero,Gil Manzano
+38,Sun,5/18/2014,,Valladolid,0@1,Granada,,JosÈ Zorrilla,Clos GÛmez
+38,Sun,5/18/2014,,Real Sociedad,1@2,Villarreal,,Anoeta,Velasco Carballo
+38,Sun,5/18/2014,,AlmerÌa,0@0,Athletic Club,,Estadio Mediterr·neo,Estrada Fern·ndez

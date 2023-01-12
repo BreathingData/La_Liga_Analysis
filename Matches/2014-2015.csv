@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee
+1,Sat,8/23/2014,19:00 (17:00),M·laga,1@0,Athletic Club,"24,500",Estadio La Rosaleda,Antonio MatÈu Lahoz
+1,Sat,8/23/2014,21:00 (19:00),Sevilla,1@1,Valencia,"29,352",Estadio RamÛn S·nchez Pizju·n,Carlos del Cerro
+1,Sat,8/23/2014,21:00 (19:00),Granada,2@1,La CoruÒa,"14,800",Estadio Nuevo Los C·rmenes,IÒaki Bikandi
+1,Sat,8/23/2014,23:00 (21:00),AlmerÌa,1@1,Espanyol,"12,000",Estadio de los Juegos Mediterr·neos,Alejandro Hern·ndez
+1,Sun,8/24/2014,19:00 (17:00),Eibar,1@0,Real Sociedad,"5,173",Estadio Municipal de Ipur˙a,Alfonso ¡Ålvarez
+1,Sun,8/24/2014,21:00 (19:00),Barcelona,3@0,Elche,"68,105",Camp Nou,Fernando Teixeira
+1,Sun,8/24/2014,21:00 (19:00),Celta Vigo,3@1,Getafe,"20,416",Estadio de BalaÌdos,Mario Melero
+1,Sun,8/24/2014,23:00 (21:00),Levante,0@2,Villarreal,"19,000",Estadio Ciudad de Valencia,David Fern·ndez
+1,Mon,8/25/2014,20:00 (18:00),Real Madrid,2@0,CÛrdoba,"70,356",Estadio Santiago BernabÈu,Jes˙s Gil
+1,Mon,8/25/2014,22:00 (20:00),Rayo Vallecano,0@0,AtlÈtico Madrid,"11,070",Estadio del Rayo Vallecano,Carlos Clos GÛmez
+2,Fri,8/29/2014,20:00 (18:00),Getafe,1@0,AlmerÌa,"6,000",Coliseum Alfonso PÈrez,Santiago Jaime
+2,Fri,8/29/2014,22:00 (20:00),Valencia,3@0,M·laga,"41,550",Estadio de Mestalla,Javier Estrada
+2,Sat,8/30/2014,19:00 (17:00),Athletic Club,3@0,Levante,"48,300",San MamÈs,Pedro PÈrez
+2,Sat,8/30/2014,19:00 (17:00),CÛrdoba,1@1,Celta Vigo,"15,982",Estadio Nuevo Arc·ngel,JosÈ Teixeira
+2,Sat,8/30/2014,21:00 (19:00),AtlÈtico Madrid,2@1,Eibar,"48,000",Estadio Vicente CalderÛn,Eduardo Prieto
+2,Sat,8/30/2014,23:00 (21:00),Espanyol,1@2,Sevilla,"16,490",RCDE Stadium,Alberto Undiano
+2,Sun,8/31/2014,19:00 (17:00),Villarreal,0@1,Barcelona,"21,200",Estadio de la Cer·mica,Carlos Velasco
+2,Sun,8/31/2014,21:00 (19:00),La CoruÒa,2@2,Rayo Vallecano,"18,054",Estadio Municipal de Riazor,JosÈ Gonz·lez
+2,Sun,8/31/2014,21:00 (19:00),Real Sociedad,4@2,Real Madrid,"27,879",Estadio Municipal de Anoeta,Juan MartÌnez
+2,Sun,8/31/2014,23:00 (21:00),Elche,1@1,Granada,"20,025",Estadio Manuel MartÌnez Valero,Ignacio Iglesias
+3,Fri,9/12/2014,21:00 (19:00),AlmerÌa,1@1,CÛrdoba,"10,682",Estadio de los Juegos Mediterr·neos,Fernando Teixeira
+3,Sat,9/13/2014,16:00 (14:00),Barcelona,2@0,Athletic Club,"80,181",Camp Nou,David Fern·ndez
+3,Sat,9/13/2014,18:00 (16:00),M·laga,0@0,Levante,"20,000",Estadio La Rosaleda,Jes˙s Gil
+3,Sat,9/13/2014,20:00 (18:00),Real Madrid,1@2,AtlÈtico Madrid,"85,253",Estadio Santiago BernabÈu,Antonio MatÈu Lahoz
+3,Sat,9/13/2014,22:00 (20:00),Celta Vigo,2@2,Real Sociedad,"19,385",Estadio de BalaÌdos,Alejandro Fern·ndez
+3,Sun,9/14/2014,12:00 (10:00),Rayo Vallecano,2@3,Elche,"9,521",Estadio del Rayo Vallecano,IÒaki Bikandi
+3,Sun,9/14/2014,17:00 (15:00),Valencia,3@1,Espanyol,"38,500",Estadio de Mestalla,Carlos Clos GÛmez
+3,Sun,9/14/2014,19:00 (17:00),Sevilla,2@0,Getafe,"34,600",Estadio RamÛn S·nchez Pizju·n,Alfonso ¡Ålvarez
+3,Sun,9/14/2014,21:00 (19:00),Granada,0@0,Villarreal,"21,000",Estadio Nuevo Los C·rmenes,Carlos del Cerro
+3,Mon,9/15/2014,20:45 (18:45),Eibar,0@1,La CoruÒa,"4,522",Estadio Municipal de Ipur˙a,Mario Melero
+4,Fri,9/19/2014,21:00 (19:00),Elche,0@2,Eibar,"22,474",Estadio Manuel MartÌnez Valero,Santiago Jaime
+4,Sat,9/20/2014,16:00 (14:00),La CoruÒa,2@8,Real Madrid,"27,685",Estadio Municipal de Riazor,Pedro PÈrez
+4,Sat,9/20/2014,18:00 (16:00),Athletic Club,0@1,Granada,"33,000",San MamÈs,JosÈ Teixeira
+4,Sat,9/20/2014,20:00 (18:00),AtlÈtico Madrid,2@2,Celta Vigo,"47,000",Estadio Vicente CalderÛn,Juan MartÌnez
+4,Sat,9/20/2014,22:00 (20:00),Espanyol,2@2,M·laga,"12,600",RCDE Stadium,Ignacio Iglesias
+4,Sun,9/21/2014,12:00 (10:00),Real Sociedad,1@2,AlmerÌa,"18,000",Estadio Municipal de Anoeta,Javier Estrada
+4,Sun,9/21/2014,17:00 (15:00),Villarreal,4@2,Rayo Vallecano,"15,050",Estadio de la Cer·mica,Eduardo Prieto
+4,Sun,9/21/2014,19:00 (17:00),CÛrdoba,1@3,Sevilla,"17,023",Estadio Nuevo Arc·ngel,Carlos Velasco
+4,Sun,9/21/2014,21:00 (19:00),Levante,0@5,Barcelona,"22,177",Estadio Ciudad de Valencia,JosÈ Gonz·lez
+4,Mon,9/22/2014,20:45 (18:45),Getafe,0@3,Valencia,"6,000",Coliseum Alfonso PÈrez,Alberto Undiano
+5,Tue,9/23/2014,20:00 (18:00),Real Madrid,5@1,Elche,"63,634",Estadio Santiago BernabÈu,Carlos Clos GÛmez
+5,Tue,9/23/2014,22:00 (20:00),Celta Vigo,2@1,La CoruÒa,"23,811",Estadio de BalaÌdos,Carlos del Cerro
+5,Wed,9/24/2014,20:00 (18:00),Eibar,1@1,Villarreal,"4,231",Estadio Municipal de Ipur˙a,Fernando Teixeira
+5,Wed,9/24/2014,20:00 (18:00),AlmerÌa,0@1,AtlÈtico Madrid,"11,863",Estadio de los Juegos Mediterr·neos,Jes˙s Gil
+5,Wed,9/24/2014,20:00 (18:00),Rayo Vallecano,2@1,Athletic Club,"11,040",Estadio del Rayo Vallecano,Mario Melero
+5,Wed,9/24/2014,22:00 (20:00),Sevilla,1@0,Real Sociedad,"29,456",Estadio RamÛn S·nchez Pizju·n,Antonio MatÈu Lahoz
+5,Wed,9/24/2014,22:00 (20:00),M·laga,0@0,Barcelona,"24,820",Estadio La Rosaleda,Alejandro Hern·ndez
+5,Wed,9/24/2014,22:00 (20:00),Granada,0@1,Levante,"15,731",Estadio Nuevo Los C·rmenes,Alfonso ¡Ålvarez
+5,Thu,9/25/2014,20:00 (18:00),Espanyol,2@0,Getafe,"15,000",RCDE Stadium,David Fern·ndez
+5,Thu,9/25/2014,22:00 (20:00),Valencia,3@0,CÛrdoba,"36,000",Estadio de Mestalla,IÒaki Bikandi
+6,Fri,9/26/2014,21:00 (19:00),Elche,0@1,Celta Vigo,"20,852",Estadio Manuel MartÌnez Valero,Pedro PÈrez
+6,Sat,9/27/2014,16:00 (14:00),Villarreal,0@2,Real Madrid,"22,146",Estadio de la Cer·mica,Alberto Undiano
+6,Sat,9/27/2014,18:00 (16:00),Barcelona,6@0,Granada,"72,596",Camp Nou,Juan MartÌnez
+6,Sat,9/27/2014,20:00 (18:00),AtlÈtico Madrid,4@0,Sevilla,"52,000",Estadio Vicente CalderÛn,JosÈ Gonz·lez
+6,Sat,9/27/2014,22:00 (20:00),Athletic Club,0@0,Eibar,"45,000",San MamÈs,Carlos Velasco
+6,Sat,9/27/2014,22:00 (20:00),Levante,0@2,Rayo Vallecano,"18,000",Estadio Ciudad de Valencia,Javier Estrada
+6,Sun,9/28/2014,12:00 (10:00),Getafe,1@0,M·laga,"5,500",Coliseum Alfonso PÈrez,Eduardo Prieto
+6,Sun,9/28/2014,17:00 (15:00),La CoruÒa,0@1,AlmerÌa,"18,000",Estadio Municipal de Riazor,JosÈ Teixeira
+6,Sun,9/28/2014,19:00 (17:00),Real Sociedad,1@1,Valencia,"25,168",Estadio Municipal de Anoeta,Ignacio Iglesias
+6,Sun,9/28/2014,21:00 (19:00),CÛrdoba,0@0,Espanyol,"24,000",Estadio Nuevo Arc·ngel,Santiago Jaime
+7,Fri,10/3/2014,21:00 (19:00),Getafe,1@1,CÛrdoba,"9,000",Coliseum Alfonso PÈrez,Juan MartÌnez
+7,Sat,10/4/2014,16:00 (14:00),Valencia,3@1,AtlÈtico Madrid,"44,000",Estadio de Mestalla,Fernando Teixeira
+7,Sat,10/4/2014,18:00 (16:00),Rayo Vallecano,0@2,Barcelona,"14,070",Estadio del Rayo Vallecano,Antonio MatÈu Lahoz
+7,Sat,10/4/2014,20:00 (18:00),Eibar,3@3,Levante,"4,265",Estadio Municipal de Ipur˙a,Alberto Undiano
+7,Sat,10/4/2014,22:00 (20:00),AlmerÌa,2@2,Elche,"9,000",Estadio de los Juegos Mediterr·neos,Carlos del Cerro
+7,Sat,10/4/2014,22:00 (20:00),M·laga,2@1,Granada,"19,000",Estadio La Rosaleda,Carlos Velasco
+7,Sun,10/5/2014,12:00 (10:00),Sevilla,4@1,La CoruÒa,"31,000",Estadio RamÛn S·nchez Pizju·n,Jes˙s Gil
+7,Sun,10/5/2014,17:00 (15:00),Celta Vigo,1@3,Villarreal,"23,000",Estadio de BalaÌdos,Alfonso ¡Ålvarez
+7,Sun,10/5/2014,19:00 (17:00),Espanyol,2@0,Real Sociedad,"18,326",RCDE Stadium,Mario Melero
+7,Sun,10/5/2014,21:00 (19:00),Real Madrid,5@0,Athletic Club,"77,987",Estadio Santiago BernabÈu,Alejandro Hern·ndez
+8,Fri,10/17/2014,21:00 (19:00),Granada,0@1,Rayo Vallecano,"19,000",Estadio Nuevo Los C·rmenes,Santiago Jaime
+8,Sat,10/18/2014,16:00 (14:00),Levante,0@5,Real Madrid,"230,506",Estadio Ciudad de Valencia,Ignacio Iglesias
+8,Sat,10/18/2014,18:00 (16:00),Athletic Club,1@1,Celta Vigo,"35,600",San MamÈs,David Fern·ndez
+8,Sat,10/18/2014,20:00 (18:00),Barcelona,3@0,Eibar,"75,546",Camp Nou,JosÈ Teixeira
+8,Sat,10/18/2014,22:00 (20:00),CÛrdoba,1@2,M·laga,"17,000",Estadio Nuevo Arc·ngel,JosÈ Gonz·lez
+8,Sun,10/19/2014,12:00 (10:00),AtlÈtico Madrid,2@0,Espanyol,"54,069",Estadio Vicente CalderÛn,IÒaki Bikandi
+8,Sun,10/19/2014,17:00 (15:00),La CoruÒa,3@0,Valencia,"21,908",Estadio Municipal de Riazor,Javier Estrada
+8,Sun,10/19/2014,19:00 (17:00),Elche,0@2,Sevilla,"26,059",Estadio Manuel MartÌnez Valero,Eduardo Prieto
+8,Sun,10/19/2014,21:00 (19:00),Villarreal,2@0,AlmerÌa,"19,000",Estadio de la Cer·mica,Carlos Clos GÛmez
+8,Mon,10/20/2014,20:45 (18:45),Real Sociedad,1@2,Getafe,"19,098",Estadio Municipal de Anoeta,Pedro PÈrez
+9,Fri,10/24/2014,21:00 (19:00),Celta Vigo,3@0,Levante,"19,231",Estadio de BalaÌdos,Fernando Teixeira
+9,Sat,10/25/2014,16:00 (14:00),AlmerÌa,0@1,Athletic Club,"10,000",Estadio de los Juegos Mediterr·neos,Juan MartÌnez
+9,Sat,10/25/2014,18:00 (16:00),Real Madrid,3@1,Barcelona,"84,000",Estadio Santiago BernabÈu,Jes˙s Gil
+9,Sat,10/25/2014,20:00 (18:00),Valencia,3@1,Elche,"42,783",Estadio de Mestalla,Alberto Undiano
+9,Sat,10/25/2014,22:00 (20:00),CÛrdoba,1@1,Real Sociedad,"15,712",Estadio Nuevo Arc·ngel,Carlos del Cerro
+9,Sat,10/25/2014,22:00 (20:00),Eibar,1@1,Granada,"4,838",Estadio Municipal de Ipur˙a,Antonio MatÈu Lahoz
+9,Sun,10/26/2014,12:00 (11:00),M·laga,4@0,Rayo Vallecano,"21,800",Estadio La Rosaleda,Alfonso ¡Ålvarez
+9,Sun,10/26/2014,17:00 (16:00),Espanyol,0@0,La CoruÒa,"22,732",RCDE Stadium,Carlos Velasco
+9,Sun,10/26/2014,19:00 (18:00),Sevilla,2@1,Villarreal,"34,500",Estadio RamÛn S·nchez Pizju·n,Alejandro Hern·ndez
+9,Sun,10/26/2014,21:00 (20:00),Getafe,0@1,AtlÈtico Madrid,"9,300",Coliseum Alfonso PÈrez,Mario Melero
+10,Fri,10/31/2014,20:45 (19:45),La CoruÒa,1@2,Getafe,"20,150",Estadio Municipal de Riazor,Alejandro Hern·ndez
+10,Sat,11/1/2014,16:00 (15:00),Granada,0@4,Real Madrid,"21,800",Estadio Nuevo Los C·rmenes,JosÈ Gonz·lez
+10,Sat,11/1/2014,18:00 (17:00),AtlÈtico Madrid,4@2,CÛrdoba,"48,600",Estadio Vicente CalderÛn,Carlos Clos GÛmez
+10,Sat,11/1/2014,20:00 (19:00),Barcelona,0@1,Celta Vigo,"71,468",Camp Nou,IÒaki Bikandi
+10,Sat,11/1/2014,22:00 (21:00),Real Sociedad,0@1,M·laga,"21,086",Estadio Municipal de Anoeta,Santiago Jaime
+10,Sun,11/2/2014,12:00 (11:00),Athletic Club,1@0,Sevilla,"42,000",San MamÈs,Javier Estrada
+10,Sun,11/2/2014,17:00 (16:00),Villarreal,1@3,Valencia,"23,000",Estadio de la Cer·mica,Pedro PÈrez
+10,Sun,11/2/2014,19:00 (18:00),Levante,2@1,AlmerÌa,"16,000",Estadio Ciudad de Valencia,Eduardo Prieto
+10,Sun,11/2/2014,21:00 (20:00),Elche,2@1,Espanyol,"21,472",Estadio Manuel MartÌnez Valero,JosÈ Teixeira
+10,Mon,11/3/2014,20:45 (19:45),Rayo Vallecano,2@3,Eibar,"10,625",Estadio del Rayo Vallecano,Ignacio Iglesias
+11,Fri,11/7/2014,20:45 (19:45),CÛrdoba,0@0,La CoruÒa,"15,643",Estadio Nuevo Arc·ngel,Antonio MatÈu Lahoz
+11,Sat,11/8/2014,16:00 (15:00),AlmerÌa,1@2,Barcelona,"12,606",Estadio de los Juegos Mediterr·neos,Alberto Undiano
+11,Sat,11/8/2014,18:00 (17:00),Getafe,0@0,Elche,"6,000",Coliseum Alfonso PÈrez,David Fern·ndez
+11,Sat,11/8/2014,20:00 (19:00),Real Madrid,5@1,Rayo Vallecano,"76,842",Estadio Santiago BernabÈu,Pedro PÈrez
+11,Sat,11/8/2014,22:00 (21:00),Celta Vigo,0@0,Granada,"20,000",Estadio de BalaÌdos,Javier Estrada
+11,Sat,11/8/2014,22:00 (21:00),M·laga,2@1,Eibar,"22,600",Estadio La Rosaleda,Juan MartÌnez
+11,Sun,11/9/2014,12:00 (11:00),Sevilla,1@1,Levante,"28,500",Estadio RamÛn S·nchez Pizju·n,Carlos Velasco
+11,Sun,11/9/2014,17:00 (16:00),Espanyol,1@1,Villarreal,"22,000",RCDE Stadium,Jes˙s Gil
+11,Sun,11/9/2014,19:00 (18:00),Valencia,0@0,Athletic Club,"39,600",Estadio de Mestalla,Carlos del Cerro
+11,Sun,11/9/2014,21:00 (20:00),Real Sociedad,2@1,AtlÈtico Madrid,"22,768",Estadio Municipal de Anoeta,Alfonso ¡Ålvarez
+12,Fri,11/21/2014,20:45 (19:45),Athletic Club,3@1,Espanyol,"28,000",San MamÈs,Mario Melero
+12,Sat,11/22/2014,16:00 (15:00),AtlÈtico Madrid,3@1,M·laga,"44,200",Estadio Vicente CalderÛn,Fernando Teixeira
+12,Sat,11/22/2014,18:00 (17:00),Eibar,0@4,Real Madrid,"5,859",Estadio Municipal de Ipur˙a,David Fern·ndez
+12,Sat,11/22/2014,20:00 (19:00),Barcelona,5@1,Sevilla,"78,283",Camp Nou,Carlos Clos GÛmez
+12,Sat,11/22/2014,22:00 (21:00),La CoruÒa,0@0,Real Sociedad,"18,521",Estadio Municipal de Riazor,Eduardo Moya
+12,Sun,11/23/2014,12:00 (11:00),Rayo Vallecano,1@0,Celta Vigo,"7,100",Estadio del Rayo Vallecano,JosÈ Gonz·lez
+12,Sun,11/23/2014,17:00 (16:00),Levante,2@1,Valencia,"17,200",Estadio Ciudad de Valencia,IÒaki Bikandi
+12,Sun,11/23/2014,19:00 (18:00),Elche,2@2,CÛrdoba,"22,636",Estadio Manuel MartÌnez Valero,Alejandro Hern·ndez
+12,Sun,11/23/2014,21:00 (20:00),Villarreal,2@1,Getafe,"19,500",Estadio de la Cer·mica,Santiago Jaime
+12,Mon,11/24/2014,20:45 (19:45),Granada,0@0,AlmerÌa,"16,500",Estadio Nuevo Los C·rmenes,Ignacio Iglesias
+13,Fri,11/28/2014,20:45 (19:45),Real Sociedad,3@0,Elche,"17,000",Estadio Municipal de Anoeta,Carlos Velasco
+13,Sat,11/29/2014,16:00 (15:00),Getafe,1@2,Athletic Club,"8,100",Coliseum Alfonso PÈrez,Alfonso ¡Ålvarez
+13,Sat,11/29/2014,18:00 (17:00),Espanyol,2@1,Levante,"12,723",RCDE Stadium,Carlos del Cerro
+13,Sat,11/29/2014,20:00 (19:00),M·laga,1@2,Real Madrid,"29,025",Estadio La Rosaleda,IÒaki Bikandi
+13,Sat,11/29/2014,22:00 (21:00),Celta Vigo,0@1,Eibar,"16,000",Estadio de BalaÌdos,Pedro PÈrez
+13,Sun,11/30/2014,12:00 (11:00),AtlÈtico Madrid,2@0,La CoruÒa,"45,000",Estadio Vicente CalderÛn,JosÈ Teixeira
+13,Sun,11/30/2014,17:00 (16:00),Sevilla,5@1,Granada,"30,347",Estadio RamÛn S·nchez Pizju·n,Eduardo Prieto
+13,Sun,11/30/2014,19:00 (18:00),CÛrdoba,0@2,Villarreal,"15,998",Estadio Nuevo Arc·ngel,Javier Estrada
+13,Sun,11/30/2014,21:00 (20:00),Valencia,0@1,Barcelona,"51,200",Estadio de Mestalla,David Fern·ndez
+13,Mon,12/1/2014,20:45 (19:45),AlmerÌa,0@1,Rayo Vallecano,"8,500",Estadio de los Juegos Mediterr·neos,Antonio MatÈu Lahoz
+14,Sat,12/6/2014,16:00 (15:00),Elche,0@2,AtlÈtico Madrid,"18,290",Estadio Manuel MartÌnez Valero,IÒaki Bikandi
+14,Sat,12/6/2014,18:00 (17:00),Athletic Club,0@1,CÛrdoba,"38,500",San MamÈs,Santiago Jaime
+14,Sat,12/6/2014,20:00 (19:00),Real Madrid,3@0,Celta Vigo,"80,300",Estadio Santiago BernabÈu,Alberto Undiano
+14,Sat,12/6/2014,22:00 (21:00),La CoruÒa,0@1,M·laga,"19,000",Estadio Municipal de Riazor,Jes˙s Gil
+14,Sun,12/7/2014,12:00 (11:00),Rayo Vallecano,0@1,Sevilla,"11,604",Estadio del Rayo Vallecano,Alfonso ¡Ålvarez
+14,Sun,12/7/2014,17:00 (16:00),Barcelona,5@1,Espanyol,"76,057",Camp Nou,Ignacio Iglesias
+14,Sun,12/7/2014,19:00 (18:00),Villarreal,4@0,Real Sociedad,"16,000",Estadio de la Cer·mica,Fernando Teixeira
+14,Sun,12/7/2014,21:00 (20:00),Granada,1@1,Valencia,"18,300",Estadio Nuevo Los C·rmenes,Alejandro Hern·ndez
+14,Mon,12/8/2014,17:00 (16:00),Eibar,5@2,AlmerÌa,"4,200",Estadio Municipal de Ipur˙a,JosÈ Gonz·lez
+14,Mon,12/8/2014,19:00 (18:00),Levante,1@1,Getafe,"13,582",Estadio Ciudad de Valencia,Mario Melero
+15,Fri,12/12/2014,20:45 (19:45),AlmerÌa,1@4,Real Madrid,"15,000",Estadio de los Juegos Mediterr·neos,Alfonso ¡Ålvarez
+15,Sat,12/13/2014,16:00 (15:00),Getafe,0@0,Barcelona,"9,500",Coliseum Alfonso PÈrez,IÒaki Bikandi
+15,Sat,12/13/2014,18:00 (17:00),Valencia,3@0,Rayo Vallecano,"41,000",Estadio de Mestalla,JosÈ Teixeira
+15,Sat,12/13/2014,20:00 (19:00),CÛrdoba,0@0,Levante,"14,000",Estadio Nuevo Arc·ngel,Eduardo Prieto
+15,Sat,12/13/2014,22:00 (21:00),M·laga,1@0,Celta Vigo,"27,000",Estadio La Rosaleda,Carlos del Cerro
+15,Sun,12/14/2014,12:00 (11:00),Espanyol,2@1,Granada,"18,405",RCDE Stadium,Santiago Jaime
+15,Sun,12/14/2014,17:00 (16:00),Sevilla,0@0,Eibar,"20,000",Estadio RamÛn S·nchez Pizju·n,Javier Estrada
+15,Sun,12/14/2014,19:00 (18:00),AtlÈtico Madrid,0@1,Villarreal,"37,000",Estadio Vicente CalderÛn,Pedro PÈrez
+15,Sun,12/14/2014,21:00 (20:00),Real Sociedad,1@1,Athletic Club,"26,651",Estadio Municipal de Anoeta,David Fern·ndez
+15,Mon,12/15/2014,20:45 (19:45),La CoruÒa,1@0,Elche,"14,167",Estadio Municipal de Riazor,Mario Melero
+16,Fri,12/19/2014,20:45 (19:45),Celta Vigo,0@1,AlmerÌa,"13,200",Estadio de BalaÌdos,Jes˙s Gil
+16,Sat,12/20/2014,16:00 (15:00),Barcelona,5@0,CÛrdoba,"60,066",Camp Nou,Antonio MatÈu Lahoz
+16,Sat,12/20/2014,18:00 (17:00),Levante,1@1,Real Sociedad,"16,800",Estadio Ciudad de Valencia,Santiago Jaime
+16,Sat,12/20/2014,20:00 (19:00),Eibar,0@1,Valencia,"4,700",Estadio Municipal de Ipur˙a,Carlos Velasco
+16,Sat,12/20/2014,22:00 (21:00),Rayo Vallecano,1@3,Espanyol,"7,776",Estadio del Rayo Vallecano,Juan MartÌnez
+16,Sun,12/21/2014,12:00 (11:00),Villarreal,3@0,La CoruÒa,"16,000",Estadio de la Cer·mica,JosÈ Gonz·lez
+16,Sun,12/21/2014,17:00 (16:00),Granada,1@1,Getafe,"19,600",Estadio Nuevo Los C·rmenes,Fernando Teixeira
+16,Sun,12/21/2014,19:00 (18:00),Elche,1@2,M·laga,"24,134",Estadio Manuel MartÌnez Valero,Alberto Undiano
+16,Sun,12/21/2014,21:00 (20:00),Athletic Club,1@4,AtlÈtico Madrid,"46,500",San MamÈs,Alejandro Hern·ndez
+17,Sat,1/3/2015,16:00 (15:00),AtlÈtico Madrid,3@1,Levante,"52,163",Estadio Vicente CalderÛn,Alfonso ¡Ålvarez
+17,Sat,1/3/2015,18:00 (17:00),Sevilla,1@0,Celta Vigo,"31,253",Estadio RamÛn S·nchez Pizju·n,Carlos Velasco
+17,Sat,1/3/2015,20:00 (19:00),Elche,2@2,Villarreal,"18,283",Estadio Manuel MartÌnez Valero,Carlos Clos GÛmez
+17,Sat,1/3/2015,22:00 (21:00),M·laga,1@2,AlmerÌa,"19,500",Estadio La Rosaleda,Fernando Teixeira
+17,Sat,1/3/2015,22:00 (21:00),La CoruÒa,1@0,Athletic Club,"16,200",Estadio Municipal de Riazor,Alberto Undiano
+17,Sun,1/4/2015,12:00 (11:00),Getafe,1@2,Rayo Vallecano,"6,500",Coliseum Alfonso PÈrez,Alejandro Hern·ndez
+17,Sun,1/4/2015,17:00 (16:00),Valencia,2@1,Real Madrid,"54,800",Estadio de Mestalla,Jes˙s Gil
+17,Sun,1/4/2015,19:00 (18:00),Espanyol,1@2,Eibar,"19,136",RCDE Stadium,Antonio MatÈu Lahoz
+17,Sun,1/4/2015,21:00 (20:00),Real Sociedad,1@0,Barcelona,"28,748",Estadio Municipal de Anoeta,Carlos del Cerro
+17,Mon,1/5/2015,20:45 (19:45),CÛrdoba,2@0,Granada,"18,600",Estadio Nuevo Arc·ngel,IÒaki Bikandi
+18,Fri,1/9/2015,20:45 (19:45),Levante,0@0,La CoruÒa,"12,560",Estadio Ciudad de Valencia,Pedro PÈrez
+18,Sat,1/10/2015,16:00 (15:00),Real Madrid,3@0,Espanyol,"74,896",Estadio Santiago BernabÈu,David Fern·ndez
+18,Sat,1/10/2015,18:00 (17:00),M·laga,1@1,Villarreal,"22,077",Estadio La Rosaleda,Santiago Jaime
+18,Sat,1/10/2015,20:00 (19:00),Celta Vigo,1@1,Valencia,"19,218",Estadio de BalaÌdos,JosÈ Gonz·lez
+18,Sat,1/10/2015,22:00 (21:00),Eibar,2@1,Getafe,"4,115",Estadio Municipal de Ipur˙a,Carlos Clos GÛmez
+18,Sun,1/11/2015,12:00 (11:00),AlmerÌa,0@2,Sevilla,"12,703",Estadio de los Juegos Mediterr·neos,Eduardo Prieto
+18,Sun,1/11/2015,17:00 (16:00),Athletic Club,1@2,Elche,"40,000",San MamÈs,Ignacio Iglesias
+18,Sun,1/11/2015,19:00 (18:00),Granada,1@1,Real Sociedad,"14,637",Estadio Nuevo Los C·rmenes,Juan MartÌnez
+18,Sun,1/11/2015,21:00 (20:00),Barcelona,3@1,AtlÈtico Madrid,"81,658",Camp Nou,Alberto Undiano
+18,Mon,1/12/2015,20:45 (19:45),Rayo Vallecano,0@1,CÛrdoba,"10,620",Estadio del Rayo Vallecano,Javier Estrada
+19,Fri,1/16/2015,20:45 (19:45),CÛrdoba,1@1,Eibar,"16,131",Estadio Nuevo Arc·ngel,Fernando Teixeira
+19,Sat,1/17/2015,16:00 (15:00),Real Sociedad,0@1,Rayo Vallecano,"21,542",Estadio Municipal de Anoeta,Mario Melero
+19,Sat,1/17/2015,18:00 (17:00),Valencia,3@2,AlmerÌa,"43,391",Estadio de Mestalla,IÒaki Bikandi
+19,Sat,1/17/2015,20:00 (19:00),Villarreal,2@0,Athletic Club,"16,108",Estadio de la Cer·mica,Javier Estrada
+19,Sat,1/17/2015,22:00 (21:00),Espanyol,1@0,Celta Vigo,"12,710",RCDE Stadium,Eduardo Prieto
+19,Sun,1/18/2015,12:00 (11:00),Getafe,0@3,Real Madrid,"10,591",Coliseum Alfonso PÈrez,Pedro PÈrez
+19,Sun,1/18/2015,17:00 (16:00),AtlÈtico Madrid,2@0,Granada,"42,000",Estadio Vicente CalderÛn,Ignacio Iglesias
+19,Sun,1/18/2015,19:00 (18:00),La CoruÒa,0@4,Barcelona,"25,173",Estadio Municipal de Riazor,Juan MartÌnez
+19,Sun,1/18/2015,21:00 (20:00),Elche,1@0,Levante,"14,726",Estadio Manuel MartÌnez Valero,Carlos Velasco
+19,Sun,1/18/2015,21:00 (20:00),Sevilla,2@0,M·laga,"23,719",Estadio RamÛn S·nchez Pizju·n,JosÈ Teixeira
+20,Sat,1/24/2015,16:00 (15:00),CÛrdoba,1@2,Real Madrid,"21,495",Estadio Nuevo Arc·ngel,Alejandro Hern·ndez
+20,Sat,1/24/2015,18:00 (17:00),Elche,0@6,Barcelona,"28,235",Estadio Manuel MartÌnez Valero,Carlos Clos GÛmez
+20,Sat,1/24/2015,20:00 (19:00),AtlÈtico Madrid,3@1,Rayo Vallecano,"37,202",Estadio Vicente CalderÛn,IÒaki Bikandi
+20,Sat,1/24/2015,22:00 (21:00),Real Sociedad,1@0,Eibar,"22,368",Estadio Municipal de Anoeta,JosÈ Gonz·lez
+20,Sat,1/24/2015,22:00 (21:00),Villarreal,1@0,Levante,"12,284",Estadio de la Cer·mica,David Fern·ndez
+20,Sun,1/25/2015,12:00 (11:00),La CoruÒa,2@2,Granada,"18,827",Estadio Municipal de Riazor,Carlos del Cerro
+20,Sun,1/25/2015,17:00 (16:00),Athletic Club,1@1,M·laga,"41,200",San MamÈs,Alfonso ¡Ålvarez
+20,Sun,1/25/2015,19:00 (18:00),Espanyol,3@0,AlmerÌa,"16,792",RCDE Stadium,Alberto Undiano
+20,Sun,1/25/2015,21:00 (20:00),Valencia,3@1,Sevilla,"46,704",Estadio de Mestalla,Santiago Jaime
+20,Mon,1/26/2015,20:45 (19:45),Getafe,2@1,Celta Vigo,"4,570",Coliseum Alfonso PÈrez,Antonio MatÈu Lahoz
+21,Fri,1/30/2015,20:45 (19:45),Rayo Vallecano,1@2,La CoruÒa,"10,724",Estadio del Rayo Vallecano,Eduardo Prieto
+21,Sat,1/31/2015,16:00 (15:00),Real Madrid,4@1,Real Sociedad,"71,653",Estadio Santiago BernabÈu,Alfonso ¡Ålvarez
+21,Sat,1/31/2015,18:00 (17:00),Eibar,1@3,AtlÈtico Madrid,"4,238",Estadio Municipal de Ipur˙a,Pedro PÈrez
+21,Sat,1/31/2015,20:00 (19:00),Granada,1@0,Elche,"15,230",Estadio Nuevo Los C·rmenes,Jes˙s Gil
+21,Sat,1/31/2015,22:00 (21:00),Celta Vigo,1@0,CÛrdoba,"15,502",Estadio de BalaÌdos,JosÈ Teixeira
+21,Sun,2/1/2015,12:00 (11:00),Levante,0@2,Athletic Club,"16,116",Estadio Ciudad de Valencia,Alejandro Hern·ndez
+21,Sun,2/1/2015,17:00 (16:00),AlmerÌa,1@0,Getafe,"8,575",Estadio de los Juegos Mediterr·neos,Ignacio Iglesias
+21,Sun,2/1/2015,19:00 (18:00),Sevilla,3@2,Espanyol,"27,955",Estadio RamÛn S·nchez Pizju·n,JosÈ Gonz·lez
+21,Sun,2/1/2015,21:00 (20:00),Barcelona,3@2,Villarreal,"60,005",Camp Nou,IÒaki Bikandi
+21,Mon,2/2/2015,20:45 (19:45),M·laga,1@0,Valencia,"20,191",Estadio La Rosaleda,Carlos Clos GÛmez
+16,Wed,2/4/2015,20:45 (19:45),Real Madrid,2@1,Sevilla,"67,126",Estadio Santiago BernabÈu,Ignacio Iglesias
+22,Fri,2/6/2015,20:45 (19:45),La CoruÒa,2@0,Eibar,"16,898",Estadio Municipal de Riazor,Carlos Velasco
+22,Sat,2/7/2015,16:00 (15:00),AtlÈtico Madrid,4@0,Real Madrid,"52,063",Estadio Vicente CalderÛn,David Fern·ndez
+22,Sat,2/7/2015,18:00 (17:00),Villarreal,2@0,Granada,"12,419",Estadio de la Cer·mica,Alberto Undiano
+22,Sat,2/7/2015,20:00 (19:00),Levante,4@1,M·laga,"10,558",Estadio Ciudad de Valencia,Carlos del Cerro
+22,Sat,2/7/2015,22:00 (21:00),Real Sociedad,1@1,Celta Vigo,"14,836",Estadio Municipal de Anoeta,Santiago Jaime
+22,Sun,2/8/2015,12:00 (11:00),CÛrdoba,1@2,AlmerÌa,"17,117",Estadio Nuevo Arc·ngel,Fabi·n Blanco
+22,Sun,2/8/2015,17:00 (16:00),Getafe,2@1,Sevilla,"6,386",Coliseum Alfonso PÈrez,Javier Estrada
+22,Sun,2/8/2015,19:00 (18:00),Espanyol,1@2,Valencia,"18,752",RCDE Stadium,Mario Melero
+22,Sun,2/8/2015,21:00 (20:00),Athletic Club,2@5,Barcelona,"44,521",San MamÈs,Antonio MatÈu Lahoz
+22,Mon,2/9/2015,20:45 (19:45),Elche,2@0,Rayo Vallecano,"14,162",Estadio Manuel MartÌnez Valero,Fernando Teixeira
+23,Fri,2/13/2015,20:45 (19:45),AlmerÌa,2@2,Real Sociedad,"8,875",Estadio de los Juegos Mediterr·neos,Carlos Velasco
+23,Sat,2/14/2015,16:00 (15:00),Sevilla,3@0,CÛrdoba,"29,850",Estadio RamÛn S·nchez Pizju·n,IÒaki Bikandi
+23,Sat,2/14/2015,18:00 (17:00),Real Madrid,2@0,La CoruÒa,"73,671",Estadio Santiago BernabÈu,Javier Estrada
+23,Sat,2/14/2015,20:00 (19:00),Granada,0@0,Athletic Club,"14,872",Estadio Nuevo Los C·rmenes,Carlos Clos GÛmez
+23,Sat,2/14/2015,22:00 (21:00),M·laga,0@2,Espanyol,"16,181",Estadio La Rosaleda,Jes˙s Gil
+23,Sun,2/15/2015,12:00 (11:00),Valencia,1@0,Getafe,"48,245",Estadio de Mestalla,JosÈ Gonz·lez
+23,Sun,2/15/2015,17:00 (16:00),Barcelona,5@0,Levante,"74,963",Camp Nou,Mario Melero
+23,Sun,2/15/2015,19:00 (18:00),Rayo Vallecano,2@0,Villarreal,"10,914",Estadio del Rayo Vallecano,Pedro PÈrez
+23,Sun,2/15/2015,21:00 (20:00),Celta Vigo,2@0,AtlÈtico Madrid,"22,099",Estadio de BalaÌdos,Juan MartÌnez
+23,Mon,2/16/2015,20:45 (19:45),Eibar,0@1,Elche,"4,109",Estadio Municipal de Ipur˙a,Eduardo Prieto
+24,Fri,2/20/2015,20:45 (19:45),Getafe,2@1,Espanyol,"9,614",Coliseum Alfonso PÈrez,Alejandro Hern·ndez
+24,Sat,2/21/2015,16:00 (15:00),Barcelona,0@1,M·laga,"78,276",Camp Nou,Juan MartÌnez
+24,Sat,2/21/2015,18:00 (17:00),CÛrdoba,1@2,Valencia,"17,036",Estadio Nuevo Arc·ngel,Alberto Undiano
+24,Sat,2/21/2015,20:00 (19:00),AtlÈtico Madrid,3@0,AlmerÌa,"44,000",Estadio Vicente CalderÛn,Antonio MatÈu Lahoz
+24,Sat,2/21/2015,22:00 (21:00),La CoruÒa,0@2,Celta Vigo,"30,334",Estadio Municipal de Riazor,Pedro PÈrez
+24,Sun,2/22/2015,12:00 (11:00),Real Sociedad,4@3,Sevilla,"21,378",Estadio Municipal de Anoeta,Fernando Teixeira
+24,Sun,2/22/2015,17:00 (16:00),Athletic Club,1@0,Rayo Vallecano,"40,413",San MamÈs,David Fern·ndez
+24,Sun,2/22/2015,19:00 (18:00),Villarreal,1@0,Eibar,"13,980",Estadio de la Cer·mica,Mario Melero
+24,Sun,2/22/2015,21:00 (20:00),Elche,0@2,Real Madrid,"31,512",Estadio Manuel MartÌnez Valero,Ignacio Iglesias
+24,Mon,2/23/2015,20:45 (19:45),Levante,2@1,Granada,"12,117",Estadio Ciudad de Valencia,Alfonso ¡Ålvarez
+25,Fri,2/27/2015,20:45 (19:45),Espanyol,1@0,CÛrdoba,"17,128",RCDE Stadium,Carlos del Cerro
+25,Sat,2/28/2015,16:00 (15:00),Granada,1@3,Barcelona,"18,119",Estadio Nuevo Los C·rmenes,Santiago Jaime
+25,Sat,2/28/2015,18:00 (17:00),Rayo Vallecano,4@2,Levante,"10,512",Estadio del Rayo Vallecano,IÒaki Bikandi
+25,Sat,2/28/2015,20:00 (19:00),AlmerÌa,0@0,La CoruÒa,"8,979",Estadio de los Juegos Mediterr·neos,Jes˙s Gil
+25,Sat,2/28/2015,22:00 (21:00),M·laga,3@2,Getafe,"19,939",Estadio La Rosaleda,Eduardo Prieto
+25,Sun,3/1/2015,12:00 (11:00),Valencia,2@0,Real Sociedad,"47,007",Estadio de Mestalla,Javier Estrada
+25,Sun,3/1/2015,17:00 (16:00),Eibar,0@1,Athletic Club,"5,226",Estadio Municipal de Ipur˙a,Fernando Teixeira
+25,Sun,3/1/2015,19:00 (18:00),Sevilla,0@0,AtlÈtico Madrid,"35,984",Estadio RamÛn S·nchez Pizju·n,Carlos Clos GÛmez
+25,Sun,3/1/2015,21:00 (20:00),Real Madrid,1@1,Villarreal,"75,108",Estadio Santiago BernabÈu,JosÈ Gonz·lez
+25,Mon,3/2/2015,20:45 (19:45),Celta Vigo,1@1,Elche,"14,386",Estadio de BalaÌdos,Carlos Velasco
+26,Fri,3/6/2015,20:45 (19:45),Levante,2@1,Eibar,"16,922",Estadio Ciudad de Valencia,David Fern·ndez
+26,Sat,3/7/2015,16:00 (15:00),La CoruÒa,3@4,Sevilla,"21,555",Estadio Municipal de Riazor,JosÈ Teixeira
+26,Sat,3/7/2015,18:00 (17:00),Athletic Club,1@0,Real Madrid,"48,437",San MamÈs,Alberto Undiano
+26,Sat,3/7/2015,20:00 (19:00),Elche,1@0,AlmerÌa,"23,127",Estadio Manuel MartÌnez Valero,Carlos del Cerro
+26,Sat,3/7/2015,22:00 (21:00),Granada,1@0,M·laga,"16,374",Estadio Nuevo Los C·rmenes,Antonio MatÈu Lahoz
+26,Sun,3/8/2015,12:00 (11:00),Barcelona,6@1,Rayo Vallecano,"87,151",Camp Nou,Jes˙s Gil
+26,Sun,3/8/2015,17:00 (16:00),Real Sociedad,1@0,Espanyol,"23,329",Estadio Municipal de Anoeta,Eduardo Prieto
+26,Sun,3/8/2015,19:00 (18:00),Villarreal,4@1,Celta Vigo,"14,366",Estadio de la Cer·mica,Carlos Clos GÛmez
+26,Sun,3/8/2015,21:00 (20:00),AtlÈtico Madrid,1@1,Valencia,"51,180",Estadio Vicente CalderÛn,Santiago Jaime
+26,Mon,3/9/2015,20:45 (19:45),CÛrdoba,1@2,Getafe,"15,183",Estadio Nuevo Arc·ngel,Alfonso ¡Ålvarez
+27,Fri,3/13/2015,20:45 (19:45),Valencia,2@0,La CoruÒa,"40,247",Estadio de Mestalla,Alfonso ¡Ålvarez
+27,Sat,3/14/2015,16:00 (15:00),Espanyol,0@0,AtlÈtico Madrid,"22,538",RCDE Stadium,IÒaki Bikandi
+27,Sat,3/14/2015,18:00 (17:00),Eibar,0@2,Barcelona,"5,439",Estadio Municipal de Ipur˙a,Carlos del Cerro
+27,Sat,3/14/2015,20:00 (19:00),Rayo Vallecano,3@1,Granada,"10,952",Estadio del Rayo Vallecano,Alejandro Hern·ndez
+27,Sat,3/14/2015,22:00 (21:00),Celta Vigo,1@2,Athletic Club,"18,656",Estadio de BalaÌdos,Antonio MatÈu Lahoz
+27,Sun,3/15/2015,12:00 (11:00),AlmerÌa,0@0,Villarreal,"9,479",Estadio de los Juegos Mediterr·neos,Alberto Undiano
+27,Sun,3/15/2015,17:00 (16:00),M·laga,2@0,CÛrdoba,"24,547",Estadio La Rosaleda,JosÈ Gonz·lez
+27,Sun,3/15/2015,19:00 (18:00),Sevilla,3@0,Elche,"31,324",Estadio RamÛn S·nchez Pizju·n,Javier Estrada
+27,Sun,3/15/2015,21:00 (20:00),Real Madrid,2@0,Levante,"64,861",Estadio Santiago BernabÈu,Pedro PÈrez
+27,Mon,3/16/2015,20:45 (19:45),Getafe,0@1,Real Sociedad,"5,500",Coliseum Alfonso PÈrez,Mario Melero
+28,Fri,3/20/2015,20:45 (19:45),Elche,0@4,Valencia,"26,510",Estadio Manuel MartÌnez Valero,David Fern·ndez
+28,Sat,3/21/2015,16:00 (15:00),AtlÈtico Madrid,2@0,Getafe,"38,673",Estadio Vicente CalderÛn,Juan MartÌnez
+28,Sat,3/21/2015,18:00 (17:00),Rayo Vallecano,1@0,M·laga,"9,110",Estadio del Rayo Vallecano,Santiago Jaime
+28,Sat,3/21/2015,20:00 (19:00),Levante,0@1,Celta Vigo,"11,463",Estadio Ciudad de Valencia,JosÈ Teixeira
+28,Sat,3/21/2015,22:00 (21:00),Athletic Club,2@1,AlmerÌa,"35,429",San MamÈs,Eduardo Prieto
+28,Sat,3/21/2015,22:00 (21:00),Granada,0@0,Eibar,"15,203",Estadio Nuevo Los C·rmenes,Alberto Undiano
+28,Sun,3/22/2015,12:00 (11:00),La CoruÒa,0@0,Espanyol,"19,957",Estadio Municipal de Riazor,Fernando Teixeira
+28,Sun,3/22/2015,17:00 (16:00),Villarreal,0@2,Sevilla,"9,788",Estadio de la Cer·mica,Alejandro Hern·ndez
+28,Sun,3/22/2015,19:00 (18:00),Real Sociedad,3@1,CÛrdoba,"21,169",Estadio Municipal de Anoeta,Carlos Velasco
+28,Sun,3/22/2015,21:00 (20:00),Barcelona,2@1,Real Madrid,"98,760",Camp Nou,Antonio MatÈu Lahoz
+29,Fri,4/3/2015,20:45 (18:45),Eibar,1@2,Rayo Vallecano,"4,023",Estadio Municipal de Ipur˙a,Ignacio Iglesias
+29,Sat,4/4/2015,16:00 (14:00),Sevilla,2@0,Athletic Club,"27,752",Estadio RamÛn S·nchez Pizju·n,Alfonso ¡Ålvarez
+29,Sat,4/4/2015,18:00 (16:00),CÛrdoba,0@2,AtlÈtico Madrid,"17,659",Estadio Nuevo Arc·ngel,Javier Estrada
+29,Sat,4/4/2015,20:00 (18:00),AlmerÌa,1@4,Levante,"9,603",Estadio de los Juegos Mediterr·neos,JosÈ Gonz·lez
+29,Sat,4/4/2015,22:00 (20:00),M·laga,1@1,Real Sociedad,"20,499",Estadio La Rosaleda,Carlos del Cerro
+29,Sun,4/5/2015,12:00 (10:00),Real Madrid,9@1,Granada,"71,863",Estadio Santiago BernabÈu,Jes˙s Gil
+29,Sun,4/5/2015,17:00 (15:00),Valencia,0@0,Villarreal,"41,830",Estadio de Mestalla,Mario Melero
+29,Sun,4/5/2015,19:00 (17:00),Getafe,2@1,La CoruÒa,"6,287",Coliseum Alfonso PÈrez,Carlos Clos GÛmez
+29,Sun,4/5/2015,21:00 (19:00),Celta Vigo,0@1,Barcelona,"23,759",Estadio de BalaÌdos,IÒaki Bikandi
+29,Mon,4/6/2015,20:00 (18:00),Espanyol,1@1,Elche,"13,892",RCDE Stadium,Pedro PÈrez
+30,Tue,4/7/2015,20:00 (18:00),AtlÈtico Madrid,2@0,Real Sociedad,"40,238",Estadio Vicente CalderÛn,Alberto Undiano
+30,Tue,4/7/2015,22:00 (20:00),Levante,1@2,Sevilla,"11,484",Estadio Ciudad de Valencia,Carlos Velasco
+30,Tue,4/7/2015,22:00 (20:00),Eibar,1@0,M·laga,"4,008",Estadio Municipal de Ipur˙a,Jes˙s Gil
+30,Wed,4/8/2015,20:00 (18:00),La CoruÒa,1@1,CÛrdoba,"17,602",Estadio Municipal de Riazor,Eduardo Prieto
+30,Wed,4/8/2015,20:00 (18:00),Barcelona,4@0,AlmerÌa,"73,837",Camp Nou,Alejandro Hern·ndez
+30,Wed,4/8/2015,22:00 (20:00),Rayo Vallecano,0@2,Real Madrid,"13,016",Estadio del Rayo Vallecano,Mario Melero
+30,Wed,4/8/2015,22:00 (20:00),Granada,1@1,Celta Vigo,"14,338",Estadio Nuevo Los C·rmenes,Alfonso ¡Ålvarez
+30,Thu,4/9/2015,20:00 (18:00),Athletic Club,1@1,Valencia,"43,034",San MamÈs,Fernando Teixeira
+30,Thu,4/9/2015,22:00 (20:00),Elche,0@1,Getafe,"18,088",Estadio Manuel MartÌnez Valero,JosÈ Gonz·lez
+30,Thu,4/9/2015,22:00 (20:00),Villarreal,0@3,Espanyol,"11,830",Estadio de la Cer·mica,Carlos del Cerro
+31,Sat,4/11/2015,16:00 (14:00),Real Madrid,3@0,Eibar,"73,965",Estadio Santiago BernabÈu,Alejandro Hern·ndez
+31,Sat,4/11/2015,18:00 (16:00),M·laga,2@2,AtlÈtico Madrid,"26,982",Estadio La Rosaleda,Antonio MatÈu Lahoz
+31,Sat,4/11/2015,20:00 (18:00),Sevilla,2@2,Barcelona,"40,355",Estadio RamÛn S·nchez Pizju·n,Juan MartÌnez
+31,Sat,4/11/2015,22:00 (20:00),AlmerÌa,3@0,Granada,"8,920",Estadio de los Juegos Mediterr·neos,Santiago Jaime
+31,Sat,4/11/2015,22:00 (20:00),Celta Vigo,6@1,Rayo Vallecano,"16,633",Estadio de BalaÌdos,Carlos Clos GÛmez
+31,Sun,4/12/2015,12:00 (10:00),Getafe,1@1,Villarreal,"6,745",Coliseum Alfonso PÈrez,JosÈ Teixeira
+31,Sun,4/12/2015,17:00 (15:00),Espanyol,1@0,Athletic Club,"19,054",RCDE Stadium,David Fern·ndez
+31,Sun,4/12/2015,19:00 (17:00),Real Sociedad,2@2,La CoruÒa,"21,894",Estadio Municipal de Anoeta,Pedro PÈrez
+31,Sun,4/12/2015,21:00 (19:00),CÛrdoba,0@2,Elche,"14,164",Estadio Nuevo Arc·ngel,IÒaki Bikandi
+31,Mon,4/13/2015,20:30 (18:30),Valencia,3@0,Levante,"41,935",Estadio de Mestalla,Ignacio Iglesias
+32,Fri,4/17/2015,20:45 (18:45),Levante,2@2,Espanyol,"17,062",Estadio Ciudad de Valencia,Mario Melero
+32,Sat,4/18/2015,16:00 (14:00),Barcelona,2@0,Valencia,"92,915",Camp Nou,JosÈ Gonz·lez
+32,Sat,4/18/2015,18:00 (16:00),La CoruÒa,1@2,AtlÈtico Madrid,"24,693",Estadio Municipal de Riazor,David Fern·ndez
+32,Sat,4/18/2015,20:00 (18:00),Real Madrid,3@1,M·laga,"78,354",Estadio Santiago BernabÈu,IÒaki Bikandi
+32,Sat,4/18/2015,22:00 (20:00),Athletic Club,4@0,Getafe,"37,220",San MamÈs,Antonio MatÈu Lahoz
+32,Sun,4/19/2015,12:00 (10:00),Rayo Vallecano,2@0,AlmerÌa,"10,165",Estadio del Rayo Vallecano,Jes˙s Gil
+32,Sun,4/19/2015,17:00 (15:00),Granada,1@1,Sevilla,"18,275",Estadio Nuevo Los C·rmenes,Javier Estrada
+32,Sun,4/19/2015,19:00 (17:00),Villarreal,0@0,CÛrdoba,"23,000",Estadio de la Cer·mica,Ignacio Iglesias
+32,Sun,4/19/2015,21:00 (19:00),Eibar,0@1,Celta Vigo,"4,520",Estadio Municipal de Ipur˙a,Carlos Velasco
+32,Mon,4/20/2015,20:45 (18:45),Elche,1@0,Real Sociedad,"19,159",Estadio Manuel MartÌnez Valero,Eduardo Prieto
+33,Fri,4/24/2015,20:45 (18:45),CÛrdoba,0@1,Athletic Club,"16,472",Estadio Nuevo Arc·ngel,JosÈ Teixeira
+33,Sat,4/25/2015,16:00 (14:00),Espanyol,0@2,Barcelona,"30,253",RCDE Stadium,Antonio MatÈu Lahoz
+33,Sat,4/25/2015,18:00 (16:00),AtlÈtico Madrid,3@0,Elche,"47,531",Estadio Vicente CalderÛn,Carlos Clos GÛmez
+33,Sat,4/25/2015,20:00 (18:00),Getafe,0@1,Levante,"5,954",Coliseum Alfonso PÈrez,Alfonso ¡Ålvarez
+33,Sat,4/25/2015,22:00 (20:00),Real Sociedad,0@0,Villarreal,"17,073",Estadio Municipal de Anoeta,Jes˙s Gil
+33,Sun,4/26/2015,12:00 (10:00),M·laga,1@1,La CoruÒa,"23,851",Estadio La Rosaleda,Javier Estrada
+33,Sun,4/26/2015,17:00 (15:00),AlmerÌa,2@0,Eibar,"10,715",Estadio de los Juegos Mediterr·neos,Carlos del Cerro
+33,Sun,4/26/2015,19:00 (17:00),Sevilla,2@0,Rayo Vallecano,"28,532",Estadio RamÛn S·nchez Pizju·n,Santiago Jaime
+33,Sun,4/26/2015,21:00 (19:00),Celta Vigo,2@4,Real Madrid,"25,274",Estadio de BalaÌdos,Pedro PÈrez
+33,Mon,4/27/2015,20:45 (18:45),Valencia,4@0,Granada,"36,763",Estadio de Mestalla,Alberto Undiano
+34,Tue,4/28/2015,20:00 (18:00),Barcelona,6@0,Getafe,"65,356",Camp Nou,David Fern·ndez
+34,Tue,4/28/2015,22:00 (20:00),Athletic Club,1@1,Real Sociedad,"42,322",San MamÈs,Juan MartÌnez
+34,Tue,4/28/2015,22:00 (20:00),Levante,1@0,CÛrdoba,"14,098",Estadio Ciudad de Valencia,Jes˙s Gil
+34,Wed,4/29/2015,20:00 (18:00),Celta Vigo,1@0,M·laga,"17,205",Estadio de BalaÌdos,Alejandro Hern·ndez
+34,Wed,4/29/2015,20:00 (18:00),Eibar,1@3,Sevilla,"5,517",Estadio Municipal de Ipur˙a,Eduardo Prieto
+34,Wed,4/29/2015,20:00 (18:00),Real Madrid,3@0,AlmerÌa,"63,813",Estadio Santiago BernabÈu,Ignacio Iglesias
+34,Wed,4/29/2015,22:00 (20:00),Elche,4@0,La CoruÒa,"19,251",Estadio Manuel MartÌnez Valero,Alfonso ¡Ålvarez
+34,Wed,4/29/2015,22:00 (20:00),Villarreal,0@1,AtlÈtico Madrid,"18,725",Estadio de la Cer·mica,JosÈ Gonz·lez
+34,Thu,4/30/2015,20:00 (18:00),Rayo Vallecano,1@1,Valencia,"10,055",Estadio del Rayo Vallecano,IÒaki Bikandi
+34,Thu,4/30/2015,22:00 (20:00),Granada,1@2,Espanyol,"15,097",Estadio Nuevo Los C·rmenes,Carlos Velasco
+35,Fri,5/1/2015,20:45 (18:45),Real Sociedad,3@0,Levante,"18,821",Estadio Municipal de Anoeta,Carlos del Cerro
+35,Sat,5/2/2015,16:00 (14:00),CÛrdoba,0@8,Barcelona,"13,775",Estadio Nuevo Arc·ngel,Carlos Clos GÛmez
+35,Sat,5/2/2015,18:00 (16:00),AtlÈtico Madrid,0@0,Athletic Club,"48,452",Estadio Vicente CalderÛn,Santiago Jaime
+35,Sat,5/2/2015,20:00 (18:00),Sevilla,2@3,Real Madrid,"39,689",Estadio RamÛn S·nchez Pizju·n,JosÈ Gonz·lez
+35,Sat,5/2/2015,22:00 (20:00),La CoruÒa,1@1,Villarreal,"20,817",Estadio Municipal de Riazor,Alejandro Hern·ndez
+35,Sun,5/3/2015,12:00 (10:00),Espanyol,1@1,Rayo Vallecano,"16,479",RCDE Stadium,Fernando Teixeira
+35,Sun,5/3/2015,17:00 (15:00),Getafe,1@2,Granada,"5,897",Coliseum Alfonso PÈrez,Eduardo Prieto
+35,Sun,5/3/2015,19:00 (17:00),Valencia,3@1,Eibar,"39,320",Estadio de Mestalla,Javier Estrada
+35,Sun,5/3/2015,21:00 (19:00),M·laga,1@2,Elche,"18,714",Estadio La Rosaleda,Alberto Undiano
+35,Mon,5/4/2015,20:45 (18:45),AlmerÌa,2@2,Celta Vigo,"10,898",Estadio de los Juegos Mediterr·neos,JosÈ Teixeira
+36,Fri,5/8/2015,20:45 (18:45),Eibar,0@2,Espanyol,"5,648",Estadio Municipal de Ipur˙a,JosÈ Teixeira
+36,Sat,5/9/2015,16:00 (14:00),Granada,2@0,CÛrdoba,"19,266",Estadio Nuevo Los C·rmenes,Fernando Teixeira
+36,Sat,5/9/2015,18:00 (16:00),Barcelona,2@0,Real Sociedad,"86,047",Camp Nou,Ignacio Iglesias
+36,Sat,5/9/2015,20:00 (18:00),Real Madrid,2@2,Valencia,"79,897",Estadio Santiago BernabÈu,Carlos Clos GÛmez
+36,Sat,5/9/2015,22:00 (20:00),Athletic Club,1@1,La CoruÒa,"39,670",San MamÈs,Jes˙s Gil
+36,Sun,5/10/2015,12:00 (10:00),Levante,2@2,AtlÈtico Madrid,"19,314",Estadio Ciudad de Valencia,Alejandro Hern·ndez
+36,Sun,5/10/2015,17:00 (15:00),Villarreal,1@0,Elche,"13,629",Estadio de la Cer·mica,Carlos del Cerro
+36,Sun,5/10/2015,19:00 (17:00),AlmerÌa,1@2,M·laga,"10,690",Estadio de los Juegos Mediterr·neos,Eduardo Prieto
+36,Sun,5/10/2015,21:00 (19:00),Celta Vigo,1@1,Sevilla,"18,957",Estadio de BalaÌdos,Carlos Velasco
+36,Mon,5/11/2015,20:45 (18:45),Rayo Vallecano,2@0,Getafe,"9,475",Estadio del Rayo Vallecano,Pedro PÈrez
+37,Sun,5/17/2015,19:00 (17:00),AtlÈtico Madrid,0@1,Barcelona,"53,254",Estadio Vicente CalderÛn,Alberto Undiano
+37,Sun,5/17/2015,19:00 (17:00),Valencia,1@1,Celta Vigo,"44,498",Estadio de Mestalla,Jes˙s Gil
+37,Sun,5/17/2015,19:00 (17:00),CÛrdoba,1@2,Rayo Vallecano,"7,619",Estadio Nuevo Arc·ngel,Antonio MatÈu Lahoz
+37,Sun,5/17/2015,19:00 (17:00),Getafe,1@1,Eibar,"8,808",Coliseum Alfonso PÈrez,Carlos Clos GÛmez
+37,Sun,5/17/2015,19:00 (17:00),Real Sociedad,0@3,Granada,"20,644",Estadio Municipal de Anoeta,Javier Estrada
+37,Sun,5/17/2015,19:00 (17:00),Villarreal,2@1,M·laga,"13,105",Estadio de la Cer·mica,Carlos Velasco
+37,Sun,5/17/2015,19:00 (17:00),La CoruÒa,2@0,Levante,"30,251",Estadio Municipal de Riazor,JosÈ Gonz·lez
+37,Sun,5/17/2015,19:00 (17:00),Elche,2@3,Athletic Club,"22,693",Estadio Manuel MartÌnez Valero,Alejandro Hern·ndez
+37,Sun,5/17/2015,19:00 (17:00),Sevilla,2@1,AlmerÌa,"32,511",Estadio RamÛn S·nchez Pizju·n,IÒaki Bikandi
+37,Sun,5/17/2015,19:00 (17:00),Espanyol,1@4,Real Madrid,"30,180",RCDE Stadium,Juan MartÌnez
+38,Sat,5/23/2015,16:30 (14:30),Levante,0@0,Elche,"11,847",Estadio Ciudad de Valencia,Mario Melero
+38,Sat,5/23/2015,18:30 (16:30),M·laga,2@3,Sevilla,"23,103",Estadio La Rosaleda,Ignacio Iglesias
+38,Sat,5/23/2015,18:30 (16:30),AlmerÌa,2@3,Valencia,"11,137",Estadio de los Juegos Mediterr·neos,Alejandro Hern·ndez
+38,Sat,5/23/2015,18:30 (16:30),Granada,0@0,AtlÈtico Madrid,"28,848",Estadio Nuevo Los C·rmenes,JosÈ Gonz·lez
+38,Sat,5/23/2015,18:30 (16:30),Athletic Club,4@0,Villarreal,"43,276",San MamÈs,Eduardo Prieto
+38,Sat,5/23/2015,18:30 (16:30),Celta Vigo,3@2,Espanyol,"15,000",Estadio de BalaÌdos,Carlos del Cerro
+38,Sat,5/23/2015,18:30 (16:30),Rayo Vallecano,2@4,Real Sociedad,"9,513",Estadio del Rayo Vallecano,Fernando Teixeira
+38,Sat,5/23/2015,18:30 (16:30),Eibar,3@0,CÛrdoba,"6,065",Estadio Municipal de Ipur˙a,Alfonso ¡Ålvarez
+38,Sat,5/23/2015,18:30 (16:30),Barcelona,2@2,La CoruÒa,"93,743",Camp Nou,Carlos Clos GÛmez
+38,Sat,5/23/2015,20:30 (18:30),Real Madrid,7@3,Getafe,"63,769",Estadio Santiago BernabÈu,JosÈ Teixeira

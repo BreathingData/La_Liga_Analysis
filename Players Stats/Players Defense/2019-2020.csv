@@ -1,0 +1,571 @@
+,,,,,,Tackles,,,,,Vs Dribbles,,,,Blocks,,,,,,
+Rk,Player,Nation,Pos,Squad,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+1,Antonio Adán,es ESP,GK,Atlético Madrid,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+2,Aritz Aduriz,es ESP,"FW,MF",Athletic Club,2.3,3,2,0,3,0,0,0,,0,0,0,0,0,3,2,0
+3,Lumor Agbenyenu,gh GHA,DF,Mallorca,20.1,31,21,19,9,3,16,35,45.7,19,13,2,11,21,52,66,1
+4,Martin Agirregabiria,es ESP,DF,Alavés,23.3,55,30,32,18,5,30,54,55.6,24,19,7,12,18,73,48,0
+5,Joseph Aidoo,gh GHA,DF,Celta Vigo,27.8,43,27,30,11,2,13,27,48.1,14,31,14,17,45,88,124,3
+6,Jordi Alba,es ESP,DF,Barcelona,24.3,20,13,9,7,4,6,27,22.2,21,12,3,9,37,57,40,0
+7,Raúl Albiol,es ESP,DF,Villarreal,36,43,23,27,16,0,18,27,66.7,9,29,21,8,42,85,175,2
+8,Paco Alcácer,es ESP,FW,Villarreal,10.3,3,3,2,1,0,1,7,14.3,6,4,1,3,2,5,10,0
+9,Rubén Alcaraz,es ESP,MF,Valladolid,21.4,61,30,37,20,4,30,63,47.6,33,46,15,31,15,76,41,0
+10,Álex Alegría,es ESP,FW,Mallorca,1.2,1,0,1,0,0,0,0,,0,2,0,2,0,1,0,0
+11,Carles Aleñá,es ESP,MF,Barcelona,1.9,2,1,1,1,0,1,4,25,3,1,0,1,0,2,0,0
+12,Carles Aleñá,es ESP,"MF,FW",Betis,8.2,14,9,5,7,2,3,17,17.6,14,4,1,3,1,15,3,0
+13,Sergio Álvarez,es ESP,"MF,DF",Eibar,12.7,37,22,11,24,2,8,24,33.3,16,16,2,14,17,54,26,1
+14,Sergio Álvarez,es ESP,GK,Celta Vigo,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+15,Yeray Álvarez,es ESP,DF,Athletic Club,31.2,36,19,28,7,1,17,30,56.7,13,33,22,11,62,98,138,2
+16,Ibrahim Amadou,fr FRA,MF,Leganés,8.6,16,9,5,9,2,4,11,36.4,7,5,0,5,12,28,6,0
+17,Amath,sn SEN,MF,Getafe,0.7,2,1,1,1,0,0,5,0,5,2,0,2,0,2,0,0
+18,Miguel Ángel Guerrero,es ESP,FW,Leganés,8.8,1,0,0,1,0,1,10,10,9,4,0,4,2,3,4,0
+19,José Ángel,es ESP,DF,Eibar,26.2,54,31,26,25,3,26,43,60.5,17,23,7,16,33,87,61,1
+20,Miguel Ángel Moyá,es ESP,GK,Real Sociedad,13,0,0,0,0,0,0,1,0,1,0,0,0,1,1,6,2
+21,Antoñito,es ESP,"DF,MF",Valladolid,11.4,26,18,19,7,0,12,20,60,8,9,0,9,15,41,20,1
+22,Vitorino Antunes,pt POR,MF,Getafe,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+23,Anuar,ma MAR,"MF,FW",Valladolid,2.1,4,2,1,2,1,2,6,33.3,4,7,3,4,5,9,0,0
+24,Mauro Arambarri,uy URU,MF,Getafe,34.1,72,33,24,40,8,31,69,44.9,38,52,5,47,43,115,40,2
+25,Néstor Araujo,mx MEX,DF,Celta Vigo,32.1,44,27,35,8,1,22,36,61.1,14,26,18,8,52,96,142,0
+26,Ronald Araújo,uy URU,DF,Barcelona,2.6,3,2,2,1,0,1,1,100,0,6,2,4,0,3,9,0
+27,Anaitz Arbilla,es ESP,DF,Eibar,22.3,33,20,23,8,2,16,34,47.1,18,20,4,16,29,62,82,0
+28,Alphonse Areola,fr FRA,GK,Real Madrid,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+29,Santiago Arias,co COL,DF,Atlético Madrid,12,36,24,20,12,4,10,18,55.6,8,12,7,5,19,55,20,1
+30,José Arnaiz,es ESP,"FW,MF",Osasuna,8.8,3,2,0,2,1,0,12,0,12,7,0,7,5,8,5,0
+31,José Arnaiz,es ESP,MF,Leganés,3.7,3,0,1,2,0,2,5,40,3,4,0,4,2,5,1,0
+32,Sergio Asenjo,es ESP,GK,Villarreal,34,0,0,0,0,0,0,2,0,2,0,0,0,1,1,15,1
+33,Marco Asensio,es ESP,FW,Real Madrid,3.7,4,3,3,1,0,1,4,25,3,2,0,2,1,5,4,0
+34,Iago Aspas,es ESP,FW,Celta Vigo,36.2,29,19,7,9,13,12,45,26.7,33,16,1,15,22,51,7,0
+35,Roger Assalé,ci CIV,"FW,MF",Leganés,5.9,3,2,1,0,2,1,9,11.1,8,8,0,8,0,3,1,0
+36,Miguel Atienza,es ESP,MF,Eibar,0.3,1,1,0,1,0,1,2,50,1,1,1,0,2,3,1,0
+37,Ezequiel Ávila,ar ARG,FW,Osasuna,17.7,17,12,6,7,4,6,18,33.3,12,12,0,12,3,20,5,0
+38,Javier Avilés,es ESP,"MF,FW",Leganés,2,9,7,2,7,0,2,4,50,2,3,0,3,3,12,1,0
+39,Chidozie Awaziem,ng NGA,DF,Leganés,22.2,34,22,29,5,0,16,27,59.3,11,26,15,11,28,62,73,1
+40,Ramon Azeez,ng NGA,MF,Granada,15.1,11,8,2,8,1,7,19,36.8,12,8,2,6,19,30,11,1
+41,Iddrisu Baba,gh GHA,MF,Mallorca,32.3,59,37,26,29,4,20,70,28.6,50,31,8,23,39,98,42,0
+42,Carlos Bacca,co COL,FW,Villarreal,7.6,5,1,1,2,2,2,6,33.3,4,4,0,4,0,5,7,0
+43,Alex Baena,es ESP,MF,Villarreal,0.2,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+44,Gareth Bale,wls WAL,"FW,MF",Real Madrid,12.1,9,5,5,2,2,3,14,21.4,11,8,2,6,6,15,9,0
+45,Mikel Balenziaga,es ESP,DF,Athletic Club,6.3,15,10,4,10,1,9,11,81.8,2,4,1,3,2,17,20,0
+46,Éver Banega,ar ARG,MF,Sevilla,27.5,43,28,16,18,9,21,70,30,49,19,1,18,15,58,5,0
+47,Federico Barba,it ITA,DF,Valladolid,5,12,6,10,2,0,7,9,77.8,2,5,2,3,8,20,12,0
+48,Enis Bardhi,mk MKD,MF,Levante,23.5,24,11,7,15,2,8,35,22.9,27,15,4,11,15,39,19,0
+49,Kike Barja,es ESP,"MF,FW",Osasuna,3.5,1,1,1,0,0,1,1,100,0,3,1,2,0,1,2,0
+50,Antonio Barragán,es ESP,DF,Betis,7.1,7,5,4,2,1,3,6,50,3,2,2,0,8,15,22,0
+51,Ander Barrenetxea,es ESP,"FW,MF",Real Sociedad,4.9,12,9,5,5,2,4,10,40,6,3,0,3,3,15,4,0
+52,Marc Bartra,es ESP,"DF,MF",Betis,28,62,34,39,23,0,27,54,50,27,45,24,21,35,97,127,0
+53,Gil Bastião Dias,pt POR,"MF,DF",Granada,4,19,14,10,6,3,7,17,41.2,10,4,1,3,3,22,7,0
+54,Fran Beltrán,es ESP,MF,Celta Vigo,20.3,31,19,15,12,4,11,35,31.4,24,14,1,13,14,45,17,0
+55,Hatem Ben Arfa,fr FRA,"MF,FW",Valladolid,1.8,0,0,0,0,0,0,4,0,4,1,0,1,0,0,0,0
+56,Karim Benzema,fr FRA,FW,Real Madrid,34.9,18,8,3,11,4,2,16,12.5,14,16,4,12,7,25,30,1
+57,Yuri Berchiche,es ESP,DF,Athletic Club,31.7,48,35,32,15,1,21,40,52.5,19,26,4,22,30,78,73,1
+58,Markel Bergara,es ESP,MF,Getafe,0.8,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+59,Sergio Bermejo,es ESP,"MF,FW",Celta Vigo,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+60,Pedro Bigas,es ESP,DF,Eibar,19.7,18,9,11,7,0,9,19,47.4,10,16,10,6,36,54,82,0
+61,Rubén Blanco,es ESP,GK,Celta Vigo,32.9,1,1,1,0,0,1,1,100,0,0,0,0,0,1,14,1
+62,Pablo de Blasis,ar ARG,"DF,MF",Eibar,17.8,41,32,22,13,6,30,63,47.6,33,13,0,13,24,65,21,0
+63,Alejandro Blesa,es ESP,MF,Levante,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+64,Yassine Bounou,ma MAR,GK,Sevilla,5.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+65,Filip Bradari?,hr CRO,MF,Celta Vigo,7.8,12,9,5,5,2,3,8,37.5,5,12,3,9,17,29,19,0
+66,Martin Braithwaite,dk DEN,"FW,MF",Barcelona,4.5,2,2,2,0,0,0,8,0,8,3,0,3,1,3,1,0
+67,Martin Braithwaite,dk DEN,"FW,MF",Leganés,21.5,13,7,4,5,4,4,12,33.3,8,10,2,8,4,17,9,0
+68,Brandon,es ESP,FW,Osasuna,4.5,5,3,1,3,1,0,5,0,5,4,0,4,0,5,1,0
+69,Darko Brasanac,rs SRB,MF,Osasuna,24.9,45,25,14,26,5,15,41,36.6,26,19,4,15,20,65,21,0
+70,Yan Brice Eteki,cm CMR,MF,Granada,16.7,37,21,14,18,5,15,31,48.4,16,17,4,13,24,61,20,1
+71,Bryan,es ESP,"MF,FW",Leganés,6.2,8,4,3,4,1,1,8,12.5,7,6,0,6,3,11,1,0
+72,Bryan,es ESP,FW,Sevilla,0.7,1,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0
+73,Ante Budimir,hr CRO,FW,Mallorca,30.7,31,15,4,22,5,7,29,24.1,22,21,4,17,8,39,29,0
+74,Esteban Burgos,ar ARG,DF,Eibar,12.4,11,9,9,2,0,5,9,55.6,4,11,6,5,17,28,66,2
+75,Burgui,es ESP,MF,Alavés,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+76,Oliver Burke,sct SCO,"MF,FW",Alavés,15.9,19,14,8,9,2,10,23,43.5,13,24,0,24,8,27,16,0
+77,Sergio Busquets,es ESP,MF,Barcelona,27.6,80,44,23,43,14,41,71,57.7,30,36,5,31,44,124,24,2
+78,Unai Bustinza,es ESP,DF,Leganés,29.8,66,40,40,19,7,32,53,60.4,21,30,9,21,65,131,77,0
+79,Erick Cabaco,uy URU,DF,Getafe,3,3,2,1,2,0,0,3,0,3,1,1,0,3,6,11,0
+80,Erick Cabaco,uy URU,DF,Levante,9,12,9,9,3,0,4,6,66.7,2,12,7,5,12,24,50,1
+81,Ariday Cabrera,es ESP,MF,Mallorca,0.4,1,1,1,0,0,0,1,0,1,2,0,2,0,1,0,0
+82,Leandro Cabrera,uy URU,DF,Getafe,17,10,6,5,5,0,5,12,41.7,7,10,4,6,21,31,66,0
+83,Leandro Cabrera,uy URU,DF,Espanyol,17,27,11,17,9,1,17,28,60.7,11,19,12,7,21,48,78,1
+84,Fernando Calero,es ESP,DF,Espanyol,11.6,14,9,10,4,0,7,15,46.7,8,13,5,8,8,22,42,1
+85,Jonathan Calleri,ar ARG,FW,Espanyol,20.1,12,8,6,4,2,3,24,12.5,21,11,3,8,7,19,22,0
+86,Víctor Camarasa,es ESP,MF,Alavés,14.4,18,10,5,10,3,7,18,38.9,11,8,3,5,15,33,12,0
+87,Sergio Camello,es ESP,FW,Atlético Madrid,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+88,José Campaña,es ESP,MF,Levante,35.1,38,25,15,13,10,13,53,24.5,40,30,5,25,44,82,42,2
+89,Xisco Campos,es ESP,DF,Mallorca,5.3,7,4,5,2,0,5,9,55.6,4,8,5,3,11,18,23,0
+90,Víctor Campuzano,es ESP,FW,Espanyol,9.7,12,9,1,6,5,3,19,15.8,16,8,0,8,2,14,4,0
+91,Sergio Canales,es ESP,"MF,FW",Betis,35.1,25,16,14,6,5,7,28,25,21,30,1,29,13,38,16,0
+92,Ander Capa,es ESP,DF,Athletic Club,31.9,64,36,37,21,6,24,59,40.7,35,26,7,19,28,92,63,0
+93,Marc Cardona,es ESP,FW,Osasuna,7.8,1,0,0,1,0,0,8,0,8,3,1,2,2,3,2,0
+94,Diego Carlos,br BRA,DF,Sevilla,34.8,35,23,25,9,1,15,25,60,10,33,24,9,37,72,176,1
+95,Yannick Carrasco,be BEL,"MF,FW",Atlético Madrid,7,11,7,4,4,3,7,21,33.3,14,9,0,9,5,16,2,0
+96,Daniel Carriço,pt POR,DF,Sevilla,9.4,8,2,4,3,1,1,6,16.7,5,4,3,1,8,16,23,0
+97,Guido Carrillo,ar ARG,FW,Leganés,13.5,13,10,3,6,4,2,14,14.3,12,9,1,8,3,16,22,0
+98,Dani Carvajal,es ESP,DF,Real Madrid,30.4,65,46,33,25,7,23,42,54.8,19,43,14,29,36,101,53,0
+99,William Carvalho,pt POR,MF,Betis,9.9,7,4,4,2,1,4,14,28.6,10,7,5,2,4,11,8,1
+100,Casemiro,br BRA,MF,Real Madrid,34.3,96,60,43,45,8,39,99,39.4,60,53,10,43,68,164,72,0
+101,Santi Cazorla,es ESP,MF,Villarreal,27.2,48,25,14,21,13,20,57,35.1,37,23,1,22,19,67,16,2
+102,Sofian Chakla,ma MAR,DF,Villarreal,2,0,0,0,0,0,0,1,0,1,2,1,1,3,3,7,1
+103,Charles,br BRA,FW,Eibar,14.5,10,5,0,6,4,4,22,18.2,18,7,2,5,7,17,6,0
+104,Pablo Chavarría,ar ARG,"FW,MF",Mallorca,2.3,1,1,0,1,0,0,4,0,4,1,1,0,1,2,2,0
+105,Pape Cheikh Diop,sn SEN,MF,Celta Vigo,6.7,10,4,6,3,1,2,12,16.7,10,4,2,2,5,15,3,0
+106,Chema,es ESP,DF,Getafe,3.4,4,3,1,3,0,1,2,50,1,1,0,1,5,9,12,0
+107,Denis Cheryshev,ru RUS,"MF,FW",Valencia,10.3,16,9,5,4,7,3,17,17.6,14,15,1,14,7,23,10,0
+108,Samuel Chukwueze,ng NGA,"FW,MF",Villarreal,22.8,23,14,12,6,5,13,30,43.3,17,15,1,14,10,33,14,1
+109,Churripi,es ESP,GK,Valladolid,2.7,1,1,1,0,0,1,1,100,0,0,0,0,0,1,2,0
+110,Jasper Cillessen,nl NED,GK,Valencia,23.3,0,0,0,0,0,0,1,0,1,0,0,0,3,3,3,1
+111,Óscar Clemente,es ESP,MF,Atlético Madrid,0,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+112,Carlos Clerc,es ESP,DF,Levante,20.5,28,16,14,13,1,12,20,60,8,22,9,13,22,50,61,0
+113,Coke,es ESP,DF,Levante,11,25,18,14,8,3,14,30,46.7,16,9,2,7,13,38,19,0
+114,Álex Collado,es ESP,FW,Barcelona,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+115,Francis Coquelin,fr FRA,MF,Valencia,21.2,37,21,25,11,1,16,38,42.1,22,19,9,10,38,75,25,0
+116,Sébastien Corchia,fr FRA,DF,Espanyol,3,2,1,2,0,0,2,4,50,2,5,2,3,5,7,8,0
+117,Iñigo Córdoba,es ESP,FW,Athletic Club,16,33,20,16,12,5,14,52,26.9,38,30,2,28,16,49,13,0
+118,Ángel Correa,ar ARG,"MF,FW",Atlético Madrid,22.9,25,9,7,9,9,9,36,25,27,23,5,18,14,39,21,0
+119,Rober Correa,es ESP,DF,Eibar,10.3,13,6,8,3,2,6,10,60,4,6,4,2,16,29,31,0
+120,Thierry Correia,pt POR,DF,Valencia,2.9,8,3,5,3,0,1,2,50,1,5,0,5,2,10,10,0
+121,Antonio Cortés,es ESP,"FW,MF",Granada,2,1,1,0,1,0,0,1,0,1,0,0,0,0,1,2,0
+122,Diego Costa,es ESP,FW,Atlético Madrid,15,9,5,1,4,4,1,10,10,9,4,2,2,3,12,10,0
+123,Jaume Costa,es ESP,DF,Valencia,15.4,27,23,17,8,2,14,28,50,14,11,6,5,24,51,52,1
+124,David Costas,es ESP,DF,Celta Vigo,3.8,4,3,3,1,0,2,4,50,2,3,3,0,8,12,12,0
+125,Thibaut Courtois,be BEL,GK,Real Madrid,34,0,0,0,0,0,0,2,0,2,0,0,0,2,2,18,2
+126,Sebastián Cristóforo,uy URU,MF,Eibar,9.7,35,19,11,14,10,13,32,40.6,19,25,3,22,8,43,2,0
+127,Cucho,co COL,"FW,MF",Mallorca,16.5,15,8,6,8,1,6,21,28.6,15,14,1,13,10,25,15,0
+128,Marc Cucurella,es ESP,"MF,DF",Getafe,36,74,51,23,38,13,24,76,31.6,52,58,8,50,36,110,28,1
+129,Iván Cuéllar,es ESP,GK,Leganés,27,0,0,0,0,0,0,2,0,2,0,0,0,0,0,28,2
+130,Moanes Dabbur,il ISR,FW,Sevilla,0.3,1,1,0,0,1,0,0,,0,1,0,1,0,1,0,0
+131,Sergi Darder,es ESP,MF,Espanyol,29.5,47,23,11,26,10,17,58,29.3,41,30,1,29,24,71,23,1
+132,Ousmane Dembélé,fr FRA,FW,Barcelona,4,2,2,1,1,0,2,5,40,3,4,0,4,0,2,0,1
+133,Deyverson,br BRA,FW,Getafe,2.3,0,0,0,0,0,0,1,0,1,2,1,1,0,0,5,0
+134,Mouctar Diakhaby,gn GUI,DF,Valencia,16,11,8,7,3,1,5,8,62.5,3,17,15,2,11,22,73,0
+135,Brahim Díaz,es ESP,FW,Real Madrid,0.7,1,0,0,1,0,0,2,0,2,2,0,2,0,1,0,0
+136,Víctor Díaz,es ESP,DF,Granada,32,74,43,38,31,5,31,60,51.7,29,53,23,30,48,122,94,1
+137,Papakouli Diop,sn SEN,MF,Eibar,25,39,26,13,22,4,18,42,42.9,24,24,7,17,34,73,38,0
+138,Djené,tg TOG,DF,Getafe,34,42,32,27,15,0,17,30,56.7,13,20,7,13,34,76,105,1
+139,Naïs Djouahra,fr FRA,FW,Real Sociedad,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+140,Marko Dmitrovi?,rs SRB,GK,Eibar,35,3,2,3,0,0,3,5,60,2,1,0,1,3,6,24,0
+141,Jaume Doménech,es ESP,GK,Valencia,14.7,0,0,0,0,0,0,1,0,1,0,0,0,1,1,3,1
+142,Domingos Duarte,pt POR,DF,Granada,34.3,30,19,24,5,1,11,20,55,9,34,24,10,34,64,153,1
+143,Óscar Duarte,cr CRC,DF,Levante,5.4,12,3,11,1,0,3,4,75,1,7,6,1,6,18,29,0
+144,Rubén Duarte,es ESP,DF,Alavés,29.6,61,32,30,28,3,34,60,56.7,26,30,8,22,47,108,71,0
+145,Hugo Duro,es ESP,"FW,MF",Getafe,4.2,6,5,2,2,2,4,8,50,4,3,0,3,1,7,3,0
+146,Aritz Elustondo,es ESP,DF,Real Sociedad,16.8,28,17,19,8,1,13,23,56.5,10,21,8,13,15,43,67,0
+147,Rodrigo Ely,br BRA,DF,Alavés,23.6,22,13,15,7,0,13,29,44.8,16,23,19,4,32,54,116,0
+148,Adri Embarba,es ESP,"MF,FW",Espanyol,15.2,37,22,16,16,5,16,33,48.5,17,28,4,24,16,53,11,0
+149,Emerson,br BRA,DF,Betis,31.5,74,46,49,19,6,36,79,45.6,43,30,9,21,31,105,57,1
+150,Youssef En-Nesyri,ma MAR,FW,Leganés,15.4,9,7,1,2,6,3,17,17.6,14,15,2,13,5,14,22,0
+151,Youssef En-Nesyri,ma MAR,FW,Sevilla,8.8,7,5,1,6,0,3,10,30,7,9,3,6,5,12,7,0
+152,Sergi Enrich,es ESP,FW,Eibar,20.7,17,6,4,8,5,4,21,19,17,16,2,14,9,26,12,0
+153,Javier Eraso,es ESP,MF,Leganés,9.1,11,5,4,5,2,5,15,33.3,10,5,0,5,7,18,5,0
+154,Gonzalo Escalante,ar ARG,MF,Eibar,18.6,41,22,15,17,9,24,41,58.5,17,22,4,18,29,70,14,0
+155,Aarón Escandell,es ESP,GK,Granada,3,1,1,1,0,0,1,1,100,0,0,0,0,0,1,0,0
+156,Sergio Escudero,es ESP,DF,Sevilla,8.6,29,16,17,10,2,19,28,67.9,9,11,1,10,13,42,35,0
+157,Bernardo Espinosa,co COL,DF,Espanyol,25.1,24,16,18,4,2,16,28,57.1,12,19,11,8,24,48,108,2
+158,Vicente Esquerdo,es ESP,"MF,FW",Valencia,0.2,1,0,1,0,0,0,0,,0,1,0,1,0,1,1,0
+159,Pervis Estupiñán,ec ECU,DF,Osasuna,33.1,84,45,53,27,4,42,77,54.5,35,30,7,23,58,142,61,6
+160,Oghenekaro Etebo,ng NGA,MF,Getafe,6.4,12,4,5,7,0,7,12,58.3,5,10,1,9,11,23,4,1
+161,Beñat Etxebarria,es ESP,MF,Athletic Club,4.4,6,1,2,3,1,2,13,15.4,11,6,1,5,4,10,6,0
+162,Xabier Etxeita,es ESP,DF,Getafe,16.1,20,11,11,9,0,12,23,52.2,11,9,5,4,17,37,68,0
+163,Edu Expósito,es ESP,MF,Eibar,25.7,52,28,12,31,9,18,49,36.7,31,20,6,14,31,83,18,1
+164,Fabricio,es ESP,GK,Mallorca,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,1
+165,Fayçal Fajr,ma MAR,MF,Getafe,4.5,1,1,0,1,0,0,3,0,3,4,0,4,4,5,1,0
+166,Eliseo Falcon,es ESP,DF,Levante,0.8,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+167,Ansu Fati,es ESP,FW,Barcelona,11.4,16,8,4,7,5,5,15,33.3,10,14,1,13,8,24,3,0
+168,Aleix Febas,es ESP,"MF,FW",Mallorca,18.8,36,24,13,19,4,12,36,33.3,24,15,0,15,17,53,6,0
+169,Zouhair Feddal,ma MAR,DF,Betis,15.9,20,13,14,5,1,10,14,71.4,4,15,9,6,23,43,74,0
+170,Ljubomir Fejsa,rs SRB,MF,Alavés,8.7,19,13,8,10,1,6,23,26.1,17,8,1,7,6,25,13,0
+171,Nabil Fekir,fr FRA,"MF,FW",Betis,29.3,41,26,14,19,8,12,37,32.4,25,27,3,24,10,51,3,0
+172,Felipe,br BRA,DF,Atlético Madrid,23.4,27,19,21,6,0,14,24,58.3,10,18,13,5,40,67,130,0
+173,João Félix,pt POR,"FW,MF",Atlético Madrid,19.4,9,3,3,3,3,4,14,28.6,10,4,0,4,10,19,4,1
+174,Matheus Fernandes,br BRA,"MF,FW",Valladolid,1.8,6,2,2,2,2,3,5,60,2,4,0,4,2,8,2,0
+175,Aitor Fernández,es ESP,GK,Levante,36,1,1,1,0,0,1,1,100,0,0,0,0,2,3,18,3
+176,Andrés Fernández,es ESP,GK,Villarreal,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+177,Carlos Fernández,es ESP,"FW,MF",Granada,24.5,24,15,7,11,6,3,32,9.4,29,25,2,23,11,35,30,0
+178,Gabriel Fernández,uy URU,"FW,MF",Celta Vigo,6.2,1,0,0,1,0,1,3,33.3,2,5,1,4,2,3,2,0
+179,Joaquín Fernández,es ESP,"MF,DF",Valladolid,18.4,30,24,17,10,3,9,30,30,21,14,10,4,32,62,57,0
+180,Fernando,br BRA,MF,Sevilla,29.5,62,33,37,24,1,34,58,58.6,24,38,15,23,67,129,73,1
+181,Facundo Ferreyra,ar ARG,"FW,MF",Espanyol,6.4,9,4,4,5,0,3,10,30,7,4,0,4,2,11,5,0
+182,Junior Firpo,es ESP,DF,Barcelona,11.3,23,15,12,8,3,11,17,64.7,6,15,3,12,17,40,12,1
+183,Alessandro Florenzi,it ITA,DF,Valencia,8.4,13,9,9,4,0,8,18,44.4,10,11,1,10,14,27,21,0
+184,Hernâni Fortes,pt POR,"MF,FW",Levante,7.3,5,2,4,0,1,1,3,33.3,2,3,0,3,4,9,9,0
+185,Dimitri Foulquier,fr FRA,"DF,MF",Granada,12.4,25,11,13,9,3,11,20,55,9,8,3,5,16,41,32,0
+186,Jorge de Frutos,es ESP,"MF,DF",Valladolid,0.7,2,2,2,0,0,1,2,50,1,0,0,0,0,2,1,0
+187,Ramiro Funes Mori,ar ARG,DF,Villarreal,5,5,2,2,3,0,0,2,0,2,8,2,6,3,8,9,1
+188,Enric Gallego,es ESP,FW,Osasuna,9.8,9,5,1,5,3,0,4,0,4,10,2,8,4,13,8,0
+189,Enric Gallego,es ESP,FW,Getafe,1.8,3,1,1,1,1,2,4,50,2,2,0,2,2,5,1,0
+190,Kévin Gameiro,fr FRA,FW,Valencia,17.6,17,9,7,6,4,5,21,23.8,16,10,1,9,5,22,5,0
+191,Fran Gámez,es ESP,DF,Mallorca,19.6,64,42,32,27,5,33,74,44.6,41,31,11,20,29,93,41,0
+192,Ezequiel Garay,ar ARG,DF,Valencia,16,12,8,9,2,1,7,11,63.6,4,19,17,2,14,26,71,0
+193,Dani García,es ESP,MF,Athletic Club,33.7,59,30,30,27,2,30,86,34.9,56,25,7,18,52,111,56,1
+194,David García,es ESP,DF,Osasuna,31,28,16,15,12,1,14,31,45.2,17,20,16,4,48,76,123,2
+195,Javi García,es ESP,MF,Betis,4.2,2,2,2,0,0,2,3,66.7,1,1,0,1,4,6,15,0
+196,Manu García,es ESP,MF,Alavés,21.9,46,23,11,31,4,17,72,23.6,55,28,12,16,28,74,32,1
+197,Raúl García,es ESP,"DF,MF",Valladolid,11.2,20,12,11,7,2,9,22,40.9,13,12,2,10,8,28,30,0
+198,Raúl García,es ESP,"MF,FW",Athletic Club,31.9,57,37,19,26,12,16,76,21.1,60,46,6,40,24,81,44,0
+199,Raúl García,es ESP,DF,Getafe,2.7,5,3,2,3,0,3,6,50,3,3,1,2,4,9,10,0
+200,Rubén García,es ESP,"MF,FW",Osasuna,24.3,55,30,22,26,7,18,46,39.1,28,34,5,29,11,66,23,1
+201,Unai García,es ESP,DF,Osasuna,6,9,6,4,4,1,5,9,55.6,4,13,9,4,8,17,31,0
+202,Víctor García,es ESP,"FW,MF",Valladolid,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,1,0
+203,Manuel Garrido,es ESP,FW,Leganés,1.3,0,0,0,0,0,0,6,0,6,3,1,2,1,1,0,0
+204,Mario Gaspar,es ESP,DF,Villarreal,21.8,35,20,16,16,3,15,31,48.4,16,25,10,15,26,61,69,0
+205,José Antonio Martínez Gil,es ESP,DF,Granada,13.2,,15,,,,,,,,,,,20,,,
+206,Ibai Gómez,es ESP,FW,Athletic Club,7.7,5,3,2,2,1,3,8,37.5,5,4,0,4,3,8,6,0
+207,Maxi Gómez,uy URU,FW,Valencia,23.8,9,7,1,6,2,4,8,50,4,8,1,7,5,14,14,0
+208,Moi Gómez,es ESP,"FW,MF",Villarreal,25.8,30,22,9,14,7,11,33,33.3,22,22,2,20,25,55,23,0
+209,Sergi Gómez,es ESP,DF,Sevilla,8,9,7,7,2,0,4,4,100,0,6,6,0,7,16,30,0
+210,Maxime Gonalons,fr FRA,MF,Granada,16.7,62,38,25,35,2,22,54,40.7,32,27,3,24,20,82,20,1
+211,Bruno González,es ESP,DF,Getafe,2,3,2,3,0,0,1,1,100,0,2,0,2,0,3,3,0
+212,Bruno González,es ESP,DF,Levante,5.1,10,8,7,2,1,2,4,50,2,7,4,3,2,12,32,0
+213,Édgar González,es ESP,MF,Betis,7.6,8,3,3,5,0,2,14,14.3,12,4,2,2,10,18,16,0
+214,Gonzalo,es ESP,DF,Levante,0.1,1,0,0,1,0,0,0,,0,0,0,0,0,1,0,0
+215,Andoni Gorosabel,es ESP,DF,Real Sociedad,7.9,14,8,9,3,2,10,20,50,10,13,1,12,13,27,21,0
+216,Esteban Granero,es ESP,MF,Espanyol,5.3,10,4,5,3,2,5,11,45.5,6,3,2,1,2,12,5,0
+217,Antoine Griezmann,fr FRA,FW,Barcelona,28.3,33,18,12,11,10,9,34,26.5,25,22,3,19,12,45,20,1
+218,Andrés Guardado,mx MEX,MF,Betis,22.7,30,14,15,11,4,15,41,36.6,26,15,4,11,18,48,22,1
+219,Sergi Guardiola,es ESP,FW,Valladolid,29.5,14,6,3,7,4,4,24,16.7,20,23,0,23,6,20,18,1
+220,Nemanja Gudelj,rs SRB,"MF,DF",Sevilla,13.5,20,14,11,8,1,6,19,31.6,13,17,8,9,12,32,35,1
+221,Gonçalo Guedes,pt POR,"MF,FW",Valencia,14.1,19,11,11,7,1,9,32,28.1,23,10,1,9,7,26,1,0
+222,Adrián Guerrero,es ESP,DF,Valencia,1.4,2,2,1,1,0,2,3,66.7,1,0,0,0,2,4,1,0
+223,Ander Guevara,es ESP,MF,Real Sociedad,10.4,27,11,9,17,1,12,30,40,18,13,3,10,8,35,15,1
+224,John Guidetti,se SWE,"FW,MF",Alavés,1.1,2,1,0,1,1,0,0,,0,1,0,1,0,2,0,0
+225,Hugo Guillamón,es ESP,DF,Valencia,5.5,8,3,5,2,1,5,10,50,5,3,2,1,5,13,29,0
+226,Munir El Haddadi,ma MAR,FW,Sevilla,13.9,19,17,6,11,2,4,21,19,17,8,0,8,7,26,8,0
+227,Eden Hazard,be BEL,"FW,MF",Real Madrid,12,7,3,2,3,2,3,15,20,12,5,0,5,6,13,0,0
+228,Mario Hermoso,es ESP,DF,Atlético Madrid,13.5,15,8,12,2,1,11,20,55,9,11,5,6,12,27,61,0
+229,Aridane Hernández,gq EQG,DF,Osasuna,29,35,23,22,13,0,15,19,78.9,4,24,15,9,34,69,137,2
+230,Javier Hernández,mx MEX,FW,Sevilla,5,6,4,0,4,2,1,6,16.7,5,5,0,5,5,11,1,0
+231,Juan Hernández,es ESP,"FW,MF",Celta Vigo,1,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
+232,Héctor Herrera,mx MEX,MF,Atlético Madrid,12.5,31,21,9,18,4,13,32,40.6,19,16,7,9,17,48,13,2
+233,Sergio Herrera,es ESP,GK,Osasuna,18.4,1,1,1,0,0,1,4,25,3,0,0,0,1,2,13,3
+234,Yangel Herrera,ve VEN,MF,Granada,26.3,88,49,25,53,10,36,80,45,44,38,9,29,34,122,28,0
+235,Iago Herrerín,es ESP,GK,Athletic Club,4.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+236,Pablo Hervías,es ESP,"MF,FW",Valladolid,11.3,24,20,8,14,2,12,22,54.5,10,8,0,8,5,29,0,0
+237,Robert Ibáñez,es ESP,"MF,FW",Osasuna,6,13,8,4,5,4,7,20,35,13,7,0,7,5,18,5,0
+238,Vicente Iborra,es ESP,MF,Villarreal,29.4,61,42,31,25,5,30,67,44.8,37,35,16,19,40,101,63,1
+239,Borja Iglesias,es ESP,FW,Betis,21.4,7,5,1,4,2,0,9,0,9,7,4,3,5,12,18,0
+240,Asier Illarramendi,es ESP,MF,Real Sociedad,2.4,2,2,1,0,1,2,6,33.3,4,2,1,1,5,7,6,0
+241,Takashi Inui,jp JPN,"MF,FW",Eibar,21.8,20,10,7,8,5,11,34,32.4,23,23,4,19,18,38,12,0
+242,Alexander Isak,se SWE,FW,Real Sociedad,16.7,7,2,0,3,4,1,8,12.5,7,8,0,8,3,10,6,0
+243,Isco,es ESP,"FW,MF",Real Madrid,13.1,13,9,2,10,1,5,14,35.7,9,9,0,9,7,20,4,1
+244,Ismael,es ESP,MF,Betis,0.9,2,1,1,1,0,1,2,50,1,2,1,1,2,4,2,0
+245,Ander Iturraspe,es ESP,MF,Espanyol,2.7,2,0,1,1,0,2,5,40,3,0,0,0,1,3,7,0
+246,Jacobo,es ESP,"DF,MF",Celta Vigo,0.9,3,3,2,1,0,1,1,100,0,0,0,0,0,3,2,0
+247,Adnan Januzaj,be BEL,"FW,MF",Real Sociedad,13,8,7,3,2,3,3,16,18.8,13,9,1,8,7,15,2,0
+248,Jason,es ESP,MF,Getafe,13.1,29,20,8,16,5,15,33,45.5,18,18,3,15,18,47,9,0
+249,Joaquín,es ESP,"MF,FW",Betis,22.9,14,7,4,8,2,4,11,36.4,7,10,2,8,15,29,22,1
+250,Frenkie de Jong,nl NED,MF,Barcelona,23.5,26,19,7,12,7,7,22,31.8,15,17,7,10,21,47,9,0
+251,Luuk de Jong,nl NED,FW,Sevilla,22.9,21,10,4,8,9,6,17,35.3,11,12,1,11,7,28,22,0
+252,Joan Jordán,es ESP,MF,Sevilla,25,64,34,27,31,6,21,76,27.6,55,25,5,20,26,90,20,4
+253,Willian José,br BRA,FW,Real Sociedad,22.3,5,2,0,4,1,2,8,25,6,10,4,6,1,6,16,0
+254,Joselu,es ESP,FW,Alavés,30.9,26,17,4,12,10,4,32,12.5,28,36,5,31,13,39,46,0
+255,Luka Jovic,rs SRB,FW,Real Madrid,4.8,2,1,0,0,2,1,2,50,1,1,0,1,2,4,0,0
+256,Juanmi,es ESP,"FW,MF",Betis,2.9,4,1,1,2,1,1,4,25,3,1,0,1,0,4,0,0
+257,David Juncà,es ESP,DF,Celta Vigo,2.9,6,5,4,1,1,2,3,66.7,1,4,1,3,2,8,3,0
+258,Lago Junior,ci CIV,"MF,FW",Mallorca,24.3,32,19,12,11,9,12,29,41.4,17,23,5,18,14,46,25,0
+259,Vinicius Júnior,br BRA,"FW,MF",Real Madrid,15.2,26,16,13,8,5,8,32,25,24,14,0,14,3,29,2,0
+260,Lee Kangin,kr KOR,"MF,FW",Valencia,5,3,1,0,2,1,3,6,50,3,5,0,5,3,6,0,0
+261,Wilfrid Kaptoum,cm CMR,MF,Betis,2.2,5,2,3,2,0,3,3,100,0,4,1,3,1,6,3,0
+262,Kenedy,br BRA,MF,Getafe,6.5,9,5,3,3,3,2,5,40,3,10,0,10,11,20,4,0
+263,Kike,es ESP,FW,Eibar,19.6,13,7,0,5,8,4,12,33.3,8,15,1,14,1,14,9,0
+264,Giorgi Kochorashvili,ge GEO,MF,Levante,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+265,Kenan Kodro,ba BIH,"FW,MF",Athletic Club,4,1,0,0,0,1,0,2,0,2,1,0,1,0,1,4,0
+266,Koke,es ESP,MF,Atlético Madrid,30,70,42,27,30,13,29,89,32.6,60,33,8,25,29,99,28,2
+267,Geoffrey Kondogbia,cf CTA,MF,Valencia,20.1,63,40,40,18,5,19,51,37.3,32,25,6,19,57,120,36,2
+268,Jules Koundé,fr FRA,DF,Sevilla,25.7,23,12,14,5,4,10,18,55.6,8,16,12,4,23,46,91,2
+269,Leonardo Koutris,gr GRE,DF,Mallorca,1,1,1,0,0,1,1,2,50,1,1,1,0,1,2,6,0
+270,Ismail Köybasi,tr TUR,"DF,FW",Granada,2.6,4,4,3,1,0,0,2,0,2,4,0,4,5,9,2,0
+271,Toni Kroos,de GER,MF,Real Madrid,29.5,56,28,18,29,9,18,70,25.7,52,27,0,27,23,79,15,0
+272,Takefusa Kubo,jp JPN,"MF,FW",Mallorca,25.7,34,22,16,12,6,15,44,34.1,29,19,1,18,23,57,10,0
+273,Víctor Laguardia,es ESP,DF,Alavés,29.5,21,15,15,6,0,16,30,53.3,14,24,18,6,37,58,131,1
+274,Diego Lainez,mx MEX,"MF,FW",Betis,3.9,6,5,2,4,0,5,8,62.5,3,6,0,6,1,7,1,0
+275,Larra,es ESP,"FW,MF",Athletic Club,2.8,2,2,0,1,1,0,0,,0,1,0,1,0,2,0,0
+276,Toni Lato,es ESP,"DF,MF",Osasuna,5.2,22,15,11,8,3,9,10,90,1,9,1,8,8,30,13,1
+277,Robin Le Normand,fr FRA,DF,Real Sociedad,26.6,48,27,33,15,0,26,35,74.3,9,20,7,13,20,68,99,0
+278,Wu Lei,cn CHN,"FW,MF",Espanyol,19.1,13,8,5,6,2,4,38,10.5,34,32,1,31,15,28,19,1
+279,Iñigo Lekue,es ESP,"FW,DF",Athletic Club,6.9,22,12,14,6,2,11,14,78.6,3,7,0,7,3,25,11,0
+280,Thomas Lemar,fr FRA,MF,Atlético Madrid,10.3,12,8,4,5,3,2,11,18.2,9,14,1,13,6,18,6,0
+281,Clément Lenglet,fr FRA,DF,Barcelona,26.9,44,31,29,15,0,16,32,50,16,29,15,14,35,79,79,1
+282,Pedro León,es ESP,"MF,FW",Eibar,21.1,28,20,8,9,11,12,25,48,13,18,1,17,19,47,7,0
+283,Sergio León,es ESP,FW,Levante,7.5,3,3,0,3,0,2,4,50,2,3,0,3,1,4,2,0
+284,Lillo,es ESP,DF,Osasuna,2.2,4,2,2,2,0,1,1,100,0,2,1,1,2,6,8,0
+285,Diego Llorente,es ESP,DF,Real Sociedad,25.9,30,14,20,9,1,16,28,57.1,12,14,7,7,28,58,101,5
+286,Marcos Llorente,es ESP,"MF,FW",Atlético Madrid,15.2,29,15,7,16,6,7,21,33.3,14,24,4,20,14,43,9,0
+287,Stanislav Lobotka,sk SVK,MF,Celta Vigo,15.4,19,11,13,5,1,4,19,21.1,15,8,2,6,8,27,7,0
+288,Renan Lodi,br BRA,DF,Atlético Madrid,26.6,73,46,28,35,10,40,65,61.5,25,28,7,21,38,111,56,0
+289,Rony Lopes,pt POR,FW,Sevilla,1.5,0,0,0,0,0,0,0,,0,0,0,0,2,2,0,0
+290,Adrián López,es ESP,FW,Osasuna,16,7,5,1,5,1,2,19,10.5,17,6,2,4,4,11,8,0
+291,David López,es ESP,"DF,MF",Espanyol,27.3,38,20,15,20,3,13,41,31.7,28,28,13,15,35,73,63,3
+292,Diego López,es ESP,GK,Espanyol,35.9,2,2,2,0,0,1,2,50,1,0,0,0,2,4,8,1
+293,Javi López,es ESP,DF,Alavés,1,6,5,4,2,0,4,5,80,1,1,1,0,1,7,5,0
+294,Javi López,es ESP,DF,Espanyol,15.4,47,34,23,18,6,19,40,47.5,21,12,6,6,21,68,38,2
+295,Lluis López,es ESP,DF,Espanyol,3.3,4,2,3,1,0,2,2,100,0,4,0,4,1,5,6,1
+296,Roberto López,es ESP,"FW,MF",Real Sociedad,0.6,4,2,1,1,2,2,2,100,0,0,0,0,0,4,0,0
+297,Unai López,es ESP,MF,Athletic Club,19.9,30,22,8,18,4,10,41,24.4,31,13,2,11,18,48,12,1
+298,Losada,es ESP,"MF,FW",Celta Vigo,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+299,Pol Lozano,es ESP,MF,Espanyol,1.9,5,3,3,2,0,3,7,42.9,4,3,0,3,1,6,2,0
+300,José Luis Gayà,es ESP,DF,Valencia,22.1,44,30,29,12,3,28,41,68.3,13,22,9,13,18,62,48,1
+301,José Luis Morales,es ESP,"FW,MF",Levante,28,17,8,5,9,3,6,34,17.6,28,14,1,13,6,23,5,1
+303,Darwin Machís,ve VEN,"FW,MF",Granada,23.7,23,13,11,8,4,8,23,34.8,15,22,4,18,31,54,9,0
+304,Lisandro Magallán,ar ARG,DF,Alavés,13.3,22,15,10,12,0,8,14,57.1,6,17,6,11,16,38,43,1
+305,Abdallahi Mahmoud,mr MTN,MF,Alavés,1.7,4,4,2,1,1,1,6,16.7,5,0,0,0,5,9,2,0
+306,Nemanja Maksimovi?,rs SRB,MF,Getafe,32.2,49,28,12,31,6,10,44,22.7,34,37,7,30,56,105,30,1
+307,Hugo Mallo,es ESP,DF,Celta Vigo,21.8,62,42,44,16,2,27,48,56.3,21,24,8,16,22,84,97,1
+308,Aïssa Mandi,dz ALG,DF,Betis,28.6,33,15,22,8,3,18,28,64.3,10,29,15,14,38,71,93,0
+309,Eliaquim Mangala,fr FRA,DF,Valencia,7.5,4,4,3,1,0,1,2,50,1,7,6,1,7,11,40,0
+310,Marcelo,br BRA,DF,Real Madrid,14.4,19,11,8,8,3,9,28,32.1,19,19,2,17,18,37,21,0
+311,Óscar de Marcos,es ESP,"DF,FW",Athletic Club,6,5,3,2,1,2,3,6,50,3,6,0,6,8,13,8,0
+312,Miguel Marí,es ESP,MF,Eibar,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+313,José María Giménez,uy URU,DF,Atlético Madrid,19.5,20,16,18,1,1,7,11,63.6,4,14,7,7,23,43,75,1
+314,Mariano,do DOM,"FW,MF",Real Madrid,0.5,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+315,Adrián Marín,es ESP,DF,Alavés,9.5,22,15,14,6,2,13,15,86.7,2,13,4,9,13,35,32,0
+316,Guillermo Maripán,cl CHI,DF,Alavés,1,1,1,1,0,0,1,2,50,1,0,0,0,2,3,10,0
+317,Roger Martí,es ESP,FW,Levante,25.2,18,11,8,7,3,7,29,24.1,22,14,0,14,6,24,17,0
+318,Daniel Martín,es ESP,GK,Betis,5.9,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0
+319,Álex Martínez,es ESP,DF,Granada,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+320,Iñigo Martínez,es ESP,DF,Athletic Club,33,48,30,33,13,2,27,47,57.4,20,28,13,15,39,87,140,0
+321,Javi Martínez,es ESP,MF,Osasuna,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+322,Pablo Martínez,es ESP,MF,Levante,0.4,2,0,1,1,0,0,1,0,1,0,0,0,0,2,2,0
+323,Jordi Masip,es ESP,GK,Valladolid,35,1,1,1,0,0,0,2,0,2,0,0,0,1,2,7,3
+324,Jaime Mata,es ESP,FW,Getafe,30.5,21,13,3,11,7,3,20,15,17,16,1,15,7,28,15,0
+325,Borja Mayoral,es ESP,FW,Levante,23.8,12,3,4,6,2,2,13,15.4,11,11,0,11,4,16,6,0
+326,Óscar Melendo,es ESP,"MF,FW",Espanyol,12.4,10,4,4,4,2,4,12,33.3,8,7,2,5,2,12,3,0
+327,Gonzalo Melero,es ESP,MF,Levante,13.7,20,13,9,9,2,7,27,25.9,20,12,3,9,9,29,15,1
+328,Arthur Melo,br BRA,MF,Barcelona,13.1,15,10,4,7,4,4,12,33.3,8,9,0,9,4,19,5,2
+329,Brais Méndez,es ESP,"MF,FW",Celta Vigo,16.4,26,11,14,9,3,12,39,30.8,27,20,0,20,12,38,23,1
+330,Édgar Méndez,es ESP,"MF,FW",Alavés,9.6,11,7,4,6,1,5,13,38.5,8,10,2,8,5,16,7,0
+331,Ferland Mendy,fr FRA,DF,Real Madrid,20.1,32,26,20,9,3,14,18,77.8,4,19,5,14,22,54,30,1
+332,Fran Mérida,es ESP,MF,Osasuna,12.9,27,15,11,10,6,9,27,33.3,18,15,4,11,25,52,10,0
+333,Mikel Merino,es ESP,MF,Real Sociedad,34.9,79,52,20,44,15,28,86,32.6,58,46,8,38,51,130,52,0
+334,Sabin Merino,es ESP,FW,Leganés,0.9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+335,Roque Mesa,es ESP,MF,Leganés,22.4,40,21,17,18,5,13,44,29.5,31,13,4,9,11,51,8,0
+336,Lionel Messi,ar ARG,FW,Barcelona,32,21,10,4,7,10,3,21,14.3,18,9,0,9,7,28,1,0
+337,Míchel,es ESP,MF,Valladolid,24.2,50,28,26,19,5,22,75,29.3,53,22,4,18,33,83,41,1
+338,Miguel,es ESP,FW,Valladolid,2.6,2,1,1,0,1,1,2,50,1,3,1,2,0,2,1,0
+339,Éder Militão,br BRA,DF,Real Madrid,11.4,25,15,15,9,1,10,17,58.8,7,12,6,6,20,45,42,0
+340,Santi Mina,es ESP,"FW,MF",Celta Vigo,21.6,13,8,8,5,0,5,38,13.2,33,19,2,17,10,23,27,0
+341,Jorge Miramón,es ESP,DF,Levante,27,52,27,35,13,4,26,45,57.8,19,30,8,22,46,98,61,1
+342,Luka Modric,hr CRO,MF,Real Madrid,22.2,37,18,9,15,13,16,41,39,25,10,2,8,22,59,12,0
+343,Jorge Molina,es ESP,FW,Getafe,21,8,2,0,4,4,0,12,0,12,13,2,11,4,12,18,0
+344,Jon Moncayola,es ESP,"MF,DF",Osasuna,16.6,52,30,26,22,4,27,54,50,27,29,5,24,16,68,23,1
+345,Nacho Monreal,es ESP,DF,Real Sociedad,26.6,38,16,26,9,3,22,42,52.4,20,20,4,16,43,81,66,0
+346,Joan Monterde,es ESP,MF,Levante,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+347,Ángel Montoro,es ESP,MF,Granada,10.8,19,8,8,9,2,3,13,23.1,10,10,1,9,13,32,15,0
+348,Álvaro Morata,es ESP,FW,Atlético Madrid,23.3,17,8,4,9,4,1,13,7.7,12,12,2,10,5,22,23,0
+349,Alberto Moreno,es ESP,DF,Villarreal,16.3,27,16,15,11,1,9,25,36,16,15,3,12,25,52,36,0
+350,Álex Moreno,es ESP,DF,Betis,25.2,37,20,27,8,2,12,32,37.5,20,21,8,13,23,60,47,1
+351,Gerard Moreno,es ESP,"FW,MF",Villarreal,30.5,19,8,4,10,5,5,46,10.9,41,19,3,16,10,29,51,0
+352,Manu Morlanes,es ESP,MF,Villarreal,2.8,7,3,3,4,0,2,9,22.2,7,1,1,0,2,9,2,0
+353,Loren Morón,es ESP,FW,Betis,22.6,18,12,6,7,5,9,23,39.1,14,25,6,19,9,27,13,0
+354,Toni Moya,es ESP,MF,Atlético Madrid,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+355,Javi Moyano,es ESP,DF,Valladolid,24.7,19,8,11,8,0,8,20,40,12,18,5,13,27,46,63,0
+356,Iker Muniain,es ESP,"FW,MF",Athletic Club,26.5,26,19,11,10,5,4,24,16.7,20,9,0,9,12,38,7,0
+357,Aihen Muñoz,es ESP,DF,Real Sociedad,10.9,28,18,13,12,3,18,27,66.7,9,13,2,11,2,30,19,0
+358,Javier Muñoz,es ESP,"FW,MF",Alavés,0.6,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0
+359,Jeison Murillo,co COL,DF,Celta Vigo,17,37,20,30,6,1,18,27,66.7,9,13,9,4,20,57,74,2
+360,Nacho,es ESP,DF,Valladolid,21,43,22,24,15,4,17,48,35.4,31,36,8,28,25,68,61,0
+361,Nacho,es ESP,DF,Real Madrid,4.9,11,6,6,3,2,6,10,60,4,5,3,2,12,23,18,1
+362,Naldo,br BRA,DF,Espanyol,14.8,24,13,15,9,0,7,15,46.7,8,11,7,4,21,45,50,1
+363,Marc Navarro,es ESP,"FW,DF",Leganés,2.4,3,3,2,1,0,1,1,100,0,2,1,1,0,3,3,0
+364,Ximo Navarro,es ESP,DF,Alavés,21.1,34,19,17,15,2,16,28,57.1,12,20,7,13,52,86,76,2
+365,Jesús Navas,es ESP,DF,Sevilla,37.4,27,15,16,7,4,15,32,46.9,17,20,7,13,31,58,70,0
+366,Raúl Navas,es ESP,DF,Osasuna,7.9,10,5,4,6,0,4,13,30.8,9,10,4,6,18,28,30,0
+367,Neto,br BRA,GK,Barcelona,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+368,Carlos Neva,es ESP,DF,Granada,24.5,16,11,12,3,1,9,21,42.9,12,15,2,13,28,44,60,0
+369,Saúl Ñíguez,es ESP,"MF,DF",Atlético Madrid,34.1,95,59,44,42,9,39,88,44.3,49,58,13,45,55,150,68,1
+370,Fernando Niño,es ESP,FW,Villarreal,0.9,1,0,0,1,0,1,2,50,1,0,0,0,0,1,2,0
+371,Nolito,es ESP,FW,Sevilla,10,21,12,5,11,5,7,20,35,13,7,0,7,1,22,1,0
+372,Nolito,es ESP,"MF,FW",Celta Vigo,3.6,7,5,5,2,0,3,8,37.5,5,4,1,3,1,8,4,0
+373,Unai Núñez,es ESP,DF,Athletic Club,17.5,13,10,10,2,1,6,16,37.5,10,25,17,8,23,36,71,0
+374,Allan Nyom,cm CMR,"DF,MF",Getafe,26.9,45,25,26,15,4,20,37,54.1,17,24,5,19,14,59,50,1
+375,Jan Oblak,si SVN,GK,Atlético Madrid,37.7,0,0,0,0,0,0,0,,0,0,0,0,1,1,4,2
+376,Rafel Obrador,es ESP,DF,Mallorca,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+377,Lucas Ocampos,ar ARG,"FW,MF",Sevilla,30.5,54,31,30,19,5,30,72,41.7,42,33,2,31,22,76,27,0
+378,Álvaro Odriozola,es ESP,DF,Real Madrid,3.8,5,2,4,0,1,5,8,62.5,3,4,0,4,2,7,8,0
+379,Lucas Olaza,uy URU,DF,Celta Vigo,34.9,56,39,36,17,3,39,59,66.1,20,37,10,27,31,87,60,1
+380,Oier Olazábal,es ESP,GK,Espanyol,2,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+381,Kiko Olivas,es ESP,DF,Valladolid,32.7,33,16,25,7,1,13,35,37.1,22,30,16,14,61,94,112,2
+382,Paulo Oliveira,pt POR,DF,Eibar,23.2,31,19,22,8,1,18,30,60,12,23,13,10,42,73,107,1
+383,Mathías Olivera,uy URU,DF,Getafe,20.8,64,40,34,16,14,27,45,60,18,32,3,29,23,87,44,0
+384,Kenneth Omeruo,ng NGA,DF,Leganés,20.8,28,17,25,3,0,11,18,61.1,7,21,12,9,36,64,112,2
+385,Javier Ontiveros,es ESP,"FW,MF",Villarreal,9.9,29,14,13,14,2,8,35,22.9,27,13,1,12,5,34,7,0
+386,Fabián Orellana,cl CHI,"MF,FW",Eibar,26.6,29,18,10,6,13,14,52,26.9,38,9,0,9,20,49,2,0
+387,Aimar Oroz,es ESP,FW,Osasuna,0.1,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+388,Mikel Oyarzabal,es ESP,"FW,MF",Real Sociedad,33.9,36,15,13,15,8,16,46,34.8,30,32,2,30,13,49,19,1
+389,Fernando Pacheco,es ESP,GK,Alavés,26.2,1,0,1,0,0,1,3,33.3,2,0,0,0,0,1,10,0
+390,Jon Pacheco,es ESP,DF,Real Sociedad,0.9,0,0,0,0,0,0,0,,0,1,0,1,0,0,2,0
+391,Daniel Parejo,es ESP,MF,Valencia,33.6,67,41,29,32,6,32,101,31.7,69,38,11,27,22,89,20,2
+392,Miquel Parera,es ESP,GK,Mallorca,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+393,Thomas Partey,gh GHA,MF,Atlético Madrid,28.3,70,41,34,30,6,26,58,44.8,32,32,8,24,48,118,41,7
+394,Paulino,es ESP,"FW,MF",Alavés,0.8,0,0,0,0,0,0,1,0,1,1,0,1,1,1,0,0
+395,Gabriel Paulista,br BRA,DF,Valencia,31.1,22,14,17,2,3,15,25,60,10,36,29,7,48,70,151,3
+396,Alfonso Pedraza,es ESP,DF,Betis,15,30,19,16,11,3,19,33,57.6,14,18,6,12,16,46,26,1
+397,Marc Pedraza,es ESP,MF,Mallorca,1.4,1,1,1,0,0,1,5,20,4,0,0,0,4,5,1,0
+398,Pedrosa,es ESP,"DF,MF",Espanyol,12.1,19,13,8,9,2,7,25,28,18,12,1,11,11,30,32,0
+399,Rubén Peña,es ESP,DF,Villarreal,21.2,42,24,23,19,0,17,50,34,33,25,8,17,35,77,58,2
+400,Luis Perea,es ESP,FW,Osasuna,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+401,Victor Perea,es ESP,"DF,FW",Espanyol,14.1,13,5,8,4,1,7,20,35,13,10,0,10,21,34,31,0
+402,Carles Pérez,es ESP,FW,Barcelona,5.3,7,4,2,2,3,3,15,20,12,5,2,3,1,8,1,0
+403,Iñigo Pérez,es ESP,MF,Osasuna,12,15,11,3,7,5,8,22,36.4,14,7,1,6,12,27,6,0
+404,Juan Pérez,es ESP,GK,Osasuna,2,1,1,1,0,0,1,2,50,1,0,0,0,0,1,0,0
+405,Kike Pérez,es ESP,"MF,FW",Valladolid,2.4,6,1,1,3,2,3,7,42.9,4,1,0,1,10,16,4,0
+406,Lucas Pérez,es ESP,FW,Alavés,27.7,12,6,2,8,2,3,13,23.1,10,13,2,11,2,14,0,0
+407,Rubén Pérez,es ESP,MF,Leganés,24.4,50,27,21,23,6,16,47,34,31,21,4,17,38,88,33,0
+408,Samu Pérez,es ESP,GK,Valladolid,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+409,Pablo Piatti,ar ARG,"DF,MF",Espanyol,0.6,2,2,1,1,0,1,2,50,1,1,0,1,0,2,1,0
+410,Cristiano Piccini,it ITA,DF,Valencia,0.8,5,4,1,0,4,4,4,100,0,0,0,0,2,7,1,0
+411,Tomás Pina Isla,es ESP,MF,Alavés,14.9,37,22,13,21,3,12,24,50,12,15,5,10,16,53,31,0
+412,Pipa,es ESP,"DF,FW",Espanyol,5.3,9,8,5,4,0,4,6,66.7,2,8,0,8,6,15,17,0
+413,Gerard Piqué,es ESP,DF,Barcelona,34.4,32,23,20,11,1,16,26,61.5,10,39,24,15,36,68,157,0
+414,Óscar Plano,es ESP,MF,Valladolid,27.8,48,30,25,19,4,20,61,32.8,41,36,3,33,35,83,29,0
+415,Pere Pons,es ESP,MF,Alavés,12.1,28,16,14,12,2,12,26,46.2,14,16,3,13,12,40,8,1
+416,Pedro Porro,es ESP,"DF,MF",Valladolid,8.2,18,10,11,7,0,10,18,55.6,8,3,0,3,7,25,19,1
+417,Francisco Portillo,es ESP,MF,Getafe,4.2,11,6,3,6,2,4,12,33.3,8,2,0,2,2,13,3,0
+418,Portu,es ESP,"FW,MF",Real Sociedad,26.6,32,21,10,15,7,13,33,39.4,20,28,3,25,13,45,5,0
+419,Sergio Postigo,es ESP,DF,Levante,26.4,32,15,23,7,2,11,18,61.1,7,24,15,9,34,66,132,1
+420,Florent Poulolo,mq MTQ,DF,Getafe,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+421,Darío Poveda,es ESP,MF,Atlético Madrid,0.1,1,0,0,1,0,0,0,,0,0,0,0,0,1,0,0
+422,Alejandro Pozo Pozo,es ESP,DF,Mallorca,16.6,38,24,30,6,2,19,38,50,19,23,2,21,23,61,29,1
+423,Alejandro Pozo Pozo,es ESP,"MF,FW",Sevilla,0.4,1,1,1,0,0,1,1,100,0,0,0,0,0,1,1,0
+424,Abdón Prats,es ESP,FW,Mallorca,3.1,1,1,0,0,1,0,1,0,1,1,0,1,0,1,1,0
+425,Antonio Puertas,es ESP,"FW,MF",Granada,28.5,37,24,8,18,11,16,53,30.2,37,21,3,18,12,49,21,0
+426,Riqui Puig,es ESP,MF,Barcelona,5.7,11,7,1,9,1,5,17,29.4,12,2,0,2,5,16,1,0
+427,Quini,es ESP,DF,Granada,8,25,14,16,7,2,13,22,59.1,9,5,1,4,10,35,14,0
+428,Xavi Quintillà,es ESP,DF,Villarreal,17.5,22,12,14,4,4,10,20,50,10,11,4,7,12,34,35,0
+429,Quique,es ESP,"FW,MF",Eibar,5.4,2,1,1,0,1,0,0,,0,3,0,3,0,2,3,0
+430,Nemanja Radoja,rs SRB,MF,Levante,22.1,43,19,27,16,0,15,46,32.6,31,21,4,17,23,66,24,0
+431,Rafinha,br BRA,"FW,MF",Barcelona,2.1,3,2,1,1,1,1,2,50,1,0,0,0,1,4,0,0
+432,Rafinha,br BRA,MF,Celta Vigo,23.5,71,37,29,37,5,20,62,32.3,42,37,4,33,33,104,25,0
+433,Baba Rahman,gh GHA,DF,Mallorca,1.2,3,2,2,0,1,0,0,,0,2,1,1,1,4,2,0
+434,Antonio Raillo,es ESP,DF,Mallorca,30.8,31,21,24,7,0,13,19,68.4,6,31,26,5,22,53,112,1
+435,Ivan Rakitic,hr CRO,MF,Barcelona,17.7,27,14,8,15,4,10,28,35.7,18,19,6,13,15,42,18,1
+436,Sandro Ramírez,es ESP,"FW,MF",Valladolid,14.5,12,10,2,6,4,2,20,10,18,11,1,10,7,19,2,0
+437,Iván Ramis,es ESP,DF,Eibar,5.1,3,2,2,1,0,1,4,25,3,2,0,2,4,7,23,2
+438,Adrián Ramos,co COL,"FW,MF",Granada,2.5,6,2,0,2,4,2,3,66.7,1,2,0,2,1,7,1,0
+439,Sergio Ramos,es ESP,DF,Real Madrid,33.5,46,31,26,17,3,20,42,47.6,22,22,9,13,49,95,102,4
+440,Raúl,es ESP,"FW,MF",Betis,0.2,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0
+441,Recio,es ESP,MF,Leganés,17.4,30,19,13,12,5,10,40,25,30,14,3,11,22,52,9,0
+442,Sergio Reguilón,es ESP,DF,Sevilla,27.9,57,30,28,25,4,27,64,42.2,37,25,5,20,33,90,53,0
+443,Manolo Reina,es ESP,GK,Mallorca,36,0,0,0,0,0,0,1,0,1,2,0,2,5,5,9,1
+444,Álex Remiro,es ESP,GK,Real Sociedad,25,0,0,0,0,0,0,1,0,1,0,0,0,0,0,25,1
+445,Nico Ribaudo,es ESP,"FW,MF",Espanyol,2,3,1,1,0,2,2,6,33.3,4,1,0,1,1,4,0,0
+446,Luis Rioja,es ESP,MF,Alavés,18.2,18,12,11,6,1,8,25,32,17,21,0,21,16,34,6,0
+447,Rodrigo Riquelme,es ESP,"FW,MF",Atlético Madrid,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+448,Cristian Rivera,es ESP,MF,Leganés,3.5,6,4,3,2,1,2,4,50,2,4,3,1,4,10,7,0
+449,Rober,es ESP,DF,Levante,2.1,3,1,2,0,1,2,2,100,0,0,0,0,3,6,2,0
+450,Roberto,es ESP,GK,Alavés,8.8,1,1,1,0,0,1,1,100,0,0,0,0,0,1,2,0
+451,Sergi Roberto,es ESP,"DF,MF",Barcelona,26,35,22,16,11,8,15,25,60,10,12,3,9,33,68,36,0
+452,Joel Robles,es ESP,GK,Betis,32.1,0,0,0,0,0,0,2,0,2,0,0,0,0,0,13,2
+453,Marc Roca,es ESP,MF,Espanyol,33.4,82,52,29,44,9,29,82,35.4,53,28,10,18,31,113,53,2
+454,Rubén Rochina,es ESP,MF,Levante,20.8,41,26,22,9,10,19,52,36.5,33,16,0,16,12,53,19,1
+455,Rodrigo,es ESP,FW,Valencia,20.9,10,6,4,5,1,2,23,8.7,21,9,1,8,9,19,13,0
+456,Kévin Rodrigues,pt POR,"DF,MF",Leganés,21.5,56,31,31,17,8,25,46,54.3,21,30,3,27,31,87,26,1
+457,Kévin Rodrigues,pt POR,DF,Real Sociedad,0.1,1,0,1,0,0,1,1,100,0,0,0,0,0,1,0,0
+458,Ángel Rodríguez,es ESP,FW,Getafe,15.6,14,8,2,8,4,2,18,11.1,16,10,1,9,3,17,10,0
+459,Óscar Rodríguez Arnaiz,es ESP,"MF,FW",Leganés,21.3,23,10,11,7,5,13,41,31.7,28,19,0,19,14,37,13,0
+460,Dani Rodríguez,es ESP,"MF,FW",Mallorca,33.8,59,32,24,28,7,18,61,29.5,43,35,3,32,38,97,27,1
+461,Guido Rodríguez,ar ARG,MF,Betis,10.4,24,16,11,11,2,15,25,60,10,13,4,9,10,34,21,0
+462,James Rodríguez,co COL,"MF,FW",Real Madrid,4.7,17,13,6,8,3,6,12,50,6,3,0,3,3,20,1,0
+463,Mario Rodriguez,es ESP,MF,Granada,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+464,Rodrygo,br BRA,FW,Real Madrid,11.3,6,1,2,3,1,2,21,9.5,19,13,0,13,10,16,5,0
+465,Luka Romero,ar ARG,FW,Mallorca,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+466,Facundo Roncaglia,ar ARG,DF,Osasuna,14.2,24,20,12,10,2,11,20,55,9,18,3,15,22,46,46,0
+467,Roberto Rosales,ve VEN,DF,Leganés,20.8,42,23,23,17,2,19,43,44.2,24,17,4,13,30,72,48,0
+468,Rubén,es ESP,GK,Osasuna,17.6,1,1,1,0,0,1,1,100,0,0,0,0,0,1,9,1
+469,Waldo Rubio,es ESP,"MF,FW",Valladolid,9.8,13,8,10,3,0,5,31,16.1,26,12,0,12,7,20,7,0
+470,Aitor Ruibal,es ESP,"DF,MF",Leganés,13.6,27,17,14,11,2,16,39,41,23,18,1,17,8,35,11,0
+471,Jorge Sáenz,es ESP,DF,Celta Vigo,4.1,6,1,4,2,0,3,5,60,2,5,2,3,10,16,15,0
+472,Borja Sainz,es ESP,"MF,FW",Alavés,6.4,16,9,4,9,3,8,26,30.8,18,14,0,14,3,19,0,0
+473,Yannis Salibur,fr FRA,"MF,FW",Mallorca,0.9,0,0,0,0,0,0,4,0,4,0,0,0,1,1,1,0
+474,Mohammed Salisu,gh GHA,DF,Valladolid,30.3,41,24,28,13,0,21,34,61.8,13,32,26,6,35,76,158,3
+475,Fede San Emeterio,es ESP,MF,Valladolid,19.5,26,13,18,6,2,7,29,24.1,22,20,8,12,28,54,13,1
+476,Mikel San José,es ESP,MF,Athletic Club,4,9,4,2,4,3,2,10,20,8,3,1,2,9,18,12,0
+477,Oihan Sancet,es ESP,"MF,FW",Athletic Club,8.2,11,7,5,4,2,4,11,36.4,7,6,0,6,2,13,2,0
+478,Germán Sánchez,es ESP,DF,Granada,25.5,16,10,12,4,0,6,16,37.5,10,29,23,6,33,49,115,2
+479,Javi Sánchez,es ESP,DF,Valladolid,5.5,5,4,3,2,0,1,3,33.3,2,4,2,2,4,9,24,0
+480,Manuel Sánchez,es ESP,DF,Atlético Madrid,3.6,13,7,2,7,4,8,15,53.3,7,3,0,3,7,20,1,0
+481,Víctor Sánchez,es ESP,MF,Espanyol,18.8,66,36,36,23,7,30,71,42.3,41,31,8,23,27,93,23,1
+482,Luca Sangalli,es ESP,MF,Real Sociedad,4.1,1,0,0,1,0,1,8,12.5,7,3,0,3,1,2,0,0
+483,Oier Sanjurjo,es ESP,MF,Osasuna,25.8,65,34,21,34,10,28,64,43.8,36,33,8,25,35,100,39,1
+484,Ivan Šaponjic,rs SRB,"DF,FW",Atlético Madrid,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+485,Joan Sastre Vanrell,es ESP,DF,Mallorca,15.1,30,17,26,3,1,17,39,43.6,22,8,2,6,23,53,27,1
+486,Stefan Savi?,me MNE,DF,Atlético Madrid,22,22,17,11,10,1,11,18,61.1,7,16,9,7,24,46,91,1
+487,Aleksandar Sedlar,rs SRB,DF,Mallorca,9,13,6,10,2,1,7,11,63.6,4,17,11,6,16,29,31,0
+488,Nélson Semedo,pt POR,DF,Barcelona,23.3,51,30,27,18,6,21,36,58.3,15,18,3,15,22,73,30,0
+489,Josep Señé,es ESP,MF,Mallorca,1.7,2,1,2,0,0,2,5,40,3,2,1,1,0,2,2,0
+490,Salva Sevilla,es ESP,MF,Mallorca,28.5,27,21,11,16,0,9,30,30,21,17,5,12,29,56,17,1
+491,Sidnei,br BRA,DF,Betis,13.1,23,19,17,6,0,9,14,64.3,5,15,12,3,21,44,57,0
+492,Jonathan Silva,ar ARG,DF,Leganés,30.9,60,34,32,22,6,27,52,51.9,25,12,4,8,34,94,46,0
+493,Rui Silva,pt POR,GK,Granada,35,2,1,2,0,0,2,2,100,0,0,0,0,2,4,22,3
+494,Unai Simón,es ESP,GK,Athletic Club,33.2,0,0,0,0,0,0,1,0,1,1,0,1,1,1,10,1
+495,Dimitris Siovas,gr GRE,DF,Leganés,21.3,42,31,24,15,3,19,28,67.9,9,14,1,13,46,88,69,0
+496,Pione Sisto,dk DEN,"FW,MF",Celta Vigo,9.9,17,8,5,6,6,4,19,21.1,15,18,0,18,6,23,4,1
+497,Antonio Sivera,es ESP,GK,Alavés,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+498,Fyodor Smolov,ru RUS,FW,Celta Vigo,8.3,2,1,0,2,0,1,9,11.1,8,6,0,6,7,9,9,0
+499,Rafa Soares,pt POR,DF,Eibar,4.8,6,5,5,0,1,5,11,45.5,6,1,0,1,2,8,6,0
+500,Rubén Sobrino,es ESP,"FW,MF",Valencia,1.9,7,5,3,2,2,2,3,66.7,1,1,0,1,0,7,1,0
+501,Roberto Soldado,es ESP,FW,Granada,26.1,16,9,2,7,7,7,24,29.2,17,16,4,12,4,20,16,0
+502,Carlos Soler,es ESP,MF,Valencia,23,21,10,10,10,1,9,39,23.1,30,16,6,10,9,30,14,0
+503,Kévin Soni,cm CMR,FW,Espanyol,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+504,David Soria,es ESP,GK,Getafe,38,2,1,2,0,0,2,4,50,2,0,0,0,3,5,17,5
+505,Bruno Soriano,es ESP,"MF,FW",Villarreal,2.9,4,0,1,2,1,1,1,100,0,4,0,4,1,5,7,0
+506,Juan Soriano,es ESP,GK,Leganés,11,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1
+507,Damián Suárez,uy URU,DF,Getafe,28.8,62,32,32,21,9,38,72,52.8,34,25,2,23,27,89,41,0
+508,Denis Suárez,es ESP,"MF,FW",Celta Vigo,18.1,22,15,14,7,1,10,37,27,27,9,1,8,14,36,12,1
+509,Luis Suárez,uy URU,FW,Barcelona,22.2,4,0,0,1,3,2,12,16.7,10,6,1,5,1,5,11,0
+510,Ki Sung-yueng,kr KOR,MF,Mallorca,0.1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+511,Suso,es ESP,"FW,MF",Sevilla,8.7,9,4,4,4,1,7,16,43.8,9,6,0,6,2,11,0,0
+512,Tachi,es ESP,DF,Alavés,2.6,2,1,2,0,0,1,4,25,3,5,4,1,4,6,12,0
+513,Rodrigo Tarín,es ESP,DF,Leganés,10.6,10,7,8,2,0,9,14,64.3,5,7,3,4,9,19,51,0
+514,Álvaro Tejero,es ESP,DF,Eibar,16.1,30,18,17,10,3,14,23,60.9,9,17,4,13,28,58,38,0
+515,Cristian Tello,es ESP,"MF,FW",Betis,8.7,8,5,2,2,4,4,8,50,4,5,0,5,4,12,0,0
+516,Marc-André ter Stegen,de GER,GK,Barcelona,36,2,2,2,0,0,2,3,66.7,1,0,0,0,2,4,17,6
+517,David Timor,es ESP,"MF,DF",Getafe,10.5,9,6,4,5,0,5,16,31.3,11,8,3,5,18,27,23,0
+518,Jean-Clair Todibo,fr FRA,DF,Barcelona,0.9,1,0,1,0,0,0,1,0,1,0,0,0,0,1,6,0
+519,Karl Toko Ekambi,cm CMR,FW,Villarreal,11,5,3,0,3,2,1,4,25,3,2,0,2,3,8,2,0
+520,Raúl de Tomás,es ESP,FW,Espanyol,11.9,9,7,3,4,2,4,13,30.8,9,8,1,7,10,19,4,0
+521,Toño,es ESP,DF,Levante,17.7,26,19,18,7,1,15,28,53.6,13,11,3,8,13,39,34,1
+522,Ferrán Torres,es ESP,"MF,FW",Valencia,25,23,15,6,16,1,8,30,26.7,22,20,3,17,14,37,12,0
+523,Óliver Torres,es ESP,"MF,FW",Sevilla,17.7,45,27,12,26,7,23,60,38.3,37,23,1,22,13,58,9,1
+524,Pau Torres,es ESP,DF,Villarreal,33,34,21,24,10,0,16,24,66.7,8,39,23,16,27,61,153,1
+525,Roberto Torres,es ESP,"MF,FW",Osasuna,30.2,33,16,12,18,3,21,49,42.9,28,41,2,39,31,64,37,0
+526,Aleksandar Trajkovski,mk MKD,"MF,FW",Mallorca,3.7,2,0,1,1,0,1,7,14.3,6,2,0,2,3,5,1,0
+527,Manu Trigueros,es ESP,MF,Villarreal,17.2,34,21,10,17,7,12,45,26.7,33,23,12,11,4,38,21,0
+528,Kieran Trippier,eng ENG,DF,Atlético Madrid,22,52,34,24,21,7,34,53,64.2,19,33,7,26,24,76,46,0
+529,Samuel Umtiti,fr FRA,DF,Barcelona,10.5,11,5,5,5,1,5,8,62.5,3,4,2,2,22,33,32,0
+530,Enes Ünal,tr TUR,FW,Valladolid,26,20,12,6,11,3,6,28,21.4,22,17,5,12,6,26,13,0
+531,Tomáš Vaclík,cz CZE,GK,Sevilla,32.5,0,0,0,0,0,0,1,0,1,0,0,0,0,0,7,0
+532,Álvaro Vadillo,es ESP,"FW,MF",Granada,13.5,16,11,6,8,2,9,16,56.3,7,12,0,12,7,23,2,0
+533,Germán Valera,es ESP,FW,Atlético Madrid,0,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+534,Martin Valjent,sk SVK,DF,Mallorca,35.4,25,17,14,10,1,13,25,52,12,39,27,12,37,62,146,1
+535,Jesús Vallejo,es ESP,DF,Granada,7,6,5,4,2,0,3,4,75,1,7,4,3,5,11,28,0
+536,Manu Vallejo,es ESP,"MF,FW",Valencia,4.6,7,3,0,3,4,5,9,55.6,4,4,0,4,2,9,2,0
+537,Federico Valverde,uy URU,MF,Real Madrid,21.2,38,19,9,19,10,12,36,33.3,24,38,4,34,21,59,12,2
+538,Raphaël Varane,fr FRA,DF,Real Madrid,31.4,30,17,15,14,1,12,23,52.2,11,32,16,16,31,61,124,0
+539,Matías Vargas,ar ARG,"FW,MF",Espanyol,11.4,13,5,7,3,3,4,23,17.4,19,12,2,10,3,16,5,0
+540,Franco Vázquez,ar ARG,"MF,FW",Sevilla,12.2,25,17,9,14,2,6,36,16.7,30,13,0,13,10,35,10,0
+541,Kevin Vázquez,es ESP,DF,Celta Vigo,14.7,26,15,16,6,4,15,28,53.6,13,18,1,17,26,52,28,0
+542,Lucas Vázquez,es ESP,"MF,FW",Real Madrid,9.4,23,17,10,13,0,11,26,42.3,15,10,0,10,10,33,8,1
+543,Koke Vegas,es ESP,GK,Levante,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0
+544,Unai Vencedor Paris,es ESP,MF,Athletic Club,0.8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+545,Mikel Vesga,es ESP,MF,Athletic Club,14.1,25,17,7,12,6,9,45,20,36,18,7,11,31,56,24,1
+546,Rúben Vezo,pt POR,DF,Levante,29,41,24,28,13,0,19,35,54.3,16,37,29,8,42,83,144,2
+547,Fede Vico,es ESP,"MF,FW",Granada,9.7,5,1,2,3,0,2,11,18.2,9,12,1,11,5,10,2,0
+548,Aleix Vidal,es ESP,MF,Alavés,24.1,21,14,8,11,2,8,37,21.6,29,14,1,13,23,44,18,0
+549,Arturo Vidal,cl CHI,MF,Barcelona,18.6,63,38,22,30,11,24,58,41.4,34,31,7,24,17,80,16,1
+550,Nacho Vidal,es ESP,DF,Osasuna,25.9,45,29,26,13,6,21,38,55.3,17,24,6,18,44,89,70,1
+551,Dídac Vilà,es ESP,DF,Espanyol,27.7,73,42,44,23,6,25,61,41,36,31,5,26,40,113,63,0
+552,Toni Villa,es ESP,MF,Valladolid,15,31,16,13,14,4,13,50,26,37,16,1,15,8,39,11,0
+553,Asier Villalibre,es ESP,FW,Athletic Club,5.9,0,0,0,0,0,0,3,0,3,3,0,3,1,1,4,0
+554,Iván Villar,es ESP,GK,Celta Vigo,3.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,5,0
+555,Juan Villar,es ESP,FW,Osasuna,2.7,1,0,0,1,0,0,2,0,2,4,1,3,1,2,0,0
+556,Vitolo,es ESP,"FW,MF",Atlético Madrid,13.6,15,12,7,7,1,5,17,29.4,12,9,0,9,10,25,9,0
+557,Šime Vrsaljko,hr CRO,DF,Atlético Madrid,4,6,5,6,0,0,5,6,83.3,1,5,3,2,8,14,11,0
+558,Nikola Vukcevic,me MNE,MF,Levante,17.4,41,26,17,17,7,15,40,37.5,25,19,7,12,12,53,16,0
+559,Moussa Wagué,sn SEN,DF,Barcelona,1,2,1,1,0,1,1,1,100,0,0,0,0,1,3,0,0
+560,Wakaso,gh GHA,MF,Alavés,14.3,54,31,25,24,5,16,33,48.5,17,23,5,18,17,71,17,1
+561,Daniel Wass,dk DEN,"DF,MF",Valencia,30.4,44,25,25,13,6,25,57,43.9,32,22,5,17,31,75,91,1
+562,Iñaki Williams,gh GHA,FW,Athletic Club,32.7,15,5,0,7,8,5,18,27.8,13,18,2,16,5,20,29,0
+563,Yoel,es ESP,GK,Eibar,3,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0
+564,Okay Yokuslu,tr TUR,MF,Celta Vigo,21.9,41,27,18,21,2,20,42,47.6,22,12,5,7,28,69,71,1
+565,Joseba Zaldúa,es ESP,DF,Real Sociedad,28.3,62,43,39,18,5,31,59,52.5,28,31,7,24,37,99,71,0
+566,Andre-Frank Zambo Anguissa,cm CMR,MF,Villarreal,28.7,76,49,29,40,7,26,78,33.3,52,42,6,36,44,120,30,0
+567,Igor Zubeldia,es ESP,"MF,DF",Real Sociedad,29.3,42,21,18,19,5,17,35,48.6,18,38,21,17,26,68,82,2
+568,Martín Zubimendi,es ESP,MF,Real Sociedad,5.8,16,12,9,7,0,6,12,50,6,7,0,7,9,25,2,0
+569,David Zurutuza,es ESP,MF,Real Sociedad,1.7,4,3,0,3,1,1,2,50,1,1,0,1,4,8,3,0
+570,Martin Ødegaard,no NOR,MF,Real Sociedad,28.1,27,19,5,14,8,7,34,20.6,27,13,0,13,17,44,5,0

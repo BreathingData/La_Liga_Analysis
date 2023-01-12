@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee
+1,Fri,8/13/2021,21:00 (19:00),Valencia,1@0,Getafe,"9,868",Estadio de Mestalla,Jesús Gil
+1,Sat,8/14/2021,19:30 (17:30),Mallorca,1@1,Betis,"6,279",Iberostar Estadi,Antonio Matéu Lahoz
+1,Sat,8/14/2021,19:30 (17:30),Cádiz,1@1,Levante,"6,941",Estadio Nuevo Mirandilla,Santiago Jaime
+1,Sat,8/14/2021,22:00 (20:00),Alavés,1@4,Real Madrid,"3,968",Estadio de Mendizorroza,César Soto
+1,Sat,8/14/2021,22:00 (20:00),Osasuna,0@0,Espanyol,"6,715",Estadio El Sadar,Miguel Ángel Ortiz Arias
+1,Sun,8/15/2021,17:30 (15:30),Celta Vigo,1@2,Atlético Madrid,"5,401",Estadio de Balaídos,José Luis Munuera
+1,Sun,8/15/2021,20:00 (18:00),Barcelona,4@2,Real Sociedad,"20,384",Camp Nou,Alejandro Hernández
+1,Sun,8/15/2021,22:15 (20:15),Sevilla,3@0,Rayo Vallecano,"13,962",Estadio Ramón Sánchez Pizjuán,Isidro Díaz de Mera
+1,Mon,8/16/2021,20:00 (18:00),Villarreal,0@0,Granada,"7,837",Estadio de la Cerámica,Pablo González
+1,Mon,8/16/2021,22:00 (20:00),Elche,0@0,Athletic Club,"9,145",Estadio Manuel Martínez Valero,Adrián Cordero
+2,Fri,8/20/2021,21:00 (19:00),Betis,1@1,Cádiz,"23,745",Estadio Benito Villamarín,Valentín Pizarro
+2,Sat,8/21/2021,17:00 (15:00),Alavés,0@1,Mallorca,"2,896",Estadio de Mendizorroza,Alejandro Muñíz
+2,Sat,8/21/2021,19:30 (17:30),Espanyol,0@0,Villarreal,"11,095",RCDE Stadium,Jorge Figueroa
+2,Sat,8/21/2021,19:30 (17:30),Granada,1@1,Valencia,"6,267",Estadio Nuevo Los Cármenes,Carlos del Cerro
+2,Sat,8/21/2021,22:00 (20:00),Athletic Club,1@1,Barcelona,"9,394",San Mamés,Juan Martínez
+2,Sun,8/22/2021,17:00 (15:00),Real Sociedad,1@0,Rayo Vallecano,"7,652",Estadio Municipal de Anoeta,Santiago Jaime
+2,Sun,8/22/2021,19:30 (17:30),Atlético Madrid,1@0,Elche,"24,926",Estadio Wanda Metropolitano,Ricardo de Burgos
+2,Sun,8/22/2021,22:00 (20:00),Levante,3@3,Real Madrid,"9,838",Estadio Ciudad de Valencia,Guillermo Cuadra
+2,Mon,8/23/2021,20:00 (18:00),Getafe,0@1,Sevilla,"4,810",Coliseum Alfonso Pérez,José Sánchez
+2,Mon,8/23/2021,22:00 (20:00),Osasuna,0@0,Celta Vigo,"7,189",Estadio El Sadar,Alberola Rojas
+3,Fri,8/27/2021,20:00 (18:00),Mallorca,1@0,Espanyol,"7,529",Iberostar Estadi,Isidro Díaz de Mera
+3,Fri,8/27/2021,22:15 (20:15),Valencia,3@0,Alavés,"10,627",Estadio de Mestalla,Miguel Ángel Ortiz Arias
+3,Sat,8/28/2021,17:00 (15:00),Celta Vigo,0@1,Athletic Club,"5,492",Estadio de Balaídos,Antonio Matéu Lahoz
+3,Sat,8/28/2021,19:30 (17:30),Real Sociedad,1@0,Levante,"7,758",Estadio Municipal de Anoeta,José Luis Munuera
+3,Sat,8/28/2021,19:30 (17:30),Elche,1@1,Sevilla,"10,385",Estadio Manuel Martínez Valero,Valentín Pizarro
+3,Sat,8/28/2021,22:00 (20:00),Betis,0@1,Real Madrid,"22,590",Estadio Benito Villamarín,Alejandro Hernández
+3,Sun,8/29/2021,17:00 (15:00),Barcelona,2@1,Getafe,"26,543",Camp Nou,Pablo González
+3,Sun,8/29/2021,19:30 (17:30),Rayo Vallecano,4@0,Granada,583,Estadio del Rayo Vallecano,Jesús Gil
+3,Sun,8/29/2021,19:30 (17:30),Cádiz,2@3,Osasuna,"7,452",Estadio Nuevo Mirandilla,Adrián Cordero
+3,Sun,8/29/2021,22:00 (20:00),Atlético Madrid,2@2,Villarreal,"26,840",Estadio Wanda Metropolitano,César Soto
+4,Sat,9/11/2021,18:30 (16:30),Levante,1@1,Rayo Vallecano,"12,974",Estadio Ciudad de Valencia,Alberola Rojas
+4,Sat,9/11/2021,21:00 (19:00),Athletic Club,2@0,Mallorca,"14,566",San Mamés,Jorge Figueroa
+4,Sun,9/12/2021,14:00 (12:00),Espanyol,1@2,Atlético Madrid,"15,321",RCDE Stadium,Juan Martínez
+4,Sun,9/12/2021,16:15 (14:15),Osasuna,1@4,Valencia,"13,940",Estadio El Sadar,Ricardo de Burgos
+4,Sun,9/12/2021,18:30 (16:30),Cádiz,0@2,Real Sociedad,"11,826",Estadio Nuevo Mirandilla,Alejandro Muñíz
+4,Sun,9/12/2021,21:00 (19:00),Real Madrid,5@2,Celta Vigo,"19,874",Estadio Santiago Bernabéu,José Sánchez
+4,Mon,9/13/2021,20:00 (18:00),Getafe,0@1,Elche,"6,853",Coliseum Alfonso Pérez,Mario Melero
+4,Mon,9/13/2021,22:00 (20:00),Granada,1@2,Betis,"10,201",Estadio Nuevo Los Cármenes,Guillermo Cuadra
+5,Fri,9/17/2021,21:00 (19:00),Celta Vigo,1@2,Cádiz,"6,754",Estadio de Balaídos,Isidro Díaz de Mera
+5,Sat,9/18/2021,14:00 (12:00),Rayo Vallecano,3@0,Getafe,"3,280",Estadio del Rayo Vallecano,Adrián Cordero
+5,Sat,9/18/2021,16:15 (14:15),Atlético Madrid,0@0,Athletic Club,"38,798",Estadio Wanda Metropolitano,Jesús Gil
+5,Sat,9/18/2021,18:30 (16:30),Elche,1@1,Levante,"11,507",Estadio Manuel Martínez Valero,Miguel Ángel Ortiz Arias
+5,Sat,9/18/2021,21:00 (19:00),Alavés,0@2,Osasuna,"8,176",Estadio de Mendizorroza,Alejandro Hernández
+5,Sun,9/19/2021,14:00 (12:00),Mallorca,0@0,Villarreal,"9,168",Iberostar Estadi,Carlos del Cerro
+5,Sun,9/19/2021,16:15 (14:15),Real Sociedad,0@0,Sevilla,"23,757",Estadio Municipal de Anoeta,Antonio Matéu Lahoz
+5,Sun,9/19/2021,18:30 (16:30),Betis,2@2,Espanyol,"30,189",Estadio Benito Villamarín,César Soto
+5,Sun,9/19/2021,21:00 (19:00),Valencia,1@2,Real Madrid,"26,689",Estadio de Mestalla,Pablo González
+5,Mon,9/20/2021,21:00 (19:00),Barcelona,1@1,Granada,"27,097",Camp Nou,Santiago Jaime
+6,Tue,9/21/2021,19:30 (17:30),Getafe,1@2,Atlético Madrid,"8,950",Coliseum Alfonso Pérez,Guillermo Cuadra
+6,Tue,9/21/2021,22:00 (20:00),Levante,0@2,Celta Vigo,"11,989",Estadio Ciudad de Valencia,Jorge Figueroa
+6,Tue,9/21/2021,22:00 (20:00),Athletic Club,1@2,Rayo Vallecano,"16,236",San Mamés,José Luis Munuera
+6,Wed,9/22/2021,19:30 (17:30),Sevilla,3@1,Valencia,"23,654",Estadio Ramón Sánchez Pizjuán,José Sánchez
+6,Wed,9/22/2021,19:30 (17:30),Espanyol,1@0,Alavés,"14,254",RCDE Stadium,Mario Melero
+6,Wed,9/22/2021,22:00 (20:00),Real Madrid,6@1,Mallorca,"20,113",Estadio Santiago Bernabéu,Alberola Rojas
+6,Wed,9/22/2021,22:00 (20:00),Villarreal,4@1,Elche,"8,234",Estadio de la Cerámica,Alejandro Muñíz
+6,Thu,9/23/2021,19:30 (17:30),Osasuna,1@3,Betis,"13,758",Estadio El Sadar,Juan Martínez
+6,Thu,9/23/2021,19:30 (17:30),Granada,2@3,Real Sociedad,"9,552",Estadio Nuevo Los Cármenes,Valentín Pizarro
+6,Thu,9/23/2021,22:00 (20:00),Cádiz,0@0,Barcelona,"12,180",Estadio Nuevo Mirandilla,Carlos del Cerro
+7,Sat,9/25/2021,14:00 (12:00),Alavés,1@0,Atlético Madrid,"9,836",Estadio de Mendizorroza,Antonio Matéu Lahoz
+7,Sat,9/25/2021,16:15 (14:15),Valencia,1@1,Athletic Club,"13,680",Estadio de Mestalla,Alejandro Hernández
+7,Sat,9/25/2021,18:30 (16:30),Sevilla,2@0,Espanyol,"23,956",Estadio Ramón Sánchez Pizjuán,Pablo González
+7,Sat,9/25/2021,21:00 (19:00),Real Madrid,0@0,Villarreal,"23,985",Estadio Santiago Bernabéu,Jesús Gil
+7,Sun,9/26/2021,14:00 (12:00),Mallorca,2@3,Osasuna,"9,359",Iberostar Estadi,Miguel Ángel Ortiz Arias
+7,Sun,9/26/2021,16:15 (14:15),Barcelona,3@0,Levante,"35,334",Camp Nou,Isidro Díaz de Mera
+7,Sun,9/26/2021,18:30 (16:30),Rayo Vallecano,3@1,Cádiz,"5,903",Estadio del Rayo Vallecano,Ricardo de Burgos
+7,Sun,9/26/2021,18:30 (16:30),Real Sociedad,1@0,Elche,"23,941",Estadio Municipal de Anoeta,Adrián Cordero
+7,Sun,9/26/2021,21:00 (19:00),Betis,2@0,Getafe,"29,825",Estadio Benito Villamarín,Santiago Jaime
+7,Mon,9/27/2021,21:00 (19:00),Celta Vigo,1@0,Granada,"6,375",Estadio de Balaídos,César Soto
+8,Fri,10/1/2021,21:00 (19:00),Athletic Club,1@0,Alavés,"28,665",San Mamés,Carlos del Cerro
+8,Sat,10/2/2021,14:00 (12:00),Osasuna,1@0,Rayo Vallecano,"19,238",Estadio El Sadar,Mario Melero
+8,Sat,10/2/2021,16:15 (14:15),Mallorca,1@0,Levante,"11,803",Iberostar Estadi,Alejandro Muñíz
+8,Sat,10/2/2021,18:30 (16:30),Cádiz,0@0,Valencia,"14,794",Estadio Nuevo Mirandilla,Valentín Pizarro
+8,Sat,10/2/2021,21:00 (19:00),Atlético Madrid,2@0,Barcelona,"60,594",Estadio Wanda Metropolitano,César Soto
+8,Sun,10/3/2021,14:00 (12:00),Elche,1@0,Celta Vigo,"11,299",Estadio Manuel Martínez Valero,José Luis Munuera
+8,Sun,10/3/2021,16:15 (14:15),Espanyol,2@1,Real Madrid,"23,377",RCDE Stadium,Guillermo Cuadra
+8,Sun,10/3/2021,18:30 (16:30),Getafe,1@1,Real Sociedad,"8,463",Coliseum Alfonso Pérez,Jorge Figueroa
+8,Sun,10/3/2021,18:30 (16:30),Villarreal,2@0,Betis,"16,719",Estadio de la Cerámica,José Sánchez
+8,Sun,10/3/2021,21:00 (19:00),Granada,1@0,Sevilla,"12,334",Estadio Nuevo Los Cármenes,Alberola Rojas
+9,Sat,10/16/2021,18:30 (16:30),Levante,0@0,Getafe,"14,551",Estadio Ciudad de Valencia,Mario Melero
+9,Sat,10/16/2021,21:00 (19:00),Real Sociedad,1@0,Mallorca,"30,831",Estadio Municipal de Anoeta,Pablo González
+9,Sun,10/17/2021,14:00 (12:00),Rayo Vallecano,2@1,Elche,"6,989",Estadio del Rayo Vallecano,Santiago Jaime
+9,Sun,10/17/2021,16:15 (14:15),Celta Vigo,0@1,Sevilla,"10,774",Estadio de Balaídos,Ricardo de Burgos
+9,Sun,10/17/2021,18:30 (16:30),Villarreal,1@2,Osasuna,"14,831",Estadio de la Cerámica,Adrián Cordero
+9,Sun,10/17/2021,21:00 (19:00),Barcelona,3@1,Valencia,"47,317",Camp Nou,Jesús Gil
+9,Mon,10/18/2021,19:00 (17:00),Alavés,0@1,Betis,"10,227",Estadio de Mendizorroza,Miguel Ángel Ortiz Arias
+9,Mon,10/18/2021,21:00 (19:00),Espanyol,2@0,Cádiz,"15,678",RCDE Stadium,Antonio Matéu Lahoz
+10,Fri,10/22/2021,21:00 (19:00),Osasuna,1@1,Granada,"21,128",Estadio El Sadar,Alejandro Muñíz
+10,Sat,10/23/2021,14:00 (12:00),Valencia,2@2,Mallorca,"29,139",Estadio de Mestalla,Carlos del Cerro
+10,Sat,10/23/2021,16:15 (14:15),Cádiz,0@2,Alavés,"13,790",Estadio Nuevo Mirandilla,Alberola Rojas
+10,Sat,10/23/2021,18:30 (16:30),Elche,2@2,Espanyol,"13,449",Estadio Manuel Martínez Valero,Jorge Figueroa
+10,Sat,10/23/2021,21:00 (19:00),Athletic Club,2@1,Villarreal,"38,698",San Mamés,Guillermo Cuadra
+10,Sun,10/24/2021,14:00 (12:00),Sevilla,5@3,Levante,"30,601",Estadio Ramón Sánchez Pizjuán,Valentín Pizarro
+10,Sun,10/24/2021,16:15 (14:15),Barcelona,1@2,Real Madrid,"86,422",Camp Nou,José Sánchez
+10,Sun,10/24/2021,18:30 (16:30),Betis,3@2,Rayo Vallecano,"45,362",Estadio Benito Villamarín,Ricardo de Burgos
+10,Sun,10/24/2021,21:00 (19:00),Atlético Madrid,2@2,Real Sociedad,"50,032",Estadio Wanda Metropolitano,José Luis Munuera
+10,Mon,10/25/2021,21:00 (19:00),Getafe,0@3,Celta Vigo,"7,630",Coliseum Alfonso Pérez,Juan Martínez
+11,Tue,10/26/2021,19:00 (17:00),Alavés,1@0,Elche,"10,206",Estadio de Mendizorroza,Jesús Gil
+11,Tue,10/26/2021,21:00 (19:00),Espanyol,1@1,Athletic Club,"16,196",RCDE Stadium,Miguel Ángel Ortiz Arias
+11,Tue,10/26/2021,21:30 (19:30),Villarreal,3@3,Cádiz,"12,190",Estadio de la Cerámica,Alejandro Hernández
+11,Wed,10/27/2021,19:00 (17:00),Rayo Vallecano,1@0,Barcelona,"9,340",Estadio del Rayo Vallecano,Antonio Matéu Lahoz
+11,Wed,10/27/2021,19:00 (17:00),Mallorca,1@1,Sevilla,"15,125",Iberostar Estadi,Santiago Jaime
+11,Wed,10/27/2021,20:00 (18:00),Betis,4@1,Valencia,"43,123",Estadio Benito Villamarín,Isidro Díaz de Mera
+11,Wed,10/27/2021,21:30 (19:30),Real Madrid,0@0,Osasuna,"35,691",Estadio Santiago Bernabéu,César Soto
+11,Thu,10/28/2021,19:00 (17:00),Celta Vigo,0@2,Real Sociedad,"8,726",Estadio de Balaídos,Mario Melero
+11,Thu,10/28/2021,20:00 (18:00),Granada,1@1,Getafe,"13,651",Estadio Nuevo Los Cármenes,Adrián Cordero
+11,Thu,10/28/2021,21:30 (19:30),Levante,2@2,Atlético Madrid,"16,298",Estadio Ciudad de Valencia,Pablo González
+12,Sat,10/30/2021,14:00 (12:00),Elche,1@2,Real Madrid,"23,010",Estadio Manuel Martínez Valero,Ricardo de Burgos
+12,Sat,10/30/2021,16:15 (14:15),Sevilla,2@0,Osasuna,"20,335",Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+12,Sat,10/30/2021,18:30 (16:30),Valencia,2@0,Villarreal,"31,487",Estadio de Mestalla,José Luis Munuera
+12,Sat,10/30/2021,21:00 (19:00),Barcelona,1@1,Alavés,"37,278",Camp Nou,Jorge Figueroa
+12,Sun,10/31/2021,14:00 (13:00),Cádiz,1@1,Mallorca,"11,790",Estadio Nuevo Mirandilla,Valentín Pizarro
+12,Sun,10/31/2021,16:15 (15:15),Atlético Madrid,3@0,Betis,"56,838",Estadio Wanda Metropolitano,Alberola Rojas
+12,Sun,10/31/2021,18:30 (17:30),Getafe,2@1,Espanyol,"4,721",Coliseum Alfonso Pérez,Alejandro Muñíz
+12,Sun,10/31/2021,21:00 (20:00),Real Sociedad,1@1,Athletic Club,"37,066",Estadio Municipal de Anoeta,Juan Martínez
+12,Mon,11/1/2021,18:30 (17:30),Rayo Vallecano,0@0,Celta Vigo,"9,580",Estadio del Rayo Vallecano,Adrián Cordero
+12,Mon,11/1/2021,21:00 (20:00),Levante,0@3,Granada,"14,512",Estadio Ciudad de Valencia,José Sánchez
+13,Fri,11/5/2021,21:00 (20:00),Athletic Club,0@1,Cádiz,"37,581",San Mamés,Santiago Jaime
+13,Sat,11/6/2021,14:00 (13:00),Espanyol,2@0,Granada,"19,050",RCDE Stadium,Isidro Díaz de Mera
+13,Sat,11/6/2021,16:15 (15:15),Celta Vigo,3@3,Barcelona,"13,146",Estadio de Balaídos,Alejandro Hernández
+13,Sat,11/6/2021,18:30 (17:30),Alavés,2@1,Levante,"12,176",Estadio de Mendizorroza,Adrián Cordero
+13,Sat,11/6/2021,21:00 (20:00),Real Madrid,2@1,Rayo Vallecano,"43,283",Estadio Santiago Bernabéu,Pablo González
+13,Sun,11/7/2021,14:00 (13:00),Villarreal,1@0,Getafe,"13,504",Estadio de la Cerámica,Jesús Gil
+13,Sun,11/7/2021,16:15 (15:15),Valencia,3@3,Atlético Madrid,"37,472",Estadio de Mestalla,César Soto
+13,Sun,11/7/2021,18:30 (17:30),Osasuna,0@2,Real Sociedad,"21,741",Estadio El Sadar,Miguel Ángel Ortiz Arias
+13,Sun,11/7/2021,18:30 (17:30),Mallorca,2@2,Elche,"12,933",Iberostar Estadi,Mario Melero
+13,Sun,11/7/2021,21:00 (20:00),Betis,0@2,Sevilla,"50,534",Estadio Benito Villamarín,Antonio Matéu Lahoz
+14,Fri,11/19/2021,21:00 (20:00),Levante,0@0,Athletic Club,"15,230",Estadio Ciudad de Valencia,José Luis Munuera
+14,Sat,11/20/2021,14:00 (13:00),Celta Vigo,1@1,Villarreal,"10,086",Estadio de Balaídos,Alberola Rojas
+14,Sat,11/20/2021,16:15 (15:15),Sevilla,2@2,Alavés,"25,208",Estadio Ramón Sánchez Pizjuán,Alejandro Muñíz
+14,Sat,11/20/2021,18:30 (17:30),Atlético Madrid,1@0,Osasuna,"53,261",Estadio Wanda Metropolitano,José Sánchez
+14,Sat,11/20/2021,21:00 (20:00),Barcelona,1@0,Espanyol,"74,418",Camp Nou,Carlos del Cerro
+14,Sun,11/21/2021,14:00 (13:00),Getafe,4@0,Cádiz,"8,825",Coliseum Alfonso Pérez,Ricardo de Burgos
+14,Sun,11/21/2021,16:15 (15:15),Granada,1@4,Real Madrid,"17,460",Estadio Nuevo Los Cármenes,Juan Martínez
+14,Sun,11/21/2021,18:30 (17:30),Elche,0@3,Betis,"16,127",Estadio Manuel Martínez Valero,Valentín Pizarro
+14,Sun,11/21/2021,21:00 (20:00),Real Sociedad,0@0,Valencia,"28,635",Estadio Municipal de Anoeta,Mario Melero
+14,Mon,11/22/2021,21:00 (20:00),Rayo Vallecano,3@1,Mallorca,"6,708",Estadio del Rayo Vallecano,Jorge Figueroa
+15,Fri,11/26/2021,21:00 (20:00),Athletic Club,2@2,Granada,"32,651",San Mamés,Adrián Cordero
+15,Sat,11/27/2021,14:00 (13:00),Alavés,1@2,Celta Vigo,"10,093",Estadio de Mendizorroza,Pablo González
+15,Sat,11/27/2021,16:15 (15:15),Valencia,1@1,Rayo Vallecano,"30,030",Estadio de Mestalla,Alejandro Hernández
+15,Sat,11/27/2021,18:30 (17:30),Mallorca,0@0,Getafe,"8,635",Iberostar Estadi,Santiago Jaime
+15,Sat,11/27/2021,21:00 (20:00),Villarreal,1@3,Barcelona,"19,050",Estadio de la Cerámica,César Soto
+15,Sun,11/28/2021,14:00 (13:00),Betis,3@1,Levante,"45,012",Estadio Benito Villamarín,Miguel Ángel Ortiz Arias
+15,Sun,11/28/2021,16:15 (15:15),Espanyol,1@0,Real Sociedad,"19,935",RCDE Stadium,Antonio Matéu Lahoz
+15,Sun,11/28/2021,18:30 (17:30),Cádiz,1@4,Atlético Madrid,"16,861",Estadio Nuevo Mirandilla,Jesús Gil
+15,Sun,11/28/2021,21:00 (20:00),Real Madrid,2@1,Sevilla,"45,281",Estadio Santiago Bernabéu,José Sánchez
+15,Mon,11/29/2021,21:00 (20:00),Osasuna,1@1,Elche,"16,485",Estadio El Sadar,Isidro Díaz de Mera
+9,Wed,12/1/2021,21:00 (20:00),Real Madrid,1@0,Athletic Club,"33,627",Estadio Santiago Bernabéu,Isidro Díaz de Mera
+16,Fri,12/3/2021,21:00 (20:00),Granada,2@1,Alavés,"13,511",Estadio Nuevo Los Cármenes,Alberola Rojas
+16,Sat,12/4/2021,14:00 (13:00),Sevilla,1@0,Villarreal,"30,865",Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+16,Sat,12/4/2021,16:15 (15:15),Barcelona,0@1,Betis,"66,529",Camp Nou,Pablo González
+16,Sat,12/4/2021,18:30 (17:30),Atlético Madrid,1@2,Mallorca,"51,009",Estadio Wanda Metropolitano,Juan Martínez
+16,Sat,12/4/2021,21:00 (20:00),Real Sociedad,0@2,Real Madrid,"35,765",Estadio Municipal de Anoeta,Jesús Gil
+16,Sun,12/5/2021,14:00 (13:00),Rayo Vallecano,1@0,Espanyol,"8,679",Estadio del Rayo Vallecano,José Luis Munuera
+16,Sun,12/5/2021,16:15 (15:15),Elche,3@1,Cádiz,"11,879",Estadio Manuel Martínez Valero,Alejandro Muñíz
+16,Sun,12/5/2021,18:30 (17:30),Levante,0@0,Osasuna,"15,361",Estadio Ciudad de Valencia,Valentín Pizarro
+16,Sun,12/5/2021,21:00 (20:00),Celta Vigo,1@2,Valencia,"11,361",Estadio de Balaídos,Ricardo de Burgos
+16,Mon,12/6/2021,21:00 (20:00),Getafe,0@0,Athletic Club,"9,176",Coliseum Alfonso Pérez,Jorge Figueroa
+17,Fri,12/10/2021,21:00 (20:00),Mallorca,0@0,Celta Vigo,"10,655",Iberostar Estadi,Isidro Díaz de Mera
+17,Sat,12/11/2021,14:00 (13:00),Espanyol,4@3,Levante,"15,193",RCDE Stadium,Adrián Cordero
+17,Sat,12/11/2021,16:15 (15:15),Alavés,1@1,Getafe,"10,065",Estadio de Mendizorroza,César Soto
+17,Sat,12/11/2021,18:30 (17:30),Valencia,2@1,Elche,"31,662",Estadio de Mestalla,Santiago Jaime
+17,Sat,12/11/2021,21:00 (20:00),Athletic Club,0@1,Sevilla,"36,737",San Mamés,Alejandro Hernández
+17,Sun,12/12/2021,14:00 (13:00),Villarreal,2@0,Rayo Vallecano,"13,133",Estadio de la Cerámica,Mario Melero
+17,Sun,12/12/2021,16:15 (15:15),Osasuna,2@2,Barcelona,"21,427",Estadio El Sadar,Juan Martínez
+17,Sun,12/12/2021,18:30 (17:30),Betis,4@0,Real Sociedad,"52,158",Estadio Benito Villamarín,José Sánchez
+17,Sun,12/12/2021,21:00 (20:00),Real Madrid,2@0,Atlético Madrid,"51,024",Estadio Santiago Bernabéu,Antonio Matéu Lahoz
+17,Mon,12/13/2021,21:00 (20:00),Cádiz,1@1,Granada,"13,052",Estadio Nuevo Mirandilla,Miguel Ángel Ortiz Arias
+18,Fri,12/17/2021,21:00 (20:00),Celta Vigo,3@1,Espanyol,"9,526",Estadio de Balaídos,Valentín Pizarro
+18,Sat,12/18/2021,14:00 (13:00),Rayo Vallecano,2@0,Alavés,"7,911",Estadio del Rayo Vallecano,Antonio Matéu Lahoz
+18,Sat,12/18/2021,16:15 (15:15),Real Sociedad,1@3,Villarreal,"29,679",Estadio Municipal de Anoeta,Jorge Figueroa
+18,Sat,12/18/2021,18:30 (17:30),Barcelona,3@2,Elche,"41,664",Camp Nou,Alberola Rojas
+18,Sat,12/18/2021,21:00 (20:00),Sevilla,2@1,Atlético Madrid,"33,241",Estadio Ramón Sánchez Pizjuán,Ricardo de Burgos
+18,Sun,12/19/2021,14:00 (13:00),Granada,4@1,Mallorca,"13,014",Estadio Nuevo Los Cármenes,Alejandro Muñíz
+18,Sun,12/19/2021,16:15 (15:15),Athletic Club,3@2,Betis,"38,002",San Mamés,Jesús Gil
+18,Sun,12/19/2021,18:30 (17:30),Getafe,1@0,Osasuna,"8,126",Coliseum Alfonso Pérez,José Luis Munuera
+18,Sun,12/19/2021,21:00 (20:00),Real Madrid,0@0,Cádiz,"38,818",Estadio Santiago Bernabéu,Santiago Jaime
+18,Mon,12/20/2021,21:00 (20:00),Levante,3@4,Valencia,"18,851",Estadio Ciudad de Valencia,Pablo González
+4,Tue,12/21/2021,19:00 (18:00),Villarreal,5@2,Alavés,"12,530",Estadio de la Cerámica,Valentín Pizarro
+4,Tue,12/21/2021,21:30 (20:30),Sevilla,1@1,Barcelona,"31,358",Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+9,Wed,12/22/2021,19:00 (18:00),Granada,2@1,Atlético Madrid,"13,304",Estadio Nuevo Los Cármenes,Alejandro Hernández
+21,Wed,12/22/2021,21:30 (20:30),Athletic Club,1@2,Real Madrid,"42,722",San Mamés,César Soto
+19,Fri,12/31/2021,16:15 (15:15),Valencia,1@2,Espanyol,"29,566",Estadio de Mestalla,José Sánchez
+19,Sun,1/2/2022,14:00 (13:00),Getafe,1@0,Real Madrid,"11,890",Coliseum Alfonso Pérez,Mario Melero
+19,Sun,1/2/2022,16:15 (15:15),Atlético Madrid,2@0,Rayo Vallecano,"43,029",Estadio Wanda Metropolitano,Jorge Figueroa
+19,Sun,1/2/2022,16:15 (15:15),Elche,0@0,Granada,"12,160",Estadio Manuel Martínez Valero,Adrián Cordero
+19,Sun,1/2/2022,18:30 (17:30),Alavés,1@1,Real Sociedad,"13,498",Estadio de Mendizorroza,Carlos del Cerro
+19,Sun,1/2/2022,18:30 (17:30),Betis,0@2,Celta Vigo,"41,656",Estadio Benito Villamarín,César Soto
+19,Sun,1/2/2022,21:00 (20:00),Mallorca,0@1,Barcelona,"14,654",Iberostar Estadi,Antonio Matéu Lahoz
+19,Mon,1/3/2022,19:00 (18:00),Villarreal,5@0,Levante,"13,462",Estadio de la Cerámica,Alejandro Hernández
+19,Mon,1/3/2022,21:00 (20:00),Osasuna,1@3,Athletic Club,"16,206",Estadio El Sadar,Miguel Ángel Ortiz Arias
+19,Mon,1/3/2022,21:15 (20:15),Cádiz,0@1,Sevilla,"14,342",Estadio Nuevo Mirandilla,Alberola Rojas
+20,Sat,1/8/2022,14:00 (13:00),Levante,2@0,Mallorca,"13,330",Estadio Ciudad de Valencia,Jorge Figueroa
+20,Sat,1/8/2022,16:15 (15:15),Real Sociedad,1@0,Celta Vigo,"27,938",Estadio Municipal de Anoeta,Guillermo Cuadra
+20,Sat,1/8/2022,18:30 (17:30),Granada,1@1,Barcelona,"14,442",Estadio Nuevo Los Cármenes,Pablo González
+20,Sat,1/8/2022,21:00 (20:00),Real Madrid,4@1,Valencia,"40,617",Estadio Santiago Bernabéu,Alejandro Hernández
+20,Sun,1/9/2022,14:00 (13:00),Rayo Vallecano,1@1,Betis,"8,395",Estadio del Rayo Vallecano,Alejandro Muñíz
+20,Sun,1/9/2022,16:15 (15:15),Sevilla,1@0,Getafe,"30,801",Estadio Ramón Sánchez Pizjuán,Juan Martínez
+20,Sun,1/9/2022,18:30 (17:30),Osasuna,2@0,Cádiz,"16,292",Estadio El Sadar,Ricardo de Burgos
+20,Sun,1/9/2022,18:30 (17:30),Alavés,0@0,Athletic Club,"14,103",Estadio de Mendizorroza,Santiago Jaime
+20,Sun,1/9/2022,21:00 (20:00),Villarreal,2@2,Atlético Madrid,"14,127",Estadio de la Cerámica,Alberola Rojas
+20,Mon,1/10/2022,21:00 (20:00),Espanyol,1@2,Elche,"11,870",RCDE Stadium,Jesús Gil
+21,Sun,1/16/2022,14:00 (13:00),Elche,1@0,Villarreal,"12,433",Estadio Manuel Martínez Valero,Valentín Pizarro
+21,Tue,1/18/2022,20:00 (19:00),Betis,4@0,Alavés,"38,753",Estadio Benito Villamarín,José Sánchez
+21,Tue,1/18/2022,21:30 (20:30),Cádiz,2@2,Espanyol,"10,755",Estadio Nuevo Mirandilla,Alejandro Muñíz
+21,Wed,1/19/2022,19:00 (18:00),Celta Vigo,2@0,Osasuna,"8,837",Estadio de Balaídos,Adrián Cordero
+21,Wed,1/19/2022,21:30 (20:30),Valencia,1@1,Sevilla,"26,049",Estadio de Mestalla,César Soto
+21,Thu,1/20/2022,19:00 (18:00),Getafe,4@2,Granada,"7,634",Coliseum Alfonso Pérez,Isidro Díaz de Mera
+22,Fri,1/21/2022,21:00 (20:00),Espanyol,1@4,Betis,"17,637",RCDE Stadium,Alberola Rojas
+22,Sat,1/22/2022,14:00 (13:00),Levante,0@2,Cádiz,"14,063",Estadio Ciudad de Valencia,César Soto
+22,Sat,1/22/2022,16:15 (15:15),Villarreal,3@0,Mallorca,"13,207",Estadio de la Cerámica,Miguel Ángel Ortiz Arias
+22,Sat,1/22/2022,18:30 (17:30),Sevilla,2@2,Celta Vigo,"30,059",Estadio Ramón Sánchez Pizjuán,José Sánchez
+22,Sat,1/22/2022,21:00 (20:00),Atlético Madrid,3@2,Valencia,"44,999",Estadio Wanda Metropolitano,Isidro Díaz de Mera
+22,Sun,1/23/2022,14:00 (13:00),Granada,0@2,Osasuna,"12,471",Estadio Nuevo Los Cármenes,Santiago Jaime
+22,Sun,1/23/2022,16:15 (15:15),Real Madrid,2@2,Elche,"39,796",Estadio Santiago Bernabéu,Ricardo de Burgos
+22,Sun,1/23/2022,18:30 (17:30),Real Sociedad,0@0,Getafe,"27,368",Estadio Municipal de Anoeta,José Luis Munuera
+22,Sun,1/23/2022,18:30 (17:30),Rayo Vallecano,0@1,Athletic Club,"9,034",Estadio del Rayo Vallecano,Adrián Cordero
+22,Sun,1/23/2022,21:00 (20:00),Alavés,0@1,Barcelona,"14,056",Estadio de Mendizorroza,Jorge Figueroa
+23,Fri,2/4/2022,21:00 (20:00),Getafe,3@0,Levante,"8,475",Coliseum Alfonso Pérez,Alejandro Muñíz
+23,Sat,2/5/2022,14:00 (13:00),Elche,3@1,Alavés,"12,923",Estadio Manuel Martínez Valero,Mario Melero
+23,Sat,2/5/2022,16:15 (15:15),Mallorca,2@1,Cádiz,"12,226",Iberostar Estadi,Carlos del Cerro
+23,Sat,2/5/2022,18:30 (17:30),Celta Vigo,2@0,Rayo Vallecano,"12,546",Estadio de Balaídos,José Luis Munuera
+23,Sat,2/5/2022,21:00 (20:00),Osasuna,0@0,Sevilla,"17,635",Estadio El Sadar,Valentín Pizarro
+23,Sun,2/6/2022,14:00 (13:00),Valencia,0@0,Real Sociedad,"31,351",Estadio de Mestalla,José Sánchez
+23,Sun,2/6/2022,16:15 (15:15),Barcelona,4@2,Atlético Madrid,"74,221",Camp Nou,Jesús Gil
+23,Sun,2/6/2022,18:30 (17:30),Betis,0@2,Villarreal,"44,870",Estadio Benito Villamarín,Pablo González
+23,Sun,2/6/2022,21:00 (20:00),Real Madrid,1@0,Granada,"36,665",Estadio Santiago Bernabéu,Antonio Matéu Lahoz
+23,Mon,2/7/2022,21:00 (20:00),Athletic Club,2@1,Espanyol,"30,753",San Mamés,César Soto
+24,Fri,2/11/2022,21:00 (20:00),Sevilla,2@0,Elche,"33,411",Estadio Ramón Sánchez Pizjuán,Miguel Ángel Ortiz Arias
+24,Sat,2/12/2022,14:00 (13:00),Cádiz,0@0,Celta Vigo,"15,635",Estadio Nuevo Mirandilla,Antonio Matéu Lahoz
+24,Sat,2/12/2022,16:15 (15:15),Villarreal,0@0,Real Madrid,"17,894",Estadio de la Cerámica,José Sánchez
+24,Sat,2/12/2022,18:30 (17:30),Rayo Vallecano,0@3,Osasuna,"8,596",Estadio del Rayo Vallecano,Jorge Figueroa
+24,Sat,2/12/2022,21:00 (20:00),Atlético Madrid,4@3,Getafe,"49,375",Estadio Wanda Metropolitano,Ricardo de Burgos
+24,Sun,2/13/2022,14:00 (13:00),Alavés,2@1,Valencia,"12,845",Estadio de Mendizorroza,Adrián Cordero
+24,Sun,2/13/2022,16:15 (15:15),Levante,2@4,Betis,"16,103",Estadio Ciudad de Valencia,Santiago Jaime
+24,Sun,2/13/2022,18:30 (17:30),Real Sociedad,2@0,Granada,"29,847",Estadio Municipal de Anoeta,Alberola Rojas
+24,Sun,2/13/2022,21:00 (20:00),Espanyol,2@2,Barcelona,"25,049",RCDE Stadium,Alejandro Hernández
+24,Mon,2/14/2022,21:00 (20:00),Mallorca,3@2,Athletic Club,"12,904",Iberostar Estadi,Isidro Díaz de Mera
+21,Wed,2/16/2022,19:00 (18:00),Atlético Madrid,0@1,Levante,"43,456",Estadio Wanda Metropolitano,José Luis Munuera
+25,Fri,2/18/2022,21:00 (20:00),Elche,2@1,Rayo Vallecano,"14,742",Estadio Manuel Martínez Valero,Alejandro Muñíz
+25,Sat,2/19/2022,14:00 (13:00),Granada,1@4,Villarreal,"13,389",Estadio Nuevo Los Cármenes,Jesús Gil
+25,Sat,2/19/2022,16:15 (15:15),Osasuna,0@3,Atlético Madrid,"20,040",Estadio El Sadar,Mario Melero
+25,Sat,2/19/2022,18:30 (17:30),Cádiz,1@1,Getafe,"15,948",Estadio Nuevo Mirandilla,Alberola Rojas
+25,Sat,2/19/2022,21:00 (20:00),Real Madrid,3@0,Alavés,"42,180",Estadio Santiago Bernabéu,José Luis Munuera
+25,Sun,2/20/2022,14:00 (13:00),Espanyol,1@1,Sevilla,"24,897",RCDE Stadium,Pablo González
+25,Sun,2/20/2022,16:15 (15:15),Valencia,1@4,Barcelona,"38,315",Estadio de Mestalla,Carlos del Cerro
+25,Sun,2/20/2022,18:30 (17:30),Betis,2@1,Mallorca,"48,652",Estadio Benito Villamarín,César Soto
+25,Sun,2/20/2022,21:00 (20:00),Athletic Club,4@0,Real Sociedad,"40,698",San Mamés,Juan Martínez
+25,Mon,2/21/2022,21:00 (20:00),Celta Vigo,1@1,Levante,"9,776",Estadio de Balaídos,Valentín Pizarro
+26,Fri,2/25/2022,21:00 (20:00),Levante,3@0,Elche,"14,237",Estadio Ciudad de Valencia,Pablo González
+26,Sat,2/26/2022,14:00 (13:00),Mallorca,0@1,Valencia,"14,417",Iberostar Estadi,Jorge Figueroa
+26,Sat,2/26/2022,16:15 (15:15),Getafe,2@2,Alavés,"7,720",Coliseum Alfonso Pérez,Santiago Jaime
+26,Sat,2/26/2022,18:30 (17:30),Rayo Vallecano,0@1,Real Madrid,"9,952",Estadio del Rayo Vallecano,Isidro Díaz de Mera
+26,Sat,2/26/2022,21:00 (20:00),Atlético Madrid,2@0,Celta Vigo,"48,009",Estadio Wanda Metropolitano,Alejandro Hernández
+26,Sun,2/27/2022,14:00 (13:00),Villarreal,5@1,Espanyol,"15,600",Estadio de la Cerámica,Ricardo de Burgos
+26,Sun,2/27/2022,16:15 (15:15),Sevilla,2@1,Betis,"37,250",Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+26,Sun,2/27/2022,18:30 (17:30),Real Sociedad,1@0,Osasuna,"30,145",Estadio Municipal de Anoeta,Antonio Matéu Lahoz
+26,Sun,2/27/2022,21:00 (20:00),Barcelona,4@0,Athletic Club,"69,770",Camp Nou,Guillermo Cuadra
+26,Mon,2/28/2022,21:00 (20:00),Granada,0@0,Cádiz,"14,785",Estadio Nuevo Los Cármenes,José Sánchez
+21,Wed,3/2/2022,21:00 (20:00),Mallorca,0@2,Real Sociedad,"11,550",Iberostar Estadi,Mario Melero
+27,Fri,3/4/2022,21:00 (20:00),Alavés,0@0,Sevilla,"13,121",Estadio de Mendizorroza,Alberola Rojas
+27,Sat,3/5/2022,14:00 (13:00),Osasuna,1@0,Villarreal,"16,659",Estadio El Sadar,José Luis Munuera
+27,Sat,3/5/2022,16:15 (15:15),Espanyol,2@0,Getafe,"18,519",RCDE Stadium,Adrián Cordero
+27,Sat,3/5/2022,18:30 (17:30),Valencia,3@1,Granada,"31,227",Estadio de Mestalla,Valentín Pizarro
+27,Sat,3/5/2022,21:00 (20:00),Real Madrid,4@1,Real Sociedad,"52,410",Estadio Santiago Bernabéu,Jesús Gil
+27,Sun,3/6/2022,14:00 (13:00),Cádiz,2@0,Rayo Vallecano,"15,677",Estadio Nuevo Mirandilla,César Soto
+27,Sun,3/6/2022,16:15 (15:15),Elche,1@2,Barcelona,"30,146",Estadio Manuel Martínez Valero,Alejandro Hernández
+27,Sun,3/6/2022,18:30 (17:30),Celta Vigo,4@3,Mallorca,"11,320",Estadio de Balaídos,Miguel Ángel Ortiz Arias
+27,Sun,3/6/2022,21:00 (20:00),Betis,1@3,Atlético Madrid,"44,383",Estadio Benito Villamarín,Guillermo Cuadra
+27,Mon,3/7/2022,21:00 (20:00),Athletic Club,3@1,Levante,"29,485",San Mamés,Alejandro Muñíz
+28,Fri,3/11/2022,21:00 (20:00),Atlético Madrid,2@1,Cádiz,"50,573",Estadio Wanda Metropolitano,Pablo González
+28,Sat,3/12/2022,14:00 (13:00),Levante,1@1,Espanyol,"13,407",Estadio Ciudad de Valencia,Isidro Díaz de Mera
+28,Sat,3/12/2022,16:15 (15:15),Granada,0@1,Elche,"15,345",Estadio Nuevo Los Cármenes,Carlos del Cerro
+28,Sat,3/12/2022,18:30 (17:30),Villarreal,1@0,Celta Vigo,"14,929",Estadio de la Cerámica,Santiago Jaime
+28,Sat,3/12/2022,21:00 (20:00),Getafe,0@0,Valencia,"10,349",Coliseum Alfonso Pérez,Guillermo Cuadra
+28,Sun,3/13/2022,14:00 (13:00),Rayo Vallecano,1@1,Sevilla,"9,073",Estadio del Rayo Vallecano,Juan Martínez
+28,Sun,3/13/2022,16:15 (15:15),Betis,1@0,Athletic Club,"48,876",Estadio Benito Villamarín,Antonio Matéu Lahoz
+28,Sun,3/13/2022,18:30 (17:30),Real Sociedad,1@0,Alavés,"31,573",Estadio Municipal de Anoeta,Jorge Figueroa
+28,Sun,3/13/2022,21:00 (20:00),Barcelona,4@0,Osasuna,"54,507",Camp Nou,Ricardo de Burgos
+28,Mon,3/14/2022,21:00 (20:00),Mallorca,0@3,Real Madrid,"17,191",Iberostar Estadi,José Sánchez
+29,Fri,3/18/2022,21:00 (20:00),Athletic Club,1@1,Getafe,"37,367",San Mamés,Jesús Gil
+29,Sat,3/19/2022,14:00 (13:00),Alavés,2@3,Granada,"16,209",Estadio de Mendizorroza,Guillermo Cuadra
+29,Sat,3/19/2022,16:15 (15:15),Elche,0@1,Valencia,"15,780",Estadio Manuel Martínez Valero,Miguel Ángel Ortiz Arias
+29,Sat,3/19/2022,18:30 (17:30),Osasuna,3@1,Levante,"19,429",Estadio El Sadar,Alberola Rojas
+29,Sat,3/19/2022,21:00 (20:00),Rayo Vallecano,0@1,Atlético Madrid,"10,349",Estadio del Rayo Vallecano,José Luis Munuera
+29,Sun,3/20/2022,14:00 (13:00),Espanyol,1@0,Mallorca,"17,578",RCDE Stadium,Alejandro Muñíz
+29,Sun,3/20/2022,16:15 (15:15),Cádiz,1@0,Villarreal,"13,325",Estadio Nuevo Mirandilla,Alejandro Hernández
+29,Sun,3/20/2022,16:15 (15:15),Celta Vigo,0@0,Betis,"13,149",Estadio de Balaídos,Ricardo de Burgos
+29,Sun,3/20/2022,18:30 (17:30),Sevilla,0@0,Real Sociedad,"24,861",Estadio Ramón Sánchez Pizjuán,César Soto
+29,Sun,3/20/2022,21:00 (20:00),Real Madrid,0@4,Barcelona,"60,017",Estadio Santiago Bernabéu,Juan Martínez
+30,Sat,4/2/2022,14:00 (12:00),Getafe,1@0,Mallorca,"8,946",Coliseum Alfonso Pérez,Antonio Matéu Lahoz
+30,Sat,4/2/2022,16:15 (14:15),Levante,2@0,Villarreal,"14,908",Estadio Ciudad de Valencia,Adrián Cordero
+30,Sat,4/2/2022,18:30 (16:30),Celta Vigo,1@2,Real Madrid,"15,714",Estadio de Balaídos,Pablo González
+30,Sat,4/2/2022,21:00 (19:00),Atlético Madrid,4@1,Alavés,"51,467",Estadio Wanda Metropolitano,Mario Melero
+30,Sun,4/3/2022,14:00 (12:00),Athletic Club,2@1,Elche,"34,572",San Mamés,Jorge Figueroa
+30,Sun,4/3/2022,16:15 (14:15),Betis,4@1,Osasuna,"49,103",Estadio Benito Villamarín,Valentín Pizarro
+30,Sun,4/3/2022,18:30 (16:30),Granada,2@2,Rayo Vallecano,"15,823",Estadio Nuevo Los Cármenes,Alejandro Hernández
+30,Sun,4/3/2022,18:30 (16:30),Valencia,0@0,Cádiz,"32,949",Estadio de Mestalla,Isidro Díaz de Mera
+30,Sun,4/3/2022,21:00 (19:00),Barcelona,1@0,Sevilla,"76,112",Camp Nou,José Sánchez
+30,Mon,4/4/2022,21:00 (19:00),Real Sociedad,1@0,Espanyol,"20,869",Estadio Municipal de Anoeta,Santiago Jaime
+31,Fri,4/8/2022,21:00 (19:00),Sevilla,4@2,Granada,"33,504",Estadio Ramón Sánchez Pizjuán,Miguel Ángel Ortiz Arias
+31,Sat,4/9/2022,14:00 (12:00),Cádiz,1@2,Betis,"18,063",Estadio Nuevo Mirandilla,Jesús Gil
+31,Sat,4/9/2022,16:15 (14:15),Mallorca,1@0,Atlético Madrid,"15,437",Iberostar Estadi,Juan Martínez
+31,Sat,4/9/2022,18:30 (16:30),Villarreal,1@1,Athletic Club,"16,603",Estadio de la Cerámica,Carlos del Cerro
+31,Sat,4/9/2022,21:00 (19:00),Real Madrid,2@0,Getafe,"50,740",Estadio Santiago Bernabéu,César Soto
+31,Sun,4/10/2022,14:00 (12:00),Osasuna,1@0,Alavés,"19,220",Estadio El Sadar,Alejandro Muñíz
+31,Sun,4/10/2022,16:15 (14:15),Espanyol,1@0,Celta Vigo,"18,471",RCDE Stadium,Alberola Rojas
+31,Sun,4/10/2022,18:30 (16:30),Elche,1@2,Real Sociedad,"17,011",Estadio Manuel Martínez Valero,Guillermo Cuadra
+31,Sun,4/10/2022,21:00 (19:00),Levante,2@3,Barcelona,"20,785",Estadio Ciudad de Valencia,José Luis Munuera
+31,Mon,4/11/2022,21:00 (19:00),Rayo Vallecano,1@1,Valencia,"9,302",Estadio del Rayo Vallecano,Ricardo de Burgos
+32,Fri,4/15/2022,21:00 (19:00),Real Sociedad,0@0,Betis,"28,893",Estadio Municipal de Anoeta,Isidro Díaz de Mera
+32,Sat,4/16/2022,14:00 (12:00),Elche,3@0,Mallorca,"20,257",Estadio Manuel Martínez Valero,José Sánchez
+32,Sat,4/16/2022,16:15 (14:15),Alavés,1@0,Rayo Vallecano,"10,165",Estadio de Mendizorroza,Juan Martínez
+32,Sat,4/16/2022,18:30 (16:30),Valencia,1@2,Osasuna,"30,148",Estadio de Mestalla,Mario Melero
+32,Sat,4/16/2022,21:00 (19:00),Getafe,1@2,Villarreal,"9,657",Coliseum Alfonso Pérez,Pablo González
+32,Sun,4/17/2022,14:00 (12:00),Granada,1@4,Levante,"15,323",Estadio Nuevo Los Cármenes,Valentín Pizarro
+32,Sun,4/17/2022,16:15 (14:15),Atlético Madrid,2@1,Espanyol,"54,011",Estadio Wanda Metropolitano,Jorge Figueroa
+32,Sun,4/17/2022,18:30 (16:30),Athletic Club,0@2,Celta Vigo,"35,541",San Mamés,Alejandro Hernández
+32,Sun,4/17/2022,21:00 (19:00),Sevilla,2@3,Real Madrid,"40,629",Estadio Ramón Sánchez Pizjuán,Guillermo Cuadra
+32,Mon,4/18/2022,21:00 (19:00),Barcelona,0@1,Cádiz,"57,495",Camp Nou,Santiago Jaime
+33,Tue,4/19/2022,19:00 (17:00),Mallorca,2@1,Alavés,"15,264",Iberostar Estadi,César Soto
+33,Tue,4/19/2022,21:00 (19:00),Betis,0@1,Elche,"43,257",Estadio Benito Villamarín,Alberola Rojas
+33,Tue,4/19/2022,21:30 (19:30),Villarreal,2@0,Valencia,"13,570",Estadio de la Cerámica,José Luis Munuera
+33,Wed,4/20/2022,19:00 (17:00),Atlético Madrid,0@0,Granada,"43,517",Estadio Wanda Metropolitano,Jesús Gil
+33,Wed,4/20/2022,20:00 (18:00),Celta Vigo,0@2,Getafe,"9,934",Estadio de Balaídos,Santiago Jaime
+33,Wed,4/20/2022,21:30 (19:30),Osasuna,1@3,Real Madrid,"21,360",Estadio El Sadar,Ricardo de Burgos
+33,Thu,4/21/2022,19:00 (17:00),Levante,2@3,Sevilla,"18,107",Estadio Ciudad de Valencia,Isidro Díaz de Mera
+33,Thu,4/21/2022,19:00 (17:00),Espanyol,0@1,Rayo Vallecano,"11,873",RCDE Stadium,Antonio Matéu Lahoz
+33,Thu,4/21/2022,20:00 (18:00),Cádiz,2@3,Athletic Club,"17,360",Estadio Nuevo Mirandilla,Valentín Pizarro
+33,Thu,4/21/2022,21:30 (19:30),Real Sociedad,0@1,Barcelona,"35,128",Estadio Municipal de Anoeta,Carlos del Cerro
+21,Sun,4/24/2022,21:00 (19:00),Barcelona,0@1,Rayo Vallecano,"57,023",Camp Nou,Isidro Díaz de Mera
+34,Fri,4/29/2022,21:00 (19:00),Sevilla,1@1,Cádiz,"37,113",Estadio Ramón Sánchez Pizjuán,José Sánchez
+34,Sat,4/30/2022,14:00 (12:00),Alavés,2@1,Villarreal,"12,579",Estadio de Mendizorroza,Miguel Ángel Ortiz Arias
+34,Sat,4/30/2022,16:15 (14:15),Real Madrid,4@0,Espanyol,"58,686",Estadio Santiago Bernabéu,José Luis Munuera
+34,Sat,4/30/2022,18:30 (16:30),Valencia,1@1,Levante,"35,099",Estadio de Mestalla,Jorge Figueroa
+34,Sat,4/30/2022,21:00 (19:00),Athletic Club,2@0,Atlético Madrid,"43,398",San Mamés,Antonio Matéu Lahoz
+34,Sun,5/1/2022,14:00 (12:00),Elche,1@1,Osasuna,"16,305",Estadio Manuel Martínez Valero,Carlos del Cerro
+34,Sun,5/1/2022,16:15 (14:15),Granada,1@1,Celta Vigo,"15,036",Estadio Nuevo Los Cármenes,Juan Martínez
+34,Sun,5/1/2022,18:30 (16:30),Rayo Vallecano,1@1,Real Sociedad,"9,395",Estadio del Rayo Vallecano,Alejandro Muñíz
+34,Sun,5/1/2022,21:00 (19:00),Barcelona,2@1,Mallorca,"62,789",Camp Nou,Pablo González
+34,Mon,5/2/2022,21:00 (19:00),Getafe,0@0,Betis,"9,916",Coliseum Alfonso Pérez,Adrián Cordero
+35,Fri,5/6/2022,21:00 (19:00),Levante,2@1,Real Sociedad,"17,278",Estadio Ciudad de Valencia,Alberola Rojas
+35,Sat,5/7/2022,14:00 (12:00),Mallorca,2@6,Granada,"18,466",Iberostar Estadi,Ricardo de Burgos
+35,Sat,5/7/2022,16:15 (14:15),Athletic Club,0@0,Valencia,"41,091",San Mamés,Isidro Díaz de Mera
+35,Sat,5/7/2022,18:30 (16:30),Cádiz,3@0,Elche,"17,615",Estadio Nuevo Mirandilla,Alejandro Hernández
+35,Sat,5/7/2022,18:30 (16:30),Celta Vigo,4@0,Alavés,"10,567",Estadio de Balaídos,Guillermo Cuadra
+35,Sat,5/7/2022,21:00 (19:00),Betis,1@2,Barcelona,"46,132",Estadio Benito Villamarín,Antonio Matéu Lahoz
+35,Sun,5/8/2022,14:00 (12:00),Getafe,0@0,Rayo Vallecano,"10,125",Coliseum Alfonso Pérez,Mario Melero
+35,Sun,5/8/2022,16:15 (14:15),Villarreal,1@1,Sevilla,"17,461",Estadio de la Cerámica,Jesús Gil
+35,Sun,5/8/2022,18:30 (16:30),Espanyol,1@1,Osasuna,"18,903",RCDE Stadium,Santiago Jaime
+35,Sun,5/8/2022,21:00 (19:00),Atlético Madrid,1@0,Real Madrid,"63,874",Estadio Wanda Metropolitano,César Soto
+36,Tue,5/10/2022,19:00 (17:00),Valencia,0@3,Betis,"28,091",Estadio de Mestalla,Carlos del Cerro
+36,Tue,5/10/2022,20:00 (18:00),Granada,1@0,Athletic Club,"16,638",Estadio Nuevo Los Cármenes,José Sánchez
+36,Tue,5/10/2022,21:30 (19:30),Barcelona,3@1,Celta Vigo,"55,899",Camp Nou,Miguel Ángel Ortiz Arias
+36,Wed,5/11/2022,19:00 (17:00),Osasuna,1@1,Getafe,"17,850",Estadio El Sadar,Alejandro Muñíz
+36,Wed,5/11/2022,19:00 (17:00),Alavés,2@1,Espanyol,"12,729",Estadio de Mendizorroza,Valentín Pizarro
+36,Wed,5/11/2022,20:30 (18:30),Sevilla,0@0,Mallorca,"33,242",Estadio Ramón Sánchez Pizjuán,Alejandro Hernández
+36,Wed,5/11/2022,21:30 (19:30),Elche,0@2,Atlético Madrid,"21,266",Estadio Manuel Martínez Valero,Pablo González
+36,Thu,5/12/2022,19:00 (17:00),Real Sociedad,3@0,Cádiz,"29,014",Estadio Municipal de Anoeta,Juan Martínez
+36,Thu,5/12/2022,20:00 (18:00),Rayo Vallecano,1@5,Villarreal,"7,945",Estadio del Rayo Vallecano,Isidro Díaz de Mera
+36,Thu,5/12/2022,21:30 (19:30),Real Madrid,6@0,Levante,"38,421",Estadio Santiago Bernabéu,Adrián Cordero
+37,Sat,5/14/2022,18:30 (16:30),Espanyol,1@1,Valencia,"14,990",RCDE Stadium,Alejandro Muñíz
+37,Sun,5/15/2022,19:30 (17:30),Levante,3@1,Alavés,"12,438",Estadio Ciudad de Valencia,Guillermo Cuadra
+37,Sun,5/15/2022,19:30 (17:30),Villarreal,1@2,Real Sociedad,"16,689",Estadio de la Cerámica,Pablo González
+37,Sun,5/15/2022,19:30 (17:30),Getafe,0@0,Barcelona,"13,072",Coliseum Alfonso Pérez,Jesús Gil
+37,Sun,5/15/2022,19:30 (17:30),Athletic Club,2@0,Osasuna,"37,869",San Mamés,Jorge Figueroa
+37,Sun,5/15/2022,19:30 (17:30),Atlético Madrid,1@1,Sevilla,"58,138",Estadio Wanda Metropolitano,José Sánchez
+37,Sun,5/15/2022,19:30 (17:30),Betis,2@0,Granada,"45,016",Estadio Benito Villamarín,Ricardo de Burgos
+37,Sun,5/15/2022,19:30 (17:30),Celta Vigo,1@0,Elche,"10,773",Estadio de Balaídos,Mario Melero
+37,Sun,5/15/2022,19:30 (17:30),Mallorca,2@1,Rayo Vallecano,"17,930",Iberostar Estadi,José Luis Munuera
+37,Sun,5/15/2022,19:30 (17:30),Cádiz,1@1,Real Madrid,"19,643",Estadio Nuevo Mirandilla,Antonio Matéu Lahoz
+38,Fri,5/20/2022,21:00 (19:00),Real Madrid,0@0,Betis,"52,232",Estadio Santiago Bernabéu,Santiago Jaime
+38,Fri,5/20/2022,21:00 (19:00),Rayo Vallecano,2@4,Levante,"8,446",Estadio del Rayo Vallecano,Mario Melero
+38,Sat,5/21/2022,17:30 (15:30),Valencia,2@0,Celta Vigo,"16,189",Estadio de Mestalla,Adrián Cordero
+38,Sun,5/22/2022,17:30 (15:30),Elche,3@1,Getafe,"17,336",Estadio Manuel Martínez Valero,Guillermo Cuadra
+38,Sun,5/22/2022,20:00 (18:00),Osasuna,0@2,Mallorca,"18,717",Estadio El Sadar,César Soto
+38,Sun,5/22/2022,20:00 (18:00),Granada,0@0,Espanyol,"17,951",Estadio Nuevo Los Cármenes,Alejandro Hernández
+38,Sun,5/22/2022,20:00 (18:00),Alavés,0@1,Cádiz,"11,138",Estadio de Mendizorroza,José Sánchez
+38,Sun,5/22/2022,22:00 (20:00),Barcelona,0@2,Villarreal,"54,850",Camp Nou,José Luis Munuera
+38,Sun,5/22/2022,22:00 (20:00),Sevilla,1@0,Athletic Club,"31,305",Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+38,Sun,5/22/2022,22:00 (20:00),Real Sociedad,1@2,Atlético Madrid,"23,586",Estadio Municipal de Anoeta,Jesús Gil

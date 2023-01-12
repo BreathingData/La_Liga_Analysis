@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee
+1,Sat,8/28/2010,,Hércules,0@1,Athletic Club,,José Rico Pérez,Rubinos Pérez
+1,Sat,8/28/2010,,Málaga,1@3,Valencia,,La Rosaleda,Muñiz Fernández
+1,Sat,8/28/2010,,Levante,1@4,Sevilla,,Ciutat de Valencia,Pérez Lasa
+1,Sun,8/29/2010,,Espanyol,3@1,Getafe,,Cornellà  -El Prat,Ayza Gámez
+1,Sun,8/29/2010,,La Coruña,0@0,Zaragoza,,Nuevo Riazor,Teixeira Vitienes
+1,Sun,8/29/2010,,Osasuna,0@0,Almería,,Reyno de Navarra,Álvarez Izquierdo
+1,Sun,8/29/2010,,Mallorca,0@0,Real Madrid,,Ono Estadi,Fernández Borbalán
+1,Sun,8/29/2010,,Real Sociedad,1@0,Villarreal,,Anoeta,González González
+1,Sun,8/29/2010,,Racing Sant,0@3,Barcelona,,El Sardinero,Delgado Ferreiro
+1,Mon,8/30/2010,,Atlético Madrid,4@0,Sporting Gijón,,Vicente Calderón,Ramírez Domínguez
+2,Sat,9/11/2010,,Athletic Club,1@2,Atlético Madrid,,San Mamés,Undiano Mallenco
+2,Sat,9/11/2010,,Barcelona,0@2,Hércules,,Nou Camp,Velasco Carballo
+2,Sat,9/11/2010,,Valencia,1@0,Racing Sant,,Mestalla,Paradas Romero
+2,Sat,9/11/2010,,Real Madrid,1@0,Osasuna,,Santiago Bernabéu,Teixeira Vitienes
+2,Sun,9/12/2010,,Zaragoza,3@5,Málaga,,La Romareda,Mateu Lahoz
+2,Sun,9/12/2010,,Villarreal,4@0,Espanyol,,El Madrigal,Iturralde González
+2,Sun,9/12/2010,,Sporting Gijón,2@0,Mallorca,,El Molinón,Estrada Fernández
+2,Sun,9/12/2010,,Sevilla,0@0,La Coruña,,Ramón Sánchez Pizjuán,Turienzo Álvarez
+2,Sun,9/12/2010,,Getafe,4@1,Levante,,Coliseum Alfonso Pérez,Clos Gómez
+2,Mon,9/13/2010,,Almería,2@2,Real Sociedad,,Juegos del Mediterráneo,Iglesias Villanueva
+3,Sat,9/18/2010,,Mallorca,2@0,Osasuna,,Ono Estadi,Ayza Gámez
+3,Sat,9/18/2010,,Espanyol,1@0,Almería,,Cornellà  -El Prat,Teixeira Vitienes
+3,Sat,9/18/2010,,Sporting Gijón,2@2,Athletic Club,,El Molinón,Álvarez Izquierdo
+3,Sat,9/18/2010,,Real Sociedad,1@2,Real Madrid,,Anoeta,Mateu Lahoz
+3,Sun,9/19/2010,,Racing Sant,2@0,Zaragoza,,El Sardinero,González González
+3,Sun,9/19/2010,,Málaga,1@2,Sevilla,,La Rosaleda,Delgado Ferreiro
+3,Sun,9/19/2010,,Atlético Madrid,1@2,Barcelona,,Vicente Calderón,Fernández Borbalán
+3,Sun,9/19/2010,,Hércules,1@2,Valencia,,José Rico Pérez,Ramírez Domínguez
+3,Sun,9/19/2010,,Levante,1@2,Villarreal,,Ciutat de Valencia,Rubinos Pérez
+3,Mon,9/20/2010,,La Coruña,2@2,Getafe,,Nuevo Riazor,Muñiz Fernández
+4,Tue,9/21/2010,,Osasuna,3@1,Real Sociedad,,Reyno de Navarra,Velasco Carballo
+4,Tue,9/21/2010,,Athletic Club,3@0,Mallorca,,San Mamés,Teixeira Vitienes
+4,Tue,9/21/2010,,Real Madrid,3@0,Espanyol,,Santiago Bernabéu,Clos Gómez
+4,Wed,9/22/2010,,Almería,0@1,Levante,,Juegos del Mediterráneo,Turienzo Álvarez
+4,Wed,9/22/2010,,Barcelona,1@0,Sporting Gijón,,Nou Camp,Paradas Romero
+4,Wed,9/22/2010,,Zaragoza,0@0,Hércules,,La Romareda,Iglesias Villanueva
+4,Wed,9/22/2010,,Valencia,1@1,Atlético Madrid,,Mestalla,Iturralde González
+4,Thu,9/23/2010,,Villarreal,1@0,La Coruña,,El Madrigal,Álvarez Izquierdo
+4,Thu,9/23/2010,,Sevilla,1@1,Racing Sant,,Ramón Sánchez Pizjuán,Ayza Gámez
+4,Thu,9/23/2010,,Getafe,0@2,Málaga,,Coliseum Alfonso Pérez,Estrada Fernández
+5,Sat,9/25/2010,,Levante,0@0,Real Madrid,,Ciutat de Valencia,Delgado Ferreiro
+5,Sat,9/25/2010,,Athletic Club,1@3,Barcelona,,San Mamés,Mateu Lahoz
+5,Sat,9/25/2010,,Sporting Gijón,0@2,Valencia,,El Molinón,Fernández Borbalán
+5,Sun,9/26/2010,,Espanyol,1@0,Osasuna,,Cornellà  -El Prat,Ramírez Domínguez
+5,Sun,9/26/2010,,Racing Sant,0@1,Getafe,,El Sardinero,Iglesias Villanueva
+5,Sun,9/26/2010,,Atlético Madrid,1@0,Zaragoza,,Vicente Calderón,Muñiz Fernández
+5,Sun,9/26/2010,,Hércules,2@0,Sevilla,,José Rico Pérez,Teixeira Vitienes
+5,Sun,9/26/2010,,Mallorca,2@0,Real Sociedad,,Ono Estadi,Rubinos Pérez
+5,Sun,9/26/2010,,La Coruña,0@2,Almería,,Nuevo Riazor,González González
+5,Mon,9/27/2010,,Málaga,2@3,Villarreal,,La Rosaleda,Teixeira Vitienes
+6,Sat,10/2/2010,,Valencia,2@1,Athletic Club,,Mestalla,Velasco Carballo
+6,Sat,10/2/2010,,Zaragoza,2@2,Sporting Gijón,,La Romareda,Ayza Gámez
+6,Sat,10/2/2010,,Real Sociedad,1@0,Espanyol,,Anoeta,Turienzo Álvarez
+6,Sun,10/3/2010,,Getafe,3@0,Hércules,,Coliseum Alfonso Pérez,Álvarez Izquierdo
+6,Sun,10/3/2010,,Sevilla,3@1,Atlético Madrid,,Ramón Sánchez Pizjuán,Estrada Fernández
+6,Sun,10/3/2010,,Osasuna,1@1,Levante,,Reyno de Navarra,Paradas Romero
+6,Sun,10/3/2010,,Villarreal,2@0,Racing Sant,,El Madrigal,Pérez Lasa
+6,Sun,10/3/2010,,Real Madrid,6@1,La Coruña,,Santiago Bernabéu,Iturralde González
+6,Sun,10/3/2010,,Almería,1@1,Málaga,,Juegos del Mediterráneo,Clos Gómez
+6,Sun,10/3/2010,,Barcelona,1@1,Mallorca,,Nou Camp,Undiano Mallenco
+7,Sat,10/16/2010,,Atlético Madrid,2@0,Getafe,,Vicente Calderón,Delgado Ferreiro
+7,Sat,10/16/2010,,Barcelona,2@1,Valencia,,Nou Camp,Teixeira Vitienes
+7,Sat,10/16/2010,,Málaga,1@4,Real Madrid,,La Rosaleda,Undiano Mallenco
+7,Sun,10/17/2010,,Levante,2@1,Real Sociedad,,Ciutat de Valencia,Teixeira Vitienes
+7,Sun,10/17/2010,,Sporting Gijón,2@0,Sevilla,,El Molinón,González González
+7,Sun,10/17/2010,,Mallorca,0@1,Espanyol,,Ono Estadi,Iglesias Villanueva
+7,Sun,10/17/2010,,Athletic Club,2@1,Zaragoza,,San Mamés,Ramírez Domínguez
+7,Sun,10/17/2010,,La Coruña,0@0,Osasuna,,Nuevo Riazor,Pérez Lasa
+7,Sun,10/17/2010,,Racing Sant,1@0,Almería,,El Sardinero,Rubinos Pérez
+7,Mon,10/18/2010,,Hércules,2@2,Villarreal,,José Rico Pérez,Muñiz Fernández
+8,Sat,10/23/2010,,Zaragoza,0@2,Barcelona,,La Romareda,Pérez Lasa
+8,Sat,10/23/2010,,Real Madrid,6@1,Racing Sant,,Santiago Bernabéu,Muñiz Fernández
+8,Sat,10/23/2010,,Valencia,1@2,Mallorca,,Mestalla,Álvarez Izquierdo
+8,Sun,10/24/2010,,Espanyol,2@1,Levante,,Cornellà  -El Prat,Velasco Carballo
+8,Sun,10/24/2010,,Almería,1@1,Hércules,,Juegos del Mediterráneo,Teixeira Vitienes
+8,Sun,10/24/2010,,Sevilla,4@3,Athletic Club,,Ramón Sánchez Pizjuán,Clos Gómez
+8,Sun,10/24/2010,,Villarreal,2@0,Atlético Madrid,,El Madrigal,Ramírez Domínguez
+8,Sun,10/24/2010,,Osasuna,3@0,Málaga,,Reyno de Navarra,Ayza Gámez
+8,Sun,10/24/2010,,Getafe,3@0,Sporting Gijón,,Coliseum Alfonso Pérez,Mateu Lahoz
+8,Mon,10/25/2010,,Real Sociedad,3@0,La Coruña,,Anoeta,Paradas Romero
+9,Sat,10/30/2010,,Hércules,1@3,Real Madrid,,José Rico Pérez,Clos Gómez
+9,Sat,10/30/2010,,Barcelona,5@0,Sevilla,,Nou Camp,Turienzo Álvarez
+9,Sat,10/30/2010,,Valencia,1@1,Zaragoza,,Mestalla,Delgado Ferreiro
+9,Sun,10/31/2010,,Sporting Gijón,1@1,Villarreal,,El Molinón,Iglesias Villanueva
+9,Sun,10/31/2010,,Málaga,1@2,Real Sociedad,,La Rosaleda,González González
+9,Sun,10/31/2010,,Athletic Club,3@0,Getafe,,San Mamés,Estrada Fernández
+9,Sun,10/31/2010,,La Coruña,3@0,Espanyol,,Nuevo Riazor,Undiano Mallenco
+9,Sun,10/31/2010,,Racing Sant,4@1,Osasuna,,El Sardinero,Velasco Carballo
+9,Sun,10/31/2010,,Atlético Madrid,1@1,Almería,,Vicente Calderón,Teixeira Vitienes
+9,Mon,11/1/2010,,Mallorca,2@1,Levante,,Ono Estadi,Muñiz Fernández
+10,Sat,11/6/2010,,Espanyol,1@0,Málaga,,Cornellà  -El Prat,Pérez Lasa
+10,Sat,11/6/2010,,Real Sociedad,1@0,Racing Sant,,Anoeta,Álvarez Izquierdo
+10,Sun,11/7/2010,,Real Madrid,2@0,Atlético Madrid,,Santiago Bernabéu,Mateu Lahoz
+10,Sun,11/7/2010,,Getafe,1@3,Barcelona,,Coliseum Alfonso Pérez,Ayza Gámez
+10,Sun,11/7/2010,,Almería,1@1,Sporting Gijón,,Juegos del Mediterráneo,Estrada Fernández
+10,Sun,11/7/2010,,Levante,1@2,La Coruña,,Ciutat de Valencia,Teixeira Vitienes
+10,Sun,11/7/2010,,Villarreal,4@1,Athletic Club,,El Madrigal,Fernández Borbalán
+10,Sun,11/7/2010,,Zaragoza,3@2,Mallorca,,La Romareda,Paradas Romero
+10,Sun,11/7/2010,,Osasuna,3@0,Hércules,,Reyno de Navarra,Rubinos Pérez
+10,Mon,11/8/2010,,Sevilla,2@0,Valencia,,Ramón Sánchez Pizjuán,Iturralde González
+11,Sat,11/13/2010,,Atlético Madrid,3@0,Osasuna,,Vicente Calderón,González González
+11,Sat,11/13/2010,,Barcelona,3@1,Villarreal,,Nou Camp,Delgado Ferreiro
+11,Sat,11/13/2010,,Athletic Club,1@0,Almería,,San Mamés,Velasco Carballo
+11,Sun,11/14/2010,,Mallorca,0@0,La Coruña,,Ono Estadi,Teixeira Vitienes
+11,Sun,11/14/2010,,Hércules,2@1,Real Sociedad,,José Rico Pérez,Undiano Mallenco
+11,Sun,11/14/2010,,Málaga,1@0,Levante,,La Rosaleda,Iglesias Villanueva
+11,Sun,11/14/2010,,Valencia,2@0,Getafe,,Mestalla,Clos Gómez
+11,Sun,11/14/2010,,Racing Sant,0@0,Espanyol,,El Sardinero,Ramírez Domínguez
+11,Sun,11/14/2010,,Sporting Gijón,0@1,Real Madrid,,El Molinón,Turienzo Álvarez
+11,Sun,11/14/2010,,Zaragoza,1@2,Sevilla,,La Romareda,Muñiz Fernández
+12,Sat,11/20/2010,,Real Madrid,5@1,Athletic Club,,Santiago Bernabéu,Undiano Mallenco
+12,Sat,11/20/2010,,Villarreal,1@1,Valencia,,El Madrigal,Estrada Fernández
+12,Sat,11/20/2010,,Almería,0@8,Barcelona,,Juegos del Mediterráneo,Muñiz Fernández
+12,Sun,11/21/2010,,Real Sociedad,2@4,Atlético Madrid,,Anoeta,Ayza Gámez
+12,Sun,11/21/2010,,Osasuna,1@0,Sporting Gijón,,Reyno de Navarra,Teixeira Vitienes
+12,Sun,11/21/2010,,Sevilla,1@2,Mallorca,,Ramón Sánchez Pizjuán,Mateu Lahoz
+12,Sun,11/21/2010,,Levante,3@1,Racing Sant,,Ciutat de Valencia,Fernández Borbalán
+12,Sun,11/21/2010,,La Coruña,3@0,Málaga,,Nuevo Riazor,Álvarez Izquierdo
+12,Sun,11/21/2010,,Espanyol,3@0,Hércules,,Cornellà  -El Prat,Paradas Romero
+12,Mon,11/22/2010,,Getafe,1@1,Zaragoza,,Coliseum Alfonso Pérez,Teixeira Vitienes
+13,Sat,11/27/2010,,Atlético Madrid,2@3,Espanyol,,Vicente Calderón,Teixeira Vitienes
+13,Sat,11/27/2010,,Zaragoza,0@3,Villarreal,,La Romareda,Velasco Carballo
+13,Sat,11/27/2010,,Sevilla,1@3,Getafe,,Ramón Sánchez Pizjuán,González González
+13,Sun,11/28/2010,,Mallorca,2@0,Málaga,,Ono Estadi,Delgado Ferreiro
+13,Sun,11/28/2010,,Athletic Club,1@0,Osasuna,,San Mamés,Iglesias Villanueva
+13,Sun,11/28/2010,,Valencia,2@1,Almería,,Mestalla,Turienzo Álvarez
+13,Sun,11/28/2010,,Hércules,3@1,Levante,,José Rico Pérez,Estrada Fernández
+13,Sun,11/28/2010,,Racing Sant,1@0,La Coruña,,El Sardinero,Clos Gómez
+13,Sun,11/28/2010,,Sporting Gijón,1@3,Real Sociedad,,El Molinón,Paradas Romero
+13,Mon,11/29/2010,,Barcelona,5@0,Real Madrid,,Nou Camp,Iturralde González
+14,Sat,12/4/2010,,Osasuna,0@3,Barcelona,,Reyno de Navarra,Teixeira Vitienes
+14,Sat,12/4/2010,,Real Madrid,2@0,Valencia,,Santiago Bernabéu,Pérez Lasa
+14,Sat,12/4/2010,,Levante,2@0,Atlético Madrid,,Ciutat de Valencia,Álvarez Izquierdo
+14,Sun,12/5/2010,,Real Sociedad,2@0,Athletic Club,,Anoeta,Ramírez Domínguez
+14,Sun,12/5/2010,,Almería,1@1,Zaragoza,,Juegos del Mediterráneo,Ayza Gámez
+14,Sun,12/5/2010,,Espanyol,1@0,Sporting Gijón,,Cornellà  -El Prat,Iglesias Villanueva
+14,Sun,12/5/2010,,Málaga,4@1,Racing Sant,,La Rosaleda,Mateu Lahoz
+14,Sun,12/5/2010,,Getafe,3@0,Mallorca,,Coliseum Alfonso Pérez,Muñiz Fernández
+14,Sun,12/5/2010,,Villarreal,1@0,Sevilla,,El Madrigal,Undiano Mallenco
+14,Mon,12/6/2010,,La Coruña,1@0,Hércules,,Nuevo Riazor,Fernández Borbalán
+15,Sat,12/11/2010,,Atlético Madrid,2@0,La Coruña,,Vicente Calderón,Estrada Fernández
+15,Sat,12/11/2010,,Sevilla,1@3,Almería,,Ramón Sánchez Pizjuán,Teixeira Vitienes
+15,Sat,12/11/2010,,Getafe,1@0,Villarreal,,Coliseum Alfonso Pérez,Paradas Romero
+15,Sun,12/12/2010,,Hércules,4@1,Málaga,,José Rico Pérez,Turienzo Álvarez
+15,Sun,12/12/2010,,Athletic Club,2@1,Espanyol,,San Mamés,Ayza Gámez
+15,Sun,12/12/2010,,Barcelona,5@0,Real Sociedad,,Nou Camp,Fernández Borbalán
+15,Sun,12/12/2010,,Zaragoza,1@3,Real Madrid,,La Romareda,Ramírez Domínguez
+15,Sun,12/12/2010,,Mallorca,0@1,Racing Sant,,Ono Estadi,Iturralde González
+15,Sun,12/12/2010,,Sporting Gijón,1@1,Levante,,El Molinón,Delgado Ferreiro
+15,Mon,12/13/2010,,Valencia,3@3,Osasuna,,Mestalla,Muñiz Fernández
+16,Sat,12/18/2010,,La Coruña,1@1,Sporting Gijón,,Nuevo Riazor,Velasco Carballo
+16,Sat,12/18/2010,,Real Sociedad,1@2,Valencia,,Anoeta,Iglesias Villanueva
+16,Sat,12/18/2010,,Villarreal,3@1,Mallorca,,El Madrigal,Turienzo Álvarez
+16,Sat,12/18/2010,,Espanyol,1@5,Barcelona,,Cornellà  -El Prat,Undiano Mallenco
+16,Sat,12/18/2010,,Levante,1@2,Athletic Club,,Ciutat de Valencia,González González
+16,Sun,12/19/2010,,Málaga,0@3,Atlético Madrid,,La Rosaleda,Teixeira Vitienes
+16,Sun,12/19/2010,,Almería,2@3,Getafe,,Juegos del Mediterráneo,Álvarez Izquierdo
+16,Sun,12/19/2010,,Osasuna,0@0,Zaragoza,,Reyno de Navarra,Mateu Lahoz
+16,Sun,12/19/2010,,Real Madrid,1@0,Sevilla,,Santiago Bernabéu,Clos Gómez
+16,Mon,12/20/2010,,Racing Sant,0@0,Hércules,,El Sardinero,Pérez Lasa
+17,Sun,1/2/2011,,Sevilla,1@0,Osasuna,,Ramón Sánchez Pizjuán,Álvarez Izquierdo
+17,Sun,1/2/2011,,Barcelona,2@1,Levante,,Nou Camp,Pérez Lasa
+17,Sun,1/2/2011,,Sporting Gijón,1@2,Málaga,,El Molinón,Teixeira Vitienes
+17,Sun,1/2/2011,,Valencia,2@1,Espanyol,,Mestalla,González González
+17,Sun,1/2/2011,,Athletic Club,1@2,La Coruña,,San Mamés,Rubinos Pérez
+17,Mon,1/3/2011,,Zaragoza,2@1,Real Sociedad,,La Romareda,Teixeira Vitienes
+17,Mon,1/3/2011,,Villarreal,2@0,Almería,,El Madrigal,Iglesias Villanueva
+17,Mon,1/3/2011,,Mallorca,3@0,Hércules,,Ono Estadi,Ramírez Domínguez
+17,Mon,1/3/2011,,Getafe,2@3,Real Madrid,,Coliseum Alfonso Pérez,Undiano Mallenco
+17,Mon,1/3/2011,,Atlético Madrid,0@0,Racing Sant,,Vicente Calderón,Turienzo Álvarez
+18,Sat,1/8/2011,,Real Sociedad,2@3,Sevilla,,Anoeta,Estrada Fernández
+18,Sat,1/8/2011,,Málaga,1@1,Athletic Club,,La Rosaleda,Velasco Carballo
+18,Sat,1/8/2011,,La Coruña,0@4,Barcelona,,Nuevo Riazor,Delgado Ferreiro
+18,Sun,1/9/2011,,Real Madrid,4@2,Villarreal,,Santiago Bernabéu,Fernández Borbalán
+18,Sun,1/9/2011,,Espanyol,4@0,Zaragoza,,Cornellà  -El Prat,Muñiz Fernández
+18,Sun,1/9/2011,,Mallorca,4@1,Almería,,Ono Estadi,Mateu Lahoz
+18,Sun,1/9/2011,,Racing Sant,1@1,Sporting Gijón,,El Sardinero,Ayza Gámez
+18,Sun,1/9/2011,,Levante,0@1,Valencia,,Ciutat de Valencia,Clos Gómez
+18,Sun,1/9/2011,,Osasuna,0@0,Getafe,,Reyno de Navarra,Iturralde González
+18,Mon,1/10/2011,,Hércules,4@1,Atlético Madrid,,José Rico Pérez,Paradas Romero
+19,Sat,1/15/2011,,Getafe,0@4,Real Sociedad,,Coliseum Alfonso Pérez,Turienzo Álvarez
+19,Sat,1/15/2011,,Villarreal,4@2,Osasuna,,El Madrigal,Rubinos Pérez
+19,Sat,1/15/2011,,Athletic Club,2@1,Racing Sant,,San Mamés,Ramírez Domínguez
+19,Sat,1/15/2011,,Zaragoza,1@0,Levante,,La Romareda,Álvarez Izquierdo
+19,Sat,1/15/2011,,Sevilla,1@2,Espanyol,,Ramón Sánchez Pizjuán,Velasco Carballo
+19,Sat,1/15/2011,,Sporting Gijón,2@0,Hércules,,El Molinón,Clos Gómez
+19,Sun,1/16/2011,,Valencia,2@0,La Coruña,,Mestalla,Undiano Mallenco
+19,Sun,1/16/2011,,Barcelona,4@1,Málaga,,Nou Camp,González González
+19,Sun,1/16/2011,,Almería,1@1,Real Madrid,,Juegos del Mediterráneo,Pérez Lasa
+19,Mon,1/17/2011,,Atlético Madrid,3@0,Mallorca,,Vicente Calderón,Ayza Gámez
+20,Sat,1/22/2011,,Sevilla,4@1,Levante,,Ramón Sánchez Pizjuán,Teixeira Vitienes
+20,Sat,1/22/2011,,Valencia,4@3,Málaga,,Mestalla,Rubinos Pérez
+20,Sat,1/22/2011,,Barcelona,3@0,Racing Sant,,Nou Camp,Iglesias Villanueva
+20,Sun,1/23/2011,,Zaragoza,1@0,La Coruña,,La Romareda,Fernández Borbalán
+20,Sun,1/23/2011,,Almería,3@2,Osasuna,,Juegos del Mediterráneo,Teixeira Vitienes
+20,Sun,1/23/2011,,Villarreal,2@1,Real Sociedad,,El Madrigal,Muñiz Fernández
+20,Sun,1/23/2011,,Getafe,1@3,Espanyol,,Coliseum Alfonso Pérez,Mateu Lahoz
+20,Sun,1/23/2011,,Sporting Gijón,1@0,Atlético Madrid,,El Molinón,Estrada Fernández
+20,Sun,1/23/2011,,Real Madrid,1@0,Mallorca,,Santiago Bernabéu,Iturralde González
+20,Mon,1/24/2011,,Athletic Club,3@0,Hércules,,San Mamés,Undiano Mallenco
+21,Sat,1/29/2011,,Mallorca,0@4,Sporting Gijón,,Ono Estadi,Paradas Romero
+21,Sat,1/29/2011,,La Coruña,3@3,Sevilla,,Nuevo Riazor,Ayza Gámez
+21,Sat,1/29/2011,,Levante,2@0,Getafe,,Ciutat de Valencia,Ramírez Domínguez
+21,Sat,1/29/2011,,Málaga,1@2,Zaragoza,,La Rosaleda,Pérez Lasa
+21,Sat,1/29/2011,,Real Sociedad,2@0,Almería,,Anoeta,Clos Gómez
+21,Sat,1/29/2011,,Hércules,0@3,Barcelona,,José Rico Pérez,Fernández Borbalán
+21,Sun,1/30/2011,,Osasuna,1@0,Real Madrid,,Reyno de Navarra,Muñiz Fernández
+21,Sun,1/30/2011,,Espanyol,0@1,Villarreal,,Cornellà  -El Prat,Turienzo Álvarez
+21,Sun,1/30/2011,,Atlético Madrid,0@2,Athletic Club,,Vicente Calderón,Teixeira Vitienes
+21,Mon,1/31/2011,,Racing Sant,1@1,Valencia,,El Sardinero,Álvarez Izquierdo
+22,Sat,2/5/2011,,Athletic Club,3@0,Sporting Gijón,,San Mamés,Teixeira Vitienes
+22,Sat,2/5/2011,,Zaragoza,1@1,Racing Sant,,La Romareda,Rubinos Pérez
+22,Sat,2/5/2011,,Osasuna,1@1,Mallorca,,Reyno de Navarra,Iglesias Villanueva
+22,Sat,2/5/2011,,Barcelona,3@0,Atlético Madrid,,Nou Camp,Turienzo Álvarez
+22,Sat,2/5/2011,,Almería,3@2,Espanyol,,Juegos del Mediterráneo,Undiano Mallenco
+22,Sat,2/5/2011,,Villarreal,0@1,Levante,,El Madrigal,González González
+22,Sat,2/5/2011,,Getafe,4@1,La Coruña,,Coliseum Alfonso Pérez,Álvarez Izquierdo
+22,Sun,2/6/2011,,Valencia,2@0,Hércules,,Mestalla,Teixeira Vitienes
+22,Sun,2/6/2011,,Sevilla,0@0,Málaga,,Ramón Sánchez Pizjuán,Muñiz Fernández
+22,Sun,2/6/2011,,Real Madrid,4@1,Real Sociedad,,Santiago Bernabéu,Ramírez Domínguez
+23,Sat,2/12/2011,,Sporting Gijón,1@1,Barcelona,,El Molinón,Pérez Lasa
+23,Sat,2/12/2011,,Racing Sant,3@2,Sevilla,,El Sardinero,Iturralde González
+23,Sat,2/12/2011,,Atlético Madrid,1@2,Valencia,,Vicente Calderón,Fernández Borbalán
+23,Sun,2/13/2011,,Espanyol,0@1,Real Madrid,,Cornellà  -El Prat,Mateu Lahoz
+23,Sun,2/13/2011,,Málaga,2@2,Getafe,,La Rosaleda,Ayza Gámez
+23,Sun,2/13/2011,,Levante,1@0,Almería,,Ciutat de Valencia,Delgado Ferreiro
+23,Sun,2/13/2011,,La Coruña,1@0,Villarreal,,Nuevo Riazor,Ramírez Domínguez
+23,Sun,2/13/2011,,Hércules,2@1,Zaragoza,,José Rico Pérez,Velasco Carballo
+23,Sun,2/13/2011,,Real Sociedad,1@0,Osasuna,,Anoeta,Turienzo Álvarez
+23,Mon,2/14/2011,,Mallorca,1@0,Athletic Club,,Ono Estadi,Estrada Fernández
+24,Sat,2/19/2011,,Zaragoza,0@1,Atlético Madrid,,La Romareda,Delgado Ferreiro
+24,Sat,2/19/2011,,Valencia,0@0,Sporting Gijón,,Mestalla,Clos Gómez
+24,Sat,2/19/2011,,Real Madrid,2@0,Levante,,Santiago Bernabéu,Teixeira Vitienes
+24,Sun,2/20/2011,,Sevilla,1@0,Hércules,,Ramón Sánchez Pizjuán,Turienzo Álvarez
+24,Sun,2/20/2011,,Osasuna,4@0,Espanyol,,Reyno de Navarra,Pérez Lasa
+24,Sun,2/20/2011,,Barcelona,2@1,Athletic Club,,Nou Camp,Ramírez Domínguez
+24,Sun,2/20/2011,,Almería,1@1,La Coruña,,Juegos del Mediterráneo,González González
+24,Sun,2/20/2011,,Villarreal,1@1,Málaga,,El Madrigal,Teixeira Vitienes
+24,Sun,2/20/2011,,Getafe,0@1,Racing Sant,,Coliseum Alfonso Pérez,Estrada Fernández
+24,Mon,2/21/2011,,Real Sociedad,1@0,Mallorca,,Anoeta,Rubinos Pérez
+25,Sat,2/26/2011,,La Coruña,0@0,Real Madrid,,Nuevo Riazor,Fernández Borbalán
+25,Sat,2/26/2011,,Mallorca,0@3,Barcelona,,Ono Estadi,Velasco Carballo
+25,Sat,2/26/2011,,Sporting Gijón,0@0,Zaragoza,,El Molinón,Iturralde González
+25,Sat,2/26/2011,,Espanyol,4@1,Real Sociedad,,Cornellà  -El Prat,Ayza Gámez
+25,Sat,2/26/2011,,Atlético Madrid,2@2,Sevilla,,Vicente Calderón,Mateu Lahoz
+25,Sun,2/27/2011,,Racing Sant,2@2,Villarreal,,El Sardinero,Iglesias Villanueva
+25,Sun,2/27/2011,,Athletic Club,1@2,Valencia,,San Mamés,Muñiz Fernández
+25,Sun,2/27/2011,,Hércules,0@0,Getafe,,José Rico Pérez,Undiano Mallenco
+25,Sun,2/27/2011,,Levante,2@1,Osasuna,,Ciutat de Valencia,Paradas Romero
+25,Mon,2/28/2011,,Málaga,3@1,Almería,,La Rosaleda,Álvarez Izquierdo
+26,Tue,3/1/2011,,Espanyol,1@2,Mallorca,,Cornellà  -El Prat,González González
+26,Tue,3/1/2011,,Sevilla,3@0,Sporting Gijón,,Ramón Sánchez Pizjuán,Rubinos Pérez
+26,Wed,3/2/2011,,Real Sociedad,1@1,Levante,,Anoeta,Fernández Borbalán
+26,Wed,3/2/2011,,Osasuna,0@0,La Coruña,,Reyno de Navarra,Delgado Ferreiro
+26,Wed,3/2/2011,,Getafe,1@1,Atlético Madrid,,Coliseum Alfonso Pérez,Clos Gómez
+26,Wed,3/2/2011,,Zaragoza,2@1,Athletic Club,,La Romareda,Undiano Mallenco
+26,Wed,3/2/2011,,Valencia,0@1,Barcelona,,Mestalla,Iturralde González
+26,Wed,3/2/2011,,Villarreal,1@0,Hércules,,El Madrigal,Paradas Romero
+26,Thu,3/3/2011,,Almería,1@1,Racing Sant,,Juegos del Mediterráneo,Velasco Carballo
+26,Thu,3/3/2011,,Real Madrid,7@0,Málaga,,Santiago Bernabéu,Pérez Lasa
+27,Sat,3/5/2011,,Atlético Madrid,3@1,Villarreal,,Vicente Calderón,Iturralde González
+27,Sat,3/5/2011,,Barcelona,1@0,Zaragoza,,Nou Camp,Teixeira Vitienes
+27,Sat,3/5/2011,,Mallorca,1@2,Valencia,,Ono Estadi,Undiano Mallenco
+27,Sun,3/6/2011,,Málaga,0@1,Osasuna,,La Rosaleda,Muñiz Fernández
+27,Sun,3/6/2011,,Racing Sant,1@3,Real Madrid,,El Sardinero,Ramírez Domínguez
+27,Sun,3/6/2011,,Levante,1@0,Espanyol,,Ciutat de Valencia,Turienzo Álvarez
+27,Sun,3/6/2011,,Sporting Gijón,2@0,Getafe,,El Molinón,Teixeira Vitienes
+27,Sun,3/6/2011,,Hércules,1@2,Almería,,José Rico Pérez,Rubinos Pérez
+27,Sun,3/6/2011,,Athletic Club,2@0,Sevilla,,San Mamés,Álvarez Izquierdo
+27,Mon,3/7/2011,,La Coruña,2@1,Real Sociedad,,Nuevo Riazor,Mateu Lahoz
+28,Sat,3/12/2011,,Almería,2@2,Atlético Madrid,,Juegos del Mediterráneo,Iglesias Villanueva
+28,Sat,3/12/2011,,Zaragoza,4@0,Valencia,,La Romareda,González González
+28,Sat,3/12/2011,,Real Madrid,2@0,Hércules,,Santiago Bernabéu,Delgado Ferreiro
+28,Sun,3/13/2011,,Real Sociedad,0@2,Málaga,,Anoeta,Undiano Mallenco
+28,Sun,3/13/2011,,Levante,1@1,Mallorca,,Ciutat de Valencia,Estrada Fernández
+28,Sun,3/13/2011,,Osasuna,3@1,Racing Sant,,Reyno de Navarra,Clos Gómez
+28,Sun,3/13/2011,,Villarreal,1@1,Sporting Gijón,,El Madrigal,Fernández Borbalán
+28,Sun,3/13/2011,,Sevilla,1@1,Barcelona,,Ramón Sánchez Pizjuán,Pérez Lasa
+28,Sun,3/13/2011,,Espanyol,2@0,La Coruña,,Cornellà  -El Prat,Paradas Romero
+28,Mon,3/14/2011,,Getafe,2@2,Athletic Club,,Coliseum Alfonso Pérez,Ayza Gámez
+29,Sat,3/19/2011,,Atlético Madrid,1@2,Real Madrid,,Vicente Calderón,Teixeira Vitienes
+29,Sat,3/19/2011,,Barcelona,2@1,Getafe,,Nou Camp,Muñiz Fernández
+29,Sat,3/19/2011,,Mallorca,1@0,Zaragoza,,Ono Estadi,Álvarez Izquierdo
+29,Sun,3/20/2011,,Valencia,0@1,Sevilla,,Mestalla,Velasco Carballo
+29,Sun,3/20/2011,,Athletic Club,0@1,Villarreal,,San Mamés,Estrada Fernández
+29,Sun,3/20/2011,,Racing Sant,2@1,Real Sociedad,,El Sardinero,Paradas Romero
+29,Sun,3/20/2011,,Hércules,0@4,Osasuna,,José Rico Pérez,Iturralde González
+29,Sun,3/20/2011,,Sporting Gijón,1@0,Almería,,El Molinón,Turienzo Álvarez
+29,Sun,3/20/2011,,Málaga,2@0,Espanyol,,La Rosaleda,Delgado Ferreiro
+29,Sun,3/20/2011,,La Coruña,0@1,Levante,,Nuevo Riazor,Clos Gómez
+30,Sat,4/2/2011,,Villarreal,0@1,Barcelona,,El Madrigal,Ramírez Domínguez
+30,Sat,4/2/2011,,Getafe,2@4,Valencia,,Coliseum Alfonso Pérez,Delgado Ferreiro
+30,Sat,4/2/2011,,Real Madrid,0@1,Sporting Gijón,,Santiago Bernabéu,González González
+30,Sun,4/3/2011,,Osasuna,2@3,Atlético Madrid,,Reyno de Navarra,Fernández Borbalán
+30,Sun,4/3/2011,,Levante,3@1,Málaga,,Ciutat de Valencia,Iturralde González
+30,Sun,4/3/2011,,Espanyol,1@2,Racing Sant,,Cornellà  -El Prat,Undiano Mallenco
+30,Sun,4/3/2011,,La Coruña,2@1,Mallorca,,Nuevo Riazor,Teixeira Vitienes
+30,Sun,4/3/2011,,Sevilla,3@1,Zaragoza,,Ramón Sánchez Pizjuán,Iglesias Villanueva
+30,Sun,4/3/2011,,Real Sociedad,1@3,Hércules,,Anoeta,Velasco Carballo
+30,Mon,4/4/2011,,Almería,1@3,Athletic Club,,Juegos del Mediterráneo,Mateu Lahoz
+31,Sat,4/9/2011,,Barcelona,3@1,Almería,,Nou Camp,Ayza Gámez
+31,Sat,4/9/2011,,Mallorca,2@2,Sevilla,,Ono Estadi,Turienzo Álvarez
+31,Sat,4/9/2011,,Athletic Club,0@3,Real Madrid,,San Mamés,Clos Gómez
+31,Sun,4/10/2011,,Atlético Madrid,3@0,Real Sociedad,,Vicente Calderón,Álvarez Izquierdo
+31,Sun,4/10/2011,,Hércules,0@0,Espanyol,,José Rico Pérez,Iglesias Villanueva
+31,Sun,4/10/2011,,Málaga,0@0,La Coruña,,La Rosaleda,Pérez Lasa
+31,Sun,4/10/2011,,Racing Sant,1@1,Levante,,El Sardinero,Rubinos Pérez
+31,Sun,4/10/2011,,Sporting Gijón,1@0,Osasuna,,El Molinón,Teixeira Vitienes
+31,Sun,4/10/2011,,Valencia,5@0,Villarreal,,Mestalla,Muñiz Fernández
+31,Mon,4/11/2011,,Zaragoza,2@1,Getafe,,La Romareda,Estrada Fernández
+32,Sat,4/16/2011,,Almería,0@3,Valencia,,Juegos del Mediterráneo,Teixeira Vitienes
+32,Sat,4/16/2011,,Getafe,1@0,Sevilla,,Coliseum Alfonso Pérez,Teixeira Vitienes
+32,Sat,4/16/2011,,Málaga,3@0,Mallorca,,La Rosaleda,Clos Gómez
+32,Sat,4/16/2011,,Real Madrid,1@1,Barcelona,,Santiago Bernabéu,Muñiz Fernández
+32,Sun,4/17/2011,,Levante,2@1,Hércules,,Ciutat de Valencia,González González
+32,Sun,4/17/2011,,La Coruña,2@0,Racing Sant,,Nuevo Riazor,Álvarez Izquierdo
+32,Sun,4/17/2011,,Real Sociedad,2@1,Sporting Gijón,,Anoeta,Iglesias Villanueva
+32,Sun,4/17/2011,,Espanyol,2@2,Atlético Madrid,,Cornellà  -El Prat,Mateu Lahoz
+32,Sun,4/17/2011,,Osasuna,1@2,Athletic Club,,Reyno de Navarra,Paradas Romero
+32,Mon,4/18/2011,,Villarreal,1@0,Zaragoza,,El Madrigal,Turienzo Álvarez
+33,Sat,4/23/2011,,Valencia,3@6,Real Madrid,,Mestalla,Pérez Lasa
+33,Sat,4/23/2011,,Athletic Club,2@1,Real Sociedad,,San Mamés,Fernández Borbalán
+33,Sat,4/23/2011,,Barcelona,2@0,Osasuna,,Nou Camp,Delgado Ferreiro
+33,Sun,4/24/2011,,Hércules,1@0,La Coruña,,José Rico Pérez,Ramírez Domínguez
+33,Sun,4/24/2011,,Atlético Madrid,4@1,Levante,,Vicente Calderón,Estrada Fernández
+33,Sun,4/24/2011,,Sevilla,3@2,Villarreal,,Ramón Sánchez Pizjuán,Undiano Mallenco
+33,Sun,4/24/2011,,Racing Sant,1@2,Málaga,,El Sardinero,Mateu Lahoz
+33,Sun,4/24/2011,,Mallorca,2@0,Getafe,,Ono Estadi,Ayza Gámez
+33,Sun,4/24/2011,,Sporting Gijón,1@0,Espanyol,,El Molinón,Rubinos Pérez
+33,Mon,4/25/2011,,Zaragoza,1@0,Almería,,La Romareda,Muñiz Fernández
+34,Sat,4/30/2011,,Real Sociedad,2@1,Barcelona,,Anoeta,Teixeira Vitienes
+34,Sat,4/30/2011,,Real Madrid,2@3,Zaragoza,,Santiago Bernabéu,Ayza Gámez
+34,Sat,4/30/2011,,La Coruña,0@1,Atlético Madrid,,Nuevo Riazor,Turienzo Álvarez
+34,Sun,5/1/2011,,Almería,0@1,Sevilla,,Juegos del Mediterráneo,Rubinos Pérez
+34,Sun,5/1/2011,,Villarreal,2@1,Getafe,,El Madrigal,Clos Gómez
+34,Sun,5/1/2011,,Osasuna,1@0,Valencia,,Reyno de Navarra,Velasco Carballo
+34,Sun,5/1/2011,,Levante,0@0,Sporting Gijón,,Ciutat de Valencia,Álvarez Izquierdo
+34,Sun,5/1/2011,,Racing Sant,2@0,Mallorca,,El Sardinero,Delgado Ferreiro
+34,Sun,5/1/2011,,Málaga,3@1,Hércules,,La Rosaleda,Undiano Mallenco
+34,Mon,5/2/2011,,Espanyol,2@1,Athletic Club,,Cornellà  -El Prat,Teixeira Vitienes
+35,Sat,5/7/2011,,Sporting Gijón,2@2,La Coruña,,El Molinón,Estrada Fernández
+35,Sat,5/7/2011,,Sevilla,2@6,Real Madrid,,Ramón Sánchez Pizjuán,Mateu Lahoz
+35,Sat,5/7/2011,,Valencia,3@0,Real Sociedad,,Mestalla,González González
+35,Sat,5/7/2011,,Atlético Madrid,0@3,Málaga,,Vicente Calderón,Iglesias Villanueva
+35,Sat,5/7/2011,,Hércules,2@3,Racing Sant,,José Rico Pérez,Pérez Lasa
+35,Sat,5/7/2011,,Athletic Club,3@2,Levante,,San Mamés,Ramírez Domínguez
+35,Sat,5/7/2011,,Getafe,2@0,Almería,,Coliseum Alfonso Pérez,Muñiz Fernández
+35,Sun,5/8/2011,,Mallorca,0@0,Villarreal,,Ono Estadi,Paradas Romero
+35,Sun,5/8/2011,,Zaragoza,1@3,Osasuna,,La Romareda,Iturralde González
+35,Sun,5/8/2011,,Barcelona,2@0,Espanyol,,Nou Camp,Fernández Borbalán
+36,Tue,5/10/2011,,Racing Sant,2@1,Atlético Madrid,,El Sardinero,González González
+36,Tue,5/10/2011,,Málaga,2@0,Sporting Gijón,,La Rosaleda,Iturralde González
+36,Tue,5/10/2011,,La Coruña,2@1,Athletic Club,,Nuevo Riazor,Mateu Lahoz
+36,Tue,5/10/2011,,Real Madrid,4@0,Getafe,,Santiago Bernabéu,Ramírez Domínguez
+36,Wed,5/11/2011,,Levante,1@1,Barcelona,,Ciutat de Valencia,Paradas Romero
+36,Wed,5/11/2011,,Espanyol,2@2,Valencia,,Cornellà  -El Prat,Clos Gómez
+36,Wed,5/11/2011,,Real Sociedad,2@1,Zaragoza,,Anoeta,Álvarez Izquierdo
+36,Wed,5/11/2011,,Almería,0@0,Villarreal,,Juegos del Mediterráneo,Estrada Fernández
+36,Wed,5/11/2011,,Osasuna,3@2,Sevilla,,Reyno de Navarra,Muñiz Fernández
+36,Wed,5/11/2011,,Hércules,2@2,Mallorca,,José Rico Pérez,Turienzo Álvarez
+37,Sun,5/15/2011,,Sevilla,3@1,Real Sociedad,,Ramón Sánchez Pizjuán,Turienzo Álvarez
+37,Sun,5/15/2011,,Villarreal,1@3,Real Madrid,,El Madrigal,Undiano Mallenco
+37,Sun,5/15/2011,,Atlético Madrid,2@1,Hércules,,Vicente Calderón,Iturralde González
+37,Sun,5/15/2011,,Athletic Club,1@1,Málaga,,San Mamés,Muñiz Fernández
+37,Sun,5/15/2011,,Zaragoza,1@0,Espanyol,,La Romareda,González González
+37,Sun,5/15/2011,,Sporting Gijón,2@1,Racing Sant,,El Molinón,Ayza Gámez
+37,Sun,5/15/2011,,Barcelona,0@0,La Coruña,,Nou Camp,Delgado Ferreiro
+37,Sun,5/15/2011,,Getafe,2@0,Osasuna,,Coliseum Alfonso Pérez,Mateu Lahoz
+37,Sun,5/15/2011,,Valencia,0@0,Levante,,Mestalla,Teixeira Vitienes
+37,Sun,5/15/2011,,Almería,3@1,Mallorca,,Juegos del Mediterráneo,Pérez Lasa
+38,Sat,5/21/2011,,Real Sociedad,1@1,Getafe,,Anoeta,Teixeira Vitienes
+38,Sat,5/21/2011,,Espanyol,2@3,Sevilla,,Cornellà  -El Prat,Undiano Mallenco
+38,Sat,5/21/2011,,Málaga,1@3,Barcelona,,La Rosaleda,Clos Gómez
+38,Sat,5/21/2011,,Real Madrid,8@1,Almería,,Santiago Bernabéu,Iglesias Villanueva
+38,Sat,5/21/2011,,La Coruña,0@2,Valencia,,Nuevo Riazor,Muñiz Fernández
+38,Sat,5/21/2011,,Hércules,0@0,Sporting Gijón,,José Rico Pérez,Ramírez Domínguez
+38,Sat,5/21/2011,,Osasuna,1@0,Villarreal,,Reyno de Navarra,Turienzo Álvarez
+38,Sat,5/21/2011,,Levante,1@2,Zaragoza,,Ciutat de Valencia,Fernández Borbalán
+38,Sat,5/21/2011,,Mallorca,3@4,Atlético Madrid,,Ono Estadi,Mateu Lahoz
+38,Sat,5/21/2011,,Racing Sant,1@2,Athletic Club,,El Sardinero,Álvarez Izquierdo

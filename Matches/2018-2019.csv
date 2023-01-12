@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee
+1,Fri,8/17/2018,20:15 (18:15),Girona,0@0,Valladolid,"10,368",Estadi Municipal de Montilivi,Guillermo Cuadra
+1,Fri,8/17/2018,22:15 (20:15),Betis,0@3,Levante,"46,225",Estadio Benito Villamarín,Ignacio Iglesias
+1,Sat,8/18/2018,18:15 (16:15),Celta Vigo,1@1,Espanyol,"16,215",Estadio de Balaídos,Santiago Jaime
+1,Sat,8/18/2018,20:15 (18:15),Villarreal,1@2,Real Sociedad,"16,250",Estadio de la Cerámica,Mario Melero
+1,Sat,8/18/2018,22:15 (20:15),Barcelona,3@0,Alavés,"52,356",Camp Nou,José Sánchez
+1,Sun,8/19/2018,18:15 (16:15),Eibar,1@2,Huesca,"4,234",Estadio Municipal de Ipurúa,Eduardo Prieto
+1,Sun,8/19/2018,20:15 (18:15),Rayo Vallecano,1@4,Sevilla,"11,626",Estadio del Rayo Vallecano,Antonio Matéu Lahoz
+1,Sun,8/19/2018,22:15 (20:15),Real Madrid,2@0,Getafe,"48,446",Estadio Santiago Bernabéu,Javier Estrada
+1,Mon,8/20/2018,20:00 (18:00),Valencia,1@1,Atlético Madrid,"46,174",Estadio de Mestalla,Jesús Gil
+1,Mon,8/20/2018,22:00 (20:00),Athletic Club,2@1,Leganés,"38,327",Estadio San Mamés,Adrián Cordero
+2,Fri,8/24/2018,20:15 (18:15),Getafe,2@0,Eibar,"7,851",Coliseum Alfonso Pérez,David Medié
+2,Fri,8/24/2018,22:15 (20:15),Leganés,2@2,Real Sociedad,"9,375",Estadio Municipal de Butarque,José Luis Munuera
+2,Sat,8/25/2018,18:15 (16:15),Alavés,0@0,Betis,"18,221",Estadio de Mendizorroza,Pablo González
+2,Sat,8/25/2018,20:15 (18:15),Atlético Madrid,1@0,Rayo Vallecano,"52,693",Estadio Wanda Metropolitano,José González
+2,Sat,8/25/2018,22:15 (20:15),Valladolid,0@1,Barcelona,"22,651",Estadio Municipal José Zorrilla,Ricardo de Burgos
+2,Sun,8/26/2018,18:15 (16:15),Espanyol,2@0,Valencia,"18,714",RCDE Stadium,Carlos del Cerro
+2,Sun,8/26/2018,22:15 (20:15),Girona,1@4,Real Madrid,"13,889",Estadi Municipal de Montilivi,Juan Martínez
+2,Sun,8/26/2018,22:15 (20:15),Sevilla,0@0,Villarreal,"35,831",Estadio Ramón Sánchez Pizjuán,Alberto Undiano
+2,Mon,8/27/2018,20:15 (18:15),Levante,1@2,Celta Vigo,"21,122",Estadio Ciudad de Valencia,Alejandro Hernández
+2,Mon,8/27/2018,22:00 (20:00),Athletic Club,2@2,Huesca,"36,818",San Mamés,Alberola Rojas
+3,Fri,8/31/2018,20:00 (18:00),Getafe,0@0,Valladolid,"9,817",Coliseum Alfonso Pérez,Adrián Cordero
+3,Fri,8/31/2018,22:00 (20:00),Villarreal,0@1,Girona,"15,740",Estadio de la Cerámica,Eduardo Prieto
+3,Fri,8/31/2018,22:00 (20:00),Eibar,2@1,Real Sociedad,"6,144",Estadio Municipal de Ipurúa,José Sánchez
+3,Sat,9/1/2018,18:30 (16:30),Celta Vigo,2@0,Atlético Madrid,"19,013",Estadio de Balaídos,Antonio Matéu Lahoz
+3,Sat,9/1/2018,20:45 (18:45),Real Madrid,4@1,Leganés,"59,255",Estadio Santiago Bernabéu,Santiago Jaime
+3,Sun,9/2/2018,12:00 (10:00),Levante,2@2,Valencia,"24,073",Estadio Ciudad de Valencia,Javier Estrada
+3,Sun,9/2/2018,16:15 (14:15),Alavés,2@1,Espanyol,"18,052",Estadio de Mendizorroza,Ignacio Iglesias
+3,Sun,9/2/2018,18:30 (16:30),Barcelona,8@2,Huesca,"72,892",Camp Nou,Mario Melero
+3,Sun,9/2/2018,20:45 (18:45),Betis,1@0,Sevilla,"53,451",Estadio Benito Villamarín,Jesús Gil
+4,Fri,9/14/2018,21:00 (19:00),Huesca,0@1,Rayo Vallecano,"6,498",Estadio El Alcoraz,David Medié
+4,Sat,9/15/2018,13:00 (11:00),Atlético Madrid,1@1,Eibar,"55,674",Estadio Wanda Metropolitano,Juan Martínez
+4,Sat,9/15/2018,16:15 (14:15),Real Sociedad,1@2,Barcelona,"26,756",Estadio Municipal de Anoeta,Carlos del Cerro
+4,Sat,9/15/2018,18:30 (16:30),Valencia,0@0,Betis,"40,050",Estadio de Mestalla,Alejandro Hernández
+4,Sat,9/15/2018,20:45 (18:45),Athletic Club,1@1,Real Madrid,"46,413",Estadio San Mamés,José González
+4,Sun,9/16/2018,12:00 (10:00),Leganés,0@1,Villarreal,"10,432",Estadio Municipal de Butarque,Pablo González
+4,Sun,9/16/2018,16:15 (14:15),Espanyol,1@0,Levante,"18,627",RCDE Stadium,Alberto Undiano
+4,Sun,9/16/2018,18:30 (16:30),Valladolid,0@1,Alavés,"18,873",Estadio Municipal José Zorrilla,José Luis Munuera
+4,Sun,9/16/2018,20:45 (18:45),Sevilla,0@2,Getafe,"36,943",Estadio Ramón Sánchez Pizjuán,Ricardo de Burgos
+4,Mon,9/17/2018,21:00 (19:00),Girona,3@2,Celta Vigo,"9,849",Estadi Municipal de Montilivi,Alberola Rojas
+5,Fri,9/21/2018,21:00 (19:00),Huesca,0@1,Real Sociedad,"6,948",Estadio El Alcoraz,Ignacio Iglesias
+5,Sat,9/22/2018,13:00 (11:00),Rayo Vallecano,1@5,Alavés,"12,011",Estadio del Rayo Vallecano,Adrián Cordero
+5,Sat,9/22/2018,16:15 (14:15),Celta Vigo,3@3,Valladolid,"16,552",Estadio de Balaídos,Eduardo Prieto
+5,Sat,9/22/2018,16:15 (14:15),Eibar,1@0,Leganés,"4,456",Estadio Municipal de Ipurúa,Mario Melero
+5,Sat,9/22/2018,18:30 (16:30),Getafe,0@2,Atlético Madrid,"12,756",Coliseum Alfonso Pérez,José Sánchez
+5,Sat,9/22/2018,20:45 (18:45),Real Madrid,1@0,Espanyol,"67,658",Estadio Santiago Bernabéu,Antonio Matéu Lahoz
+5,Sun,9/23/2018,12:00 (10:00),Levante,2@6,Sevilla,"21,520",Estadio Ciudad de Valencia,Guillermo Cuadra
+5,Sun,9/23/2018,16:15 (14:15),Villarreal,0@0,Valencia,"18,373",Estadio de la Cerámica,Santiago Jaime
+5,Sun,9/23/2018,20:00 (18:00),Betis,2@2,Athletic Club,"51,093",Estadio Benito Villamarín,Javier Estrada
+5,Sun,9/23/2018,20:45 (18:45),Barcelona,2@2,Girona,"76,055",Camp Nou,Jesús Gil
+6,Tue,9/25/2018,20:00 (18:00),Espanyol,1@0,Eibar,"13,547",RCDE Stadium,José Luis Munuera
+6,Tue,9/25/2018,21:00 (19:00),Real Sociedad,2@2,Rayo Vallecano,"21,510",Estadio Municipal de Anoeta,Juan Martínez
+6,Tue,9/25/2018,22:00 (20:00),Atlético Madrid,3@0,Huesca,"47,023",Estadio Wanda Metropolitano,Pablo González
+6,Wed,9/26/2018,20:00 (18:00),Athletic Club,0@3,Villarreal,"39,672",Estadio San Mamés,Carlos del Cerro
+6,Wed,9/26/2018,20:00 (18:00),Leganés,2@1,Barcelona,"12,231",Estadio Municipal de Butarque,Alberto Undiano
+6,Wed,9/26/2018,22:00 (20:00),Sevilla,3@0,Real Madrid,"40,972",Estadio Ramón Sánchez Pizjuán,Alejandro Hernández
+6,Wed,9/26/2018,22:00 (20:00),Valencia,1@1,Celta Vigo,"35,945",Estadio de Mestalla,Ricardo de Burgos
+6,Thu,9/27/2018,20:00 (18:00),Alavés,1@1,Getafe,"18,373",Estadio de Mendizorroza,Eduardo Prieto
+6,Thu,9/27/2018,20:00 (18:00),Valladolid,2@1,Levante,"16,440",Estadio Municipal José Zorrilla,David Medié
+6,Thu,9/27/2018,22:00 (20:00),Girona,0@1,Betis,"11,358",Estadi Municipal de Montilivi,José González
+7,Fri,9/28/2018,21:00 (19:00),Rayo Vallecano,2@2,Espanyol,"12,100",Estadio del Rayo Vallecano,Alberola Rojas
+7,Sat,9/29/2018,13:00 (11:00),Real Sociedad,0@1,Valencia,"23,577",Estadio Municipal de Anoeta,Jesús Gil
+7,Sat,9/29/2018,16:15 (14:15),Barcelona,1@1,Athletic Club,"78,015",Camp Nou,Santiago Jaime
+7,Sat,9/29/2018,18:30 (16:30),Eibar,1@3,Sevilla,"5,443",Estadio Municipal de Ipurúa,Javier Estrada
+7,Sat,9/29/2018,20:45 (18:45),Real Madrid,0@0,Atlético Madrid,"78,642",Estadio Santiago Bernabéu,Juan Martínez
+7,Sun,9/30/2018,12:00 (10:00),Huesca,1@1,Girona,"6,779",Estadio El Alcoraz,Adrián Cordero
+7,Sun,9/30/2018,16:15 (14:15),Villarreal,0@1,Valladolid,"15,602",Estadio de la Cerámica,Ignacio Iglesias
+7,Sun,9/30/2018,18:30 (16:30),Levante,2@1,Alavés,"20,239",Estadio Ciudad de Valencia,Mario Melero
+7,Sun,9/30/2018,20:45 (18:45),Betis,1@0,Leganés,"48,115",Estadio Benito Villamarín,José Sánchez
+7,Mon,10/1/2018,21:00 (19:00),Celta Vigo,1@1,Getafe,"14,330",Estadio de Balaídos,Guillermo Cuadra
+8,Fri,10/5/2018,21:00 (19:00),Athletic Club,1@3,Real Sociedad,"46,884",San Mamés,Alejandro Hernández
+8,Sat,10/6/2018,13:00 (11:00),Girona,2@3,Eibar,"10,569",Estadi Municipal de Montilivi,Eduardo Prieto
+8,Sat,10/6/2018,16:15 (14:15),Getafe,0@1,Levante,"9,557",Coliseum Alfonso Pérez,José Luis Munuera
+8,Sat,10/6/2018,18:30 (16:30),Alavés,1@0,Real Madrid,"19,461",Estadio de Mendizorroza,Santiago Jaime
+8,Sat,10/6/2018,20:45 (18:45),Leganés,1@0,Rayo Vallecano,"11,539",Estadio Municipal de Butarque,David Medié
+8,Sun,10/7/2018,12:00 (10:00),Valladolid,1@0,Huesca,"17,300",Estadio Municipal José Zorrilla,Antonio Matéu Lahoz
+8,Sun,10/7/2018,16:15 (14:15),Atlético Madrid,1@0,Betis,"63,786",Estadio Wanda Metropolitano,Alberto Undiano
+8,Sun,10/7/2018,18:30 (16:30),Sevilla,2@1,Celta Vigo,"38,068",Estadio Ramón Sánchez Pizjuán,Pablo González
+8,Sun,10/7/2018,18:30 (16:30),Espanyol,3@1,Villarreal,"20,032",RCDE Stadium,Ricardo de Burgos
+8,Sun,10/7/2018,20:45 (18:45),Valencia,1@1,Barcelona,"46,249",Estadio de Mestalla,José González
+9,Fri,10/19/2018,21:00 (19:00),Celta Vigo,0@1,Alavés,"15,627",Estadio de Balaídos,Carlos del Cerro
+9,Sat,10/20/2018,13:00 (11:00),Real Madrid,1@2,Levante,"63,423",Estadio Santiago Bernabéu,Guillermo Cuadra
+9,Sat,10/20/2018,16:15 (14:15),Valencia,1@1,Leganés,"35,597",Estadio de Mestalla,Ignacio Iglesias
+9,Sat,10/20/2018,18:30 (16:30),Villarreal,1@1,Atlético Madrid,"17,518",Estadio de la Cerámica,Javier Estrada
+9,Sat,10/20/2018,20:45 (18:45),Barcelona,4@2,Sevilla,"88,712",Camp Nou,Juan Martínez
+9,Sun,10/21/2018,12:00 (10:00),Rayo Vallecano,1@2,Getafe,"12,040",Estadio del Rayo Vallecano,Mario Melero
+9,Sun,10/21/2018,16:15 (14:15),Eibar,1@1,Athletic Club,"6,475",Estadio Municipal de Ipurúa,Jesús Gil
+9,Sun,10/21/2018,18:30 (16:30),Huesca,0@2,Espanyol,"6,943",Estadio El Alcoraz,Eduardo Prieto
+9,Sun,10/21/2018,20:45 (18:45),Betis,0@1,Valladolid,"42,581",Estadio Benito Villamarín,Alberola Rojas
+9,Mon,10/22/2018,21:00 (19:00),Real Sociedad,0@0,Girona,"20,997",Estadio Municipal de Anoeta,Pablo González
+3,Wed,10/24/2018,19:00 (17:00),Rayo Vallecano,1@1,Athletic Club,"11,850",Estadio del Rayo Vallecano,Guillermo Cuadra
+10,Fri,10/26/2018,21:00 (19:00),Valladolid,1@1,Espanyol,"18,231",Estadio Municipal José Zorrilla,Adrián Cordero
+10,Sat,10/27/2018,13:00 (11:00),Girona,2@1,Rayo Vallecano,"6,618",Estadi Municipal de Montilivi,José Luis Munuera
+10,Sat,10/27/2018,16:15 (14:15),Athletic Club,0@0,Valencia,"39,261",San Mamés,Alberto Undiano
+10,Sat,10/27/2018,18:30 (16:30),Celta Vigo,4@0,Eibar,"15,509",Estadio de Balaídos,José González
+10,Sat,10/27/2018,18:30 (16:30),Levante,2@0,Leganés,"19,754",Estadio Ciudad de Valencia,Ricardo de Burgos
+10,Sat,10/27/2018,20:45 (18:45),Atlético Madrid,2@0,Real Sociedad,"57,514",Estadio Wanda Metropolitano,Antonio Matéu Lahoz
+10,Sun,10/28/2018,12:00 (11:00),Getafe,2@0,Betis,"12,086",Coliseum Alfonso Pérez,Santiago Jaime
+10,Sun,10/28/2018,16:15 (15:15),Barcelona,5@1,Real Madrid,"93,265",Camp Nou,José Sánchez
+10,Sun,10/28/2018,18:30 (17:30),Alavés,2@1,Villarreal,"16,956",Estadio de Mendizorroza,Guillermo Cuadra
+10,Sun,10/28/2018,20:45 (19:45),Sevilla,2@1,Huesca,"33,022",Estadio Ramón Sánchez Pizjuán,David Medié
+11,Sat,11/3/2018,13:00 (12:00),Leganés,1@1,Atlético Madrid,"12,319",Estadio Municipal de Butarque,Mario Melero
+11,Sat,11/3/2018,16:15 (15:15),Real Madrid,2@0,Valladolid,"68,050",Estadio Santiago Bernabéu,Jesús Gil
+11,Sat,11/3/2018,18:30 (17:30),Valencia,0@1,Girona,"38,745",Estadio de Mestalla,Alberola Rojas
+11,Sat,11/3/2018,20:45 (19:45),Rayo Vallecano,2@3,Barcelona,"13,785",Estadio del Rayo Vallecano,Alejandro Hernández
+11,Sun,11/4/2018,12:00 (11:00),Eibar,2@1,Alavés,"5,660",Estadio Municipal de Ipurúa,Ignacio Iglesias
+11,Sun,11/4/2018,16:15 (15:15),Villarreal,1@1,Levante,"16,499",Estadio de la Cerámica,Carlos del Cerro
+11,Sun,11/4/2018,18:30 (17:30),Huesca,1@1,Getafe,"6,420",Estadio El Alcoraz,Juan Martínez
+11,Sun,11/4/2018,18:30 (17:30),Real Sociedad,0@0,Sevilla,"24,882",Estadio Municipal de Anoeta,Eduardo Prieto
+11,Sun,11/4/2018,20:45 (19:45),Betis,3@3,Celta Vigo,"42,130",Estadio Benito Villamarín,Javier Estrada
+11,Mon,11/5/2018,21:00 (20:00),Espanyol,1@0,Athletic Club,"14,328",RCDE Stadium,Pablo González
+12,Fri,11/9/2018,21:00 (20:00),Levante,1@3,Real Sociedad,"19,890",Estadio Ciudad de Valencia,David Medié
+12,Sat,11/10/2018,13:00 (12:00),Valladolid,0@0,Eibar,"16,038",Estadio Municipal José Zorrilla,Guillermo Cuadra
+12,Sat,11/10/2018,16:15 (15:15),Getafe,0@1,Valencia,"10,011",Coliseum Alfonso Pérez,Ricardo de Burgos
+12,Sat,11/10/2018,18:30 (17:30),Atlético Madrid,3@2,Athletic Club,"59,321",Estadio Wanda Metropolitano,José Sánchez
+12,Sat,11/10/2018,20:45 (19:45),Girona,0@0,Leganés,"9,874",Estadi Municipal de Montilivi,Adrián Cordero
+12,Sun,11/11/2018,12:00 (11:00),Alavés,2@1,Huesca,"18,437",Estadio de Mendizorroza,José Luis Munuera
+12,Sun,11/11/2018,16:15 (15:15),Barcelona,3@4,Betis,"83,174",Camp Nou,Antonio Matéu Lahoz
+12,Sun,11/11/2018,18:30 (17:30),Sevilla,2@1,Espanyol,"38,769",Estadio Ramón Sánchez Pizjuán,Santiago Jaime
+12,Sun,11/11/2018,18:30 (17:30),Rayo Vallecano,2@2,Villarreal,"11,840",Estadio del Rayo Vallecano,José González
+12,Sun,11/11/2018,20:45 (19:45),Celta Vigo,2@4,Real Madrid,"21,184",Estadio de Balaídos,Alberto Undiano
+13,Fri,11/23/2018,21:00 (20:00),Leganés,1@0,Alavés,"9,863",Estadio Municipal de Butarque,Alberola Rojas
+13,Sat,11/24/2018,13:00 (12:00),Eibar,3@0,Real Madrid,"6,435",Estadio Municipal de Ipurúa,Juan Martínez
+13,Sat,11/24/2018,16:15 (15:15),Valencia,3@0,Rayo Vallecano,"37,814",Estadio de Mestalla,Pablo González
+13,Sat,11/24/2018,18:30 (17:30),Huesca,2@2,Levante,"6,459",Estadio El Alcoraz,Javier Estrada
+13,Sat,11/24/2018,20:45 (19:45),Atlético Madrid,1@1,Barcelona,"67,204",Estadio Wanda Metropolitano,Jesús Gil
+13,Sun,11/25/2018,12:00 (11:00),Athletic Club,1@1,Getafe,"39,821",San Mamés,Ignacio Iglesias
+13,Sun,11/25/2018,16:15 (15:15),Sevilla,1@0,Valladolid,"34,064",Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+13,Sun,11/25/2018,18:30 (17:30),Espanyol,1@3,Girona,"22,716",RCDE Stadium,Alejandro Hernández
+13,Sun,11/25/2018,20:45 (19:45),Villarreal,2@1,Betis,"16,028",Estadio de la Cerámica,Eduardo Prieto
+13,Mon,11/26/2018,21:00 (20:00),Real Sociedad,2@1,Celta Vigo,"17,744",Estadio Municipal de Anoeta,Mario Melero
+14,Fri,11/30/2018,21:00 (20:00),Rayo Vallecano,1@0,Eibar,"11,257",Estadio del Rayo Vallecano,Alberto Undiano
+14,Sat,12/1/2018,13:00 (12:00),Celta Vigo,2@0,Huesca,"13,463",Estadio de Balaídos,Adrián Cordero
+14,Sat,12/1/2018,16:15 (15:15),Valladolid,2@4,Leganés,"16,783",Estadio Municipal José Zorrilla,David Medié
+14,Sat,12/1/2018,18:30 (17:30),Getafe,3@0,Espanyol,"9,287",Coliseum Alfonso Pérez,Antonio Matéu Lahoz
+14,Sat,12/1/2018,20:45 (19:45),Real Madrid,2@0,Valencia,"69,653",Estadio Santiago Bernabéu,José González
+14,Sun,12/2/2018,12:00 (11:00),Betis,1@0,Real Sociedad,"46,562",Estadio Benito Villamarín,Guillermo Cuadra
+14,Sun,12/2/2018,16:15 (15:15),Girona,1@1,Atlético Madrid,"12,104",Estadi Municipal de Montilivi,Ricardo de Burgos
+14,Sun,12/2/2018,18:30 (17:30),Barcelona,2@0,Villarreal,"73,003",Camp Nou,José Luis Munuera
+14,Sun,12/2/2018,20:45 (19:45),Alavés,1@1,Sevilla,"17,848",Estadio de Mendizorroza,José Sánchez
+14,Mon,12/3/2018,21:00 (20:00),Levante,3@0,Athletic Club,"19,928",Estadio Ciudad de Valencia,Santiago Jaime
+15,Fri,12/7/2018,21:00 (20:00),Leganés,1@1,Getafe,"11,327",Estadio Municipal de Butarque,Pablo González
+15,Sat,12/8/2018,13:00 (12:00),Atlético Madrid,3@0,Alavés,"55,810",Estadio Wanda Metropolitano,Alejandro Hernández
+15,Sat,12/8/2018,16:15 (15:15),Valencia,1@1,Sevilla,"40,057",Estadio de Mestalla,Javier Estrada
+15,Sat,12/8/2018,18:30 (17:30),Villarreal,2@3,Celta Vigo,"15,720",Estadio de la Cerámica,Jesús Gil
+15,Sat,12/8/2018,20:45 (19:45),Espanyol,0@4,Barcelona,"24,037",RCDE Stadium,Carlos del Cerro
+15,Sun,12/9/2018,12:00 (11:00),Eibar,4@4,Levante,"5,328",Estadio Municipal de Ipurúa,Alberola Rojas
+15,Sun,12/9/2018,16:15 (15:15),Huesca,0@1,Real Madrid,"7,341",Estadio El Alcoraz,Mario Melero
+15,Sun,12/9/2018,18:30 (17:30),Real Sociedad,1@2,Valladolid,"23,260",Estadio Municipal de Anoeta,Ignacio Iglesias
+15,Sun,12/9/2018,20:45 (19:45),Betis,2@0,Rayo Vallecano,"40,218",Estadio Benito Villamarín,Juan Martínez
+15,Mon,12/10/2018,21:00 (20:00),Athletic Club,1@0,Girona,"34,060",San Mamés,Eduardo Prieto
+16,Fri,12/14/2018,21:00 (20:00),Celta Vigo,0@0,Leganés,"15,134",Estadio de Balaídos,José Luis Munuera
+16,Sat,12/15/2018,13:00 (12:00),Getafe,1@0,Real Sociedad,"9,018",Coliseum Alfonso Pérez,Santiago Jaime
+16,Sat,12/15/2018,16:15 (15:15),Valladolid,2@3,Atlético Madrid,"22,585",Estadio Municipal José Zorrilla,Alberto Undiano
+16,Sat,12/15/2018,18:30 (17:30),Real Madrid,1@0,Rayo Vallecano,"55,229",Estadio Santiago Bernabéu,Ricardo de Burgos
+16,Sat,12/15/2018,20:45 (19:45),Eibar,1@1,Valencia,"4,491",Estadio Municipal de Ipurúa,Adrián Cordero
+16,Sun,12/16/2018,12:00 (11:00),Sevilla,2@0,Girona,"33,542",Estadio Ramón Sánchez Pizjuán,Guillermo Cuadra
+16,Sun,12/16/2018,16:15 (15:15),Espanyol,1@3,Betis,"20,275",RCDE Stadium,José Sánchez
+16,Sun,12/16/2018,18:30 (17:30),Huesca,2@2,Villarreal,"6,455",Estadio El Alcoraz,David Medié
+16,Sun,12/16/2018,20:45 (19:45),Levante,0@5,Barcelona,"23,736",Estadio Ciudad de Valencia,José González
+16,Mon,12/17/2018,21:00 (20:00),Alavés,0@0,Athletic Club,"19,349",Estadio de Mendizorroza,Antonio Matéu Lahoz
+17,Fri,12/21/2018,19:30 (18:30),Girona,1@1,Getafe,"8,450",Estadi Municipal de Montilivi,Alberola Rojas
+17,Fri,12/21/2018,21:00 (20:00),Real Sociedad,0@1,Alavés,"22,431",Estadio Municipal de Anoeta,Javier Estrada
+17,Sat,12/22/2018,13:00 (12:00),Betis,1@1,Eibar,"49,426",Estadio Benito Villamarín,Carlos del Cerro
+17,Sat,12/22/2018,16:15 (15:15),Atlético Madrid,1@0,Espanyol,"58,069",Estadio Wanda Metropolitano,Mario Melero
+17,Sat,12/22/2018,18:30 (17:30),Barcelona,2@0,Celta Vigo,"78,686",Camp Nou,Eduardo Prieto
+17,Sat,12/22/2018,20:45 (19:45),Athletic Club,1@1,Valladolid,"42,633",San Mamés,José Sánchez
+17,Sun,12/23/2018,12:00 (11:00),Valencia,2@1,Huesca,"36,547",Estadio de Mestalla,Jesús Gil
+17,Sun,12/23/2018,16:15 (15:15),Leganés,1@1,Sevilla,"11,321",Estadio Municipal de Butarque,Alejandro Hernández
+17,Sun,12/23/2018,18:30 (17:30),Rayo Vallecano,2@1,Levante,"11,206",Estadio del Rayo Vallecano,Ignacio Iglesias
+17,Thu,1/3/2019,21:30 (20:30),Villarreal,2@2,Real Madrid,"19,903",Estadio de la Cerámica,Pablo González
+18,Fri,1/4/2019,19:00 (18:00),Levante,2@2,Girona,"19,415",Estadio Ciudad de Valencia,Alberto Undiano
+18,Fri,1/4/2019,21:00 (20:00),Espanyol,1@0,Leganés,"15,085",RCDE Stadium,José González
+18,Sat,1/5/2019,13:00 (12:00),Valladolid,0@1,Rayo Vallecano,"17,261",Estadio Municipal José Zorrilla,Adrián Cordero
+18,Sat,1/5/2019,16:15 (15:15),Alavés,2@1,Valencia,"18,304",Estadio de Mendizorroza,David Medié
+18,Sat,1/5/2019,20:45 (19:45),Huesca,2@1,Betis,"6,135",Estadio El Alcoraz,Ricardo de Burgos
+18,Sun,1/6/2019,12:00 (11:00),Eibar,0@0,Villarreal,"4,141",Estadio Municipal de Ipurúa,Santiago Jaime
+18,Sun,1/6/2019,16:15 (15:15),Sevilla,1@1,Atlético Madrid,"38,603",Estadio Ramón Sánchez Pizjuán,Antonio Matéu Lahoz
+18,Sun,1/6/2019,18:30 (17:30),Real Madrid,0@2,Real Sociedad,"53,412",Estadio Santiago Bernabéu,José Luis Munuera
+18,Sun,1/6/2019,20:45 (19:45),Getafe,1@2,Barcelona,"14,721",Coliseum Alfonso Pérez,Guillermo Cuadra
+18,Mon,1/7/2019,21:00 (20:00),Celta Vigo,1@2,Athletic Club,"13,266",Estadio de Balaídos,Juan Martínez
+19,Fri,1/11/2019,21:00 (20:00),Rayo Vallecano,4@2,Celta Vigo,"11,465",Estadio del Rayo Vallecano,Alberola Rojas
+19,Sat,1/12/2019,13:00 (12:00),Leganés,1@0,Huesca,"10,341",Estadio Municipal de Butarque,Mario Melero
+19,Sat,1/12/2019,16:15 (15:15),Valencia,1@1,Valladolid,"36,912",Estadio de Mestalla,Ignacio Iglesias
+19,Sat,1/12/2019,18:30 (17:30),Girona,1@1,Alavés,"10,303",Estadi Municipal de Montilivi,José Sánchez
+19,Sat,1/12/2019,20:45 (19:45),Villarreal,1@2,Getafe,"13,671",Estadio de la Cerámica,Javier Estrada
+19,Sun,1/13/2019,12:00 (11:00),Atlético Madrid,1@0,Levante,"57,093",Estadio Wanda Metropolitano,Eduardo Prieto
+19,Sun,1/13/2019,16:15 (15:15),Athletic Club,2@0,Sevilla,"41,342",San Mamés,Pablo González
+19,Sun,1/13/2019,18:30 (17:30),Barcelona,3@0,Eibar,"71,039",Camp Nou,Jesús Gil
+19,Sun,1/13/2019,20:45 (19:45),Betis,1@2,Real Madrid,"54,187",Estadio Benito Villamarín,Alejandro Hernández
+19,Mon,1/14/2019,21:00 (20:00),Real Sociedad,3@2,Espanyol,"17,301",Estadio Municipal de Anoeta,Carlos del Cerro
+20,Fri,1/18/2019,21:00 (20:00),Getafe,4@0,Alavés,"8,748",Coliseum Alfonso Pérez,José Luis Munuera
+20,Sat,1/19/2019,16:15 (15:15),Real Madrid,2@0,Sevilla,"68,232",Estadio Santiago Bernabéu,Antonio Matéu Lahoz
+20,Sat,1/19/2019,18:30 (17:30),Huesca,0@3,Atlético Madrid,"7,106",Estadio El Alcoraz,Guillermo Cuadra
+20,Sat,1/19/2019,20:45 (19:45),Celta Vigo,1@2,Valencia,"15,668",Estadio de Balaídos,José González
+20,Sun,1/20/2019,12:00 (11:00),Betis,3@2,Girona,"47,218",Estadio Benito Villamarín,Adrián Cordero
+20,Sun,1/20/2019,16:15 (15:15),Villarreal,1@1,Athletic Club,"17,054",Estadio de la Cerámica,Alberto Undiano
+20,Sun,1/20/2019,18:30 (17:30),Levante,2@0,Valladolid,"19,107",Estadio Ciudad de Valencia,Santiago Jaime
+20,Sun,1/20/2019,18:30 (17:30),Rayo Vallecano,2@2,Real Sociedad,"12,562",Estadio del Rayo Vallecano,David Medié
+20,Sun,1/20/2019,20:45 (19:45),Barcelona,3@1,Leganés,"50,670",Camp Nou,Ricardo de Burgos
+20,Mon,1/21/2019,21:00 (20:00),Eibar,3@0,Espanyol,"3,592",Estadio Municipal de Ipurúa,Juan Martínez
+21,Sat,1/26/2019,13:00 (12:00),Sevilla,5@0,Levante,"34,220",Estadio Ramón Sánchez Pizjuán,Alberola Rojas
+21,Sat,1/26/2019,16:15 (15:15),Atlético Madrid,2@0,Getafe,"55,709",Estadio Wanda Metropolitano,Ignacio Iglesias
+21,Sat,1/26/2019,18:30 (17:30),Leganés,2@2,Eibar,"9,341",Estadio Municipal de Butarque,Alejandro Hernández
+21,Sat,1/26/2019,20:45 (19:45),Valencia,3@0,Villarreal,"37,685",Estadio de Mestalla,Carlos del Cerro
+21,Sun,1/27/2019,12:00 (11:00),Valladolid,2@1,Celta Vigo,"18,416",Estadio Municipal José Zorrilla,José Sánchez
+21,Sun,1/27/2019,16:15 (15:15),Girona,0@2,Barcelona,"14,021",Estadi Municipal de Montilivi,Pablo González
+21,Sun,1/27/2019,18:30 (17:30),Real Sociedad,0@0,Huesca,"21,252",Estadio Municipal de Anoeta,Eduardo Prieto
+21,Sun,1/27/2019,18:30 (17:30),Athletic Club,1@0,Betis,"40,282",San Mamés,Javier Estrada
+21,Sun,1/27/2019,20:45 (19:45),Espanyol,2@4,Real Madrid,"21,215",RCDE Stadium,Jesús Gil
+21,Mon,1/28/2019,21:00 (20:00),Alavés,0@1,Rayo Vallecano,"13,982",Estadio de Mendizorroza,Mario Melero
+22,Fri,2/1/2019,21:00 (20:00),Huesca,4@0,Valladolid,"6,052",Estadio El Alcoraz,José Luis Munuera
+22,Sat,2/2/2019,13:00 (12:00),Levante,0@0,Getafe,"18,437",Estadio Ciudad de Valencia,Adrián Cordero
+22,Sat,2/2/2019,16:15 (15:15),Real Sociedad,2@1,Athletic Club,"27,073",Estadio Municipal de Anoeta,Antonio Matéu Lahoz
+22,Sat,2/2/2019,18:30 (17:30),Barcelona,2@2,Valencia,"76,789",Camp Nou,Alberto Undiano
+22,Sat,2/2/2019,20:45 (19:45),Celta Vigo,1@0,Sevilla,"17,503",Estadio de Balaídos,Ricardo de Burgos
+22,Sun,2/3/2019,12:00 (11:00),Villarreal,2@2,Espanyol,"15,476",Estadio de la Cerámica,Guillermo Cuadra
+22,Sun,2/3/2019,16:15 (15:15),Betis,1@0,Atlético Madrid,"50,864",Estadio Benito Villamarín,David Medié
+22,Sun,2/3/2019,18:30 (17:30),Eibar,3@0,Girona,"4,419",Estadio Municipal de Ipurúa,José González
+22,Sun,2/3/2019,20:45 (19:45),Real Madrid,3@0,Alavés,"53,132",Estadio Santiago Bernabéu,Santiago Jaime
+22,Mon,2/4/2019,21:00 (20:00),Rayo Vallecano,1@2,Leganés,"11,435",Estadio del Rayo Vallecano,Juan Martínez
+23,Fri,2/8/2019,21:00 (20:00),Valladolid,0@0,Villarreal,"16,842",Estadio Municipal José Zorrilla,Alejandro Hernández
+23,Sat,2/9/2019,13:00 (12:00),Getafe,3@1,Celta Vigo,"9,918",Coliseum Alfonso Pérez,Pablo González
+23,Sat,2/9/2019,16:15 (15:15),Atlético Madrid,1@3,Real Madrid,"67,752",Estadio Wanda Metropolitano,Javier Estrada
+23,Sat,2/9/2019,18:30 (17:30),Espanyol,2@1,Rayo Vallecano,"22,104",RCDE Stadium,Eduardo Prieto
+23,Sat,2/9/2019,20:45 (19:45),Girona,0@2,Huesca,"10,662",Estadi Municipal de Montilivi,Adrián Cordero
+23,Sun,2/10/2019,12:00 (11:00),Leganés,3@0,Betis,"11,381",Estadio Municipal de Butarque,Alberola Rojas
+23,Sun,2/10/2019,16:15 (15:15),Valencia,0@0,Real Sociedad,"38,885",Estadio de Mestalla,Mario Melero
+23,Sun,2/10/2019,18:30 (17:30),Sevilla,2@2,Eibar,"36,343",Estadio Ramón Sánchez Pizjuán,Ignacio Iglesias
+23,Sun,2/10/2019,20:45 (19:45),Athletic Club,0@0,Barcelona,"47,557",San Mamés,Carlos del Cerro
+23,Mon,2/11/2019,21:00 (20:00),Alavés,2@0,Levante,"13,691",Estadio de Mendizorroza,Alberto Undiano
+24,Fri,2/15/2019,21:00 (20:00),Eibar,2@2,Getafe,"4,449",Estadio Municipal de Ipurúa,David Medié
+24,Sat,2/16/2019,13:00 (12:00),Celta Vigo,1@4,Levante,"15,479",Estadio de Balaídos,Santiago Jaime
+24,Sat,2/16/2019,16:15 (15:15),Rayo Vallecano,0@1,Atlético Madrid,"13,880",Estadio del Rayo Vallecano,Jesús Gil
+24,Sat,2/16/2019,18:30 (17:30),Real Sociedad,3@0,Leganés,"22,997",Estadio Municipal de Anoeta,José Luis Munuera
+24,Sat,2/16/2019,20:45 (19:45),Barcelona,1@0,Valladolid,"67,435",Camp Nou,Juan Martínez
+24,Sun,2/17/2019,12:00 (11:00),Real Madrid,1@2,Girona,"68,099",Estadio Santiago Bernabéu,Guillermo Cuadra
+24,Sun,2/17/2019,16:15 (15:15),Valencia,0@0,Espanyol,"39,564",Estadio de Mestalla,Ricardo de Burgos
+24,Sun,2/17/2019,18:30 (17:30),Villarreal,3@0,Sevilla,"17,402",Estadio de la Cerámica,José González
+24,Sun,2/17/2019,20:45 (19:45),Betis,1@1,Alavés,"43,455",Estadio Benito Villamarín,Antonio Matéu Lahoz
+24,Mon,2/18/2019,21:00 (20:00),Huesca,0@1,Athletic Club,"6,729",Estadio El Alcoraz,José Sánchez
+25,Fri,2/22/2019,21:00 (20:00),Espanyol,1@1,Huesca,"20,078",RCDE Stadium,Alejandro Hernández
+25,Sat,2/23/2019,13:00 (12:00),Getafe,2@1,Rayo Vallecano,"11,207",Coliseum Alfonso Pérez,Alberola Rojas
+25,Sat,2/23/2019,16:15 (15:15),Sevilla,2@4,Barcelona,"40,661",Estadio Ramón Sánchez Pizjuán,Antonio Matéu Lahoz
+25,Sat,2/23/2019,18:30 (17:30),Alavés,0@0,Celta Vigo,"18,882",Estadio de Mendizorroza,Carlos del Cerro
+25,Sat,2/23/2019,20:45 (19:45),Athletic Club,1@0,Eibar,"43,363",San Mamés,Mario Melero
+25,Sun,2/24/2019,12:00 (11:00),Leganés,1@1,Valencia,"11,425",Estadio Municipal de Butarque,Javier Estrada
+25,Sun,2/24/2019,16:15 (15:15),Atlético Madrid,2@0,Villarreal,"59,114",Estadio Wanda Metropolitano,Alberto Undiano
+25,Sun,2/24/2019,18:30 (17:30),Valladolid,0@2,Betis,"20,125",Estadio Municipal José Zorrilla,Pablo González
+25,Sun,2/24/2019,20:45 (19:45),Levante,1@2,Real Madrid,"23,018",Estadio Ciudad de Valencia,Ignacio Iglesias
+25,Mon,2/25/2019,21:00 (20:00),Girona,0@0,Real Sociedad,"10,170",Estadi Municipal de Montilivi,Eduardo Prieto
+26,Fri,3/1/2019,21:00 (20:00),Rayo Vallecano,0@2,Girona,"12,087",Estadio del Rayo Vallecano,Santiago Jaime
+26,Sat,3/2/2019,13:00 (12:00),Espanyol,3@1,Valladolid,"20,467",RCDE Stadium,Adrián Cordero
+26,Sat,3/2/2019,16:15 (15:15),Villarreal,1@2,Alavés,"15,488",Estadio de la Cerámica,José Luis Munuera
+26,Sat,3/2/2019,18:30 (17:30),Huesca,2@1,Sevilla,"6,818",Estadio El Alcoraz,Ricardo de Burgos
+26,Sat,3/2/2019,20:45 (19:45),Real Madrid,0@1,Barcelona,"78,921",Estadio Santiago Bernabéu,Alberto Undiano
+26,Sun,3/3/2019,12:00 (11:00),Eibar,1@0,Celta Vigo,"4,682",Estadio Municipal de Ipurúa,Guillermo Cuadra
+26,Sun,3/3/2019,16:15 (15:15),Betis,1@2,Getafe,"46,657",Estadio Benito Villamarín,Juan Martínez
+26,Sun,3/3/2019,18:30 (17:30),Real Sociedad,0@2,Atlético Madrid,"26,004",Estadio Municipal de Anoeta,José González
+26,Sun,3/3/2019,20:45 (19:45),Valencia,2@0,Athletic Club,"39,041",Estadio de Mestalla,David Medié
+26,Mon,3/4/2019,21:00 (20:00),Leganés,1@0,Levante,"9,758",Estadio Municipal de Butarque,Jesús Gil
+27,Fri,3/8/2019,21:00 (20:00),Athletic Club,1@1,Espanyol,"38,453",San Mamés,Pablo González
+27,Sat,3/9/2019,13:00 (12:00),Alavés,1@1,Eibar,"18,793",Estadio de Mendizorroza,Alberola Rojas
+27,Sat,3/9/2019,16:15 (15:15),Atlético Madrid,1@0,Leganés,"58,321",Estadio Wanda Metropolitano,Antonio Matéu Lahoz
+27,Sat,3/9/2019,18:30 (17:30),Barcelona,3@1,Rayo Vallecano,"74,158",Camp Nou,Mario Melero
+27,Sat,3/9/2019,20:45 (19:45),Getafe,2@1,Huesca,"10,882",Coliseum Alfonso Pérez,Eduardo Prieto
+27,Sun,3/10/2019,12:00 (11:00),Celta Vigo,0@1,Betis,"18,005",Estadio de Balaídos,Javier Estrada
+27,Sun,3/10/2019,16:15 (15:15),Girona,2@3,Valencia,"11,502",Estadi Municipal de Montilivi,Carlos del Cerro
+27,Sun,3/10/2019,18:30 (17:30),Sevilla,5@2,Real Sociedad,"35,813",Estadio Ramón Sánchez Pizjuán,Ignacio Iglesias
+27,Sun,3/10/2019,18:30 (17:30),Levante,0@2,Villarreal,"20,149",Estadio Ciudad de Valencia,José Sánchez
+27,Sun,3/10/2019,20:45 (19:45),Valladolid,1@4,Real Madrid,"21,914",Estadio Municipal José Zorrilla,Jesús Gil
+28,Fri,3/15/2019,21:00 (20:00),Real Sociedad,1@1,Levante,"20,605",Estadio Municipal de Anoeta,Adrián Cordero
+28,Sat,3/16/2019,13:00 (12:00),Huesca,1@3,Alavés,"6,811",Estadio El Alcoraz,Alberto Undiano
+28,Sat,3/16/2019,16:15 (15:15),Real Madrid,2@0,Celta Vigo,"65,054",Estadio Santiago Bernabéu,Juan Martínez
+28,Sat,3/16/2019,18:30 (17:30),Athletic Club,2@0,Atlético Madrid,"39,659",San Mamés,Santiago Jaime
+28,Sat,3/16/2019,20:45 (19:45),Leganés,0@2,Girona,"9,873",Estadio Municipal de Butarque,José Luis Munuera
+28,Sun,3/17/2019,12:00 (11:00),Eibar,1@2,Valladolid,"4,508",Estadio Municipal de Ipurúa,David Medié
+28,Sun,3/17/2019,16:15 (15:15),Espanyol,0@1,Sevilla,"20,219",RCDE Stadium,Guillermo Cuadra
+28,Sun,3/17/2019,18:30 (17:30),Valencia,0@0,Getafe,"41,778",Estadio de Mestalla,José Sánchez
+28,Sun,3/17/2019,18:30 (17:30),Villarreal,3@1,Rayo Vallecano,"17,117",Estadio de la Cerámica,José González
+28,Sun,3/17/2019,20:45 (19:45),Betis,1@4,Barcelona,"54,172",Estadio Benito Villamarín,Ricardo de Burgos
+29,Fri,3/29/2019,21:00 (20:00),Girona,1@2,Athletic Club,"10,652",Estadi Municipal de Montilivi,José Sánchez
+29,Sat,3/30/2019,13:00 (12:00),Getafe,0@2,Leganés,"12,705",Coliseum Alfonso Pérez,Pablo González
+29,Sat,3/30/2019,16:15 (15:15),Barcelona,2@0,Espanyol,"92,795",Camp Nou,Carlos del Cerro
+29,Sat,3/30/2019,18:30 (17:30),Celta Vigo,3@2,Villarreal,"22,315",Estadio de Balaídos,Jesús Gil
+29,Sat,3/30/2019,20:45 (19:45),Alavés,0@4,Atlético Madrid,"19,117",Estadio de Mendizorroza,Mario Melero
+29,Sun,3/31/2019,12:00 (10:00),Levante,2@2,Eibar,"16,179",Estadio Ciudad de Valencia,Eduardo Prieto
+29,Sun,3/31/2019,14:00 (12:00),Rayo Vallecano,1@1,Betis,"12,310",Estadio del Rayo Vallecano,Antonio Matéu Lahoz
+29,Sun,3/31/2019,16:15 (14:15),Sevilla,0@1,Valencia,"38,450",Estadio Ramón Sánchez Pizjuán,José González
+29,Sun,3/31/2019,18:30 (16:30),Valladolid,1@1,Real Sociedad,"18,775",Estadio Municipal José Zorrilla,Alberola Rojas
+29,Sun,3/31/2019,20:45 (18:45),Real Madrid,3@2,Huesca,"49,269",Estadio Santiago Bernabéu,Javier Estrada
+30,Tue,4/2/2019,19:30 (17:30),Atlético Madrid,2@0,Girona,"40,863",Estadio Wanda Metropolitano,Ignacio Iglesias
+30,Tue,4/2/2019,20:30 (18:30),Espanyol,1@1,Getafe,"16,322",RCDE Stadium,Ricardo de Burgos
+30,Tue,4/2/2019,21:30 (19:30),Villarreal,4@4,Barcelona,"19,515",Estadio de la Cerámica,Alejandro Hernández
+30,Wed,4/3/2019,19:30 (17:30),Athletic Club,3@2,Levante,"36,450",San Mamés,José Luis Munuera
+30,Wed,4/3/2019,20:30 (18:30),Huesca,3@3,Celta Vigo,"6,552",Estadio El Alcoraz,Adrián Cordero
+30,Wed,4/3/2019,20:30 (18:30),Eibar,2@1,Rayo Vallecano,"3,940",Estadio Municipal de Ipurúa,Alberto Undiano
+30,Wed,4/3/2019,21:30 (19:30),Valencia,2@1,Real Madrid,"44,274",Estadio de Mestalla,Santiago Jaime
+30,Thu,4/4/2019,19:30 (17:30),Sevilla,2@0,Alavés,"33,212",Estadio Ramón Sánchez Pizjuán,Juan Martínez
+30,Thu,4/4/2019,20:30 (18:30),Leganés,1@0,Valladolid,"10,185",Estadio Municipal de Butarque,Guillermo Cuadra
+30,Thu,4/4/2019,21:30 (19:30),Real Sociedad,2@1,Betis,"16,417",Estadio Municipal de Anoeta,David Medié
+31,Sat,4/6/2019,13:00 (11:00),Girona,1@2,Espanyol,"11,463",Estadi Municipal de Montilivi,Eduardo Prieto
+31,Sat,4/6/2019,16:15 (14:15),Real Madrid,2@1,Eibar,"50,284",Estadio Santiago Bernabéu,Pablo González
+31,Sat,4/6/2019,18:30 (16:30),Rayo Vallecano,2@0,Valencia,"11,320",Estadio del Rayo Vallecano,Alberola Rojas
+31,Sat,4/6/2019,20:45 (18:45),Barcelona,2@0,Atlético Madrid,"92,453",Camp Nou,Jesús Gil
+31,Sun,4/7/2019,12:00 (10:00),Alavés,1@1,Leganés,"16,783",Estadio de Mendizorroza,Antonio Matéu Lahoz
+31,Sun,4/7/2019,14:00 (12:00),Getafe,1@0,Athletic Club,"11,617",Coliseum Alfonso Pérez,José González
+31,Sun,4/7/2019,16:15 (14:15),Valladolid,0@2,Sevilla,"17,989",Estadio Municipal José Zorrilla,José Sánchez
+31,Sun,4/7/2019,18:30 (16:30),Levante,2@2,Huesca,"19,824",Estadio Ciudad de Valencia,Carlos del Cerro
+31,Sun,4/7/2019,18:30 (16:30),Celta Vigo,3@1,Real Sociedad,"20,519",Estadio de Balaídos,Mario Melero
+31,Sun,4/7/2019,20:45 (18:45),Betis,2@1,Villarreal,"28,475",Estadio Benito Villamarín,Javier Estrada
+32,Sat,4/13/2019,13:00 (11:00),Espanyol,2@1,Alavés,"18,143",RCDE Stadium,Ignacio Iglesias
+32,Sat,4/13/2019,16:15 (14:15),Huesca,0@0,Barcelona,"7,332",Estadio El Alcoraz,Guillermo Cuadra
+32,Sat,4/13/2019,18:30 (16:30),Atlético Madrid,2@0,Celta Vigo,"55,269",Estadio Wanda Metropolitano,Ricardo de Burgos
+32,Sat,4/13/2019,20:45 (18:45),Sevilla,3@2,Betis,"42,855",Estadio Ramón Sánchez Pizjuán,Alejandro Hernández
+32,Sun,4/14/2019,12:00 (10:00),Valladolid,2@2,Getafe,"16,909",Estadio Municipal José Zorrilla,José Luis Munuera
+32,Sun,4/14/2019,14:00 (12:00),Athletic Club,3@2,Rayo Vallecano,"38,732",San Mamés,Juan Martínez
+32,Sun,4/14/2019,16:15 (14:15),Real Sociedad,1@1,Eibar,"24,308",Estadio Municipal de Anoeta,Santiago Jaime
+32,Sun,4/14/2019,18:30 (16:30),Girona,0@1,Villarreal,"11,535",Estadi Municipal de Montilivi,Adrián Cordero
+32,Sun,4/14/2019,20:45 (18:45),Valencia,3@1,Levante,"42,120",Estadio de Mestalla,Alberto Undiano
+32,Mon,4/15/2019,21:00 (19:00),Leganés,1@1,Real Madrid,"12,118",Estadio Municipal de Butarque,David Medié
+33,Fri,4/19/2019,21:00 (19:00),Alavés,2@2,Valladolid,"13,568",Estadio de Mendizorroza,Javier Estrada
+33,Sat,4/20/2019,13:00 (11:00),Celta Vigo,2@1,Girona,"20,546",Estadio de Balaídos,Carlos del Cerro
+33,Sat,4/20/2019,16:15 (14:15),Eibar,0@1,Atlético Madrid,"4,750",Estadio Municipal de Ipurúa,Alberola Rojas
+33,Sat,4/20/2019,18:30 (16:30),Rayo Vallecano,0@0,Huesca,"10,542",Estadio del Rayo Vallecano,José González
+33,Sat,4/20/2019,20:45 (18:45),Barcelona,2@1,Real Sociedad,"75,470",Camp Nou,Pablo González
+33,Sun,4/21/2019,12:00 (10:00),Levante,2@2,Espanyol,"16,876",Estadio Ciudad de Valencia,Jesús Gil
+33,Sun,4/21/2019,14:00 (12:00),Getafe,3@0,Sevilla,"11,495",Coliseum Alfonso Pérez,Antonio Matéu Lahoz
+33,Sun,4/21/2019,16:15 (14:15),Real Madrid,3@0,Athletic Club,"59,815",Estadio Santiago Bernabéu,Mario Melero
+33,Sun,4/21/2019,18:30 (16:30),Villarreal,2@1,Leganés,"14,753",Estadio de la Cerámica,Eduardo Prieto
+33,Sun,4/21/2019,20:45 (18:45),Betis,1@2,Valencia,"42,508",Estadio Benito Villamarín,José Sánchez
+34,Tue,4/23/2019,19:30 (17:30),Huesca,2@0,Eibar,"6,157",Estadio El Alcoraz,David Medié
+34,Tue,4/23/2019,20:30 (18:30),Valladolid,1@0,Girona,"19,106",Estadio Municipal José Zorrilla,Juan Martínez
+34,Tue,4/23/2019,21:30 (19:30),Alavés,0@2,Barcelona,"18,735",Estadio de Mendizorroza,Adrián Cordero
+34,Wed,4/24/2019,19:30 (17:30),Atlético Madrid,3@2,Valencia,"43,531",Estadio Wanda Metropolitano,Alejandro Hernández
+34,Wed,4/24/2019,20:30 (18:30),Leganés,0@1,Athletic Club,"4,155",Estadio Municipal de Butarque,Ignacio Iglesias
+34,Wed,4/24/2019,20:30 (18:30),Espanyol,1@1,Celta Vigo,"15,680",RCDE Stadium,Alberto Undiano
+34,Wed,4/24/2019,21:30 (19:30),Levante,4@0,Betis,"20,394",Estadio Ciudad de Valencia,Santiago Jaime
+34,Thu,4/25/2019,19:30 (17:30),Sevilla,5@0,Rayo Vallecano,"31,636",Estadio Ramón Sánchez Pizjuán,Guillermo Cuadra
+34,Thu,4/25/2019,20:30 (18:30),Real Sociedad,0@1,Villarreal,"20,060",Estadio Municipal de Anoeta,José Luis Munuera
+34,Thu,4/25/2019,21:30 (19:30),Getafe,0@0,Real Madrid,"13,135",Coliseum Alfonso Pérez,Ricardo de Burgos
+35,Sat,4/27/2019,13:00 (11:00),Athletic Club,1@1,Alavés,"40,402",San Mamés,Jesús Gil
+35,Sat,4/27/2019,16:15 (14:15),Atlético Madrid,1@0,Valladolid,"53,123",Estadio Wanda Metropolitano,Mario Melero
+35,Sat,4/27/2019,18:30 (16:30),Leganés,0@0,Celta Vigo,"10,324",Estadio Municipal de Butarque,Juan Martínez
+35,Sat,4/27/2019,20:45 (18:45),Barcelona,1@0,Levante,"91,917",Camp Nou,Ricardo de Burgos
+35,Sun,4/28/2019,12:00 (10:00),Valencia,0@1,Eibar,"35,393",Estadio de Mestalla,Javier Estrada
+35,Sun,4/28/2019,14:00 (12:00),Girona,1@0,Sevilla,"11,281",Estadi Municipal de Montilivi,José González
+35,Sun,4/28/2019,16:15 (14:15),Real Sociedad,2@1,Getafe,"19,386",Estadio Municipal de Anoeta,Eduardo Prieto
+35,Sun,4/28/2019,18:30 (16:30),Villarreal,1@1,Huesca,"17,901",Estadio de la Cerámica,José Sánchez
+35,Sun,4/28/2019,20:45 (18:45),Rayo Vallecano,1@0,Real Madrid,"13,273",Estadio del Rayo Vallecano,Pablo González
+35,Mon,4/29/2019,21:00 (19:00),Betis,1@1,Espanyol,"30,561",Estadio Benito Villamarín,Carlos del Cerro
+36,Fri,5/3/2019,21:00 (19:00),Sevilla,0@3,Leganés,"32,797",Estadio Ramón Sánchez Pizjuán,Alberto Undiano
+36,Sat,5/4/2019,13:00 (11:00),Levante,4@1,Rayo Vallecano,"19,868",Estadio Ciudad de Valencia,Javier Estrada
+36,Sat,5/4/2019,16:15 (14:15),Espanyol,3@0,Atlético Madrid,"20,207",RCDE Stadium,José Luis Munuera
+36,Sat,5/4/2019,18:30 (16:30),Alavés,0@1,Real Sociedad,"18,509",Estadio de Mendizorroza,Alberola Rojas
+36,Sat,5/4/2019,20:45 (18:45),Celta Vigo,2@0,Barcelona,"22,519",Estadio de Balaídos,José Sánchez
+36,Sun,5/5/2019,12:00 (10:00),Getafe,2@0,Girona,"10,615",Coliseum Alfonso Pérez,Alejandro Hernández
+36,Sun,5/5/2019,14:00 (12:00),Eibar,1@0,Betis,"4,725",Estadio Municipal de Ipurúa,Ignacio Iglesias
+36,Sun,5/5/2019,16:15 (14:15),Real Madrid,3@2,Villarreal,"46,294",Estadio Santiago Bernabéu,Jesús Gil
+36,Sun,5/5/2019,18:30 (16:30),Valladolid,1@0,Athletic Club,"21,151",Estadio Municipal José Zorrilla,Antonio Matéu Lahoz
+36,Sun,5/5/2019,20:45 (18:45),Huesca,2@6,Valencia,"6,378",Estadio El Alcoraz,Carlos del Cerro
+37,Sun,5/12/2019,18:30 (16:30),Leganés,0@2,Espanyol,"10,597",Estadio Municipal de Butarque,Mario Melero
+37,Sun,5/12/2019,18:30 (16:30),Atlético Madrid,1@1,Sevilla,"60,234",Estadio Wanda Metropolitano,Ricardo de Burgos
+37,Sun,5/12/2019,18:30 (16:30),Athletic Club,3@1,Celta Vigo,"42,494",San Mamés,Javier Estrada
+37,Sun,5/12/2019,18:30 (16:30),Girona,1@2,Levante,"13,342",Estadi Municipal de Montilivi,Carlos del Cerro
+37,Sun,5/12/2019,18:30 (16:30),Rayo Vallecano,1@2,Valladolid,"10,040",Estadio del Rayo Vallecano,José Sánchez
+37,Sun,5/12/2019,18:30 (16:30),Valencia,3@1,Alavés,"37,744",Estadio de Mestalla,Guillermo Cuadra
+37,Sun,5/12/2019,18:30 (16:30),Villarreal,1@0,Eibar,"17,901",Estadio de la Cerámica,Pablo González
+37,Sun,5/12/2019,18:30 (16:30),Barcelona,2@0,Getafe,"57,088",Camp Nou,José González
+37,Sun,5/12/2019,18:30 (16:30),Real Sociedad,3@1,Real Madrid,"27,322",Estadio Municipal de Anoeta,Juan Martínez
+37,Sun,5/12/2019,18:30 (16:30),Betis,2@1,Huesca,"28,078",Estadio Benito Villamarín,Adrián Cordero
+38,Sat,5/18/2019,13:00 (11:00),Levante,2@2,Atlético Madrid,"20,575",Estadio Ciudad de Valencia,Ignacio Iglesias
+38,Sat,5/18/2019,16:15 (14:15),Sevilla,2@0,Athletic Club,"28,060",Estadio Ramón Sánchez Pizjuán,José Sánchez
+38,Sat,5/18/2019,16:15 (14:15),Getafe,2@2,Villarreal,"13,579",Coliseum Alfonso Pérez,Javier Estrada
+38,Sat,5/18/2019,16:15 (14:15),Espanyol,2@0,Real Sociedad,"26,568",RCDE Stadium,Santiago Jaime
+38,Sat,5/18/2019,16:15 (14:15),Valladolid,0@2,Valencia,"23,455",Estadio Municipal José Zorrilla,Ricardo de Burgos
+38,Sat,5/18/2019,20:45 (18:45),Celta Vigo,2@2,Rayo Vallecano,"21,607",Estadio de Balaídos,Antonio Matéu Lahoz
+38,Sat,5/18/2019,20:45 (18:45),Huesca,2@1,Leganés,"5,575",Estadio El Alcoraz,Alberola Rojas
+38,Sat,5/18/2019,20:45 (18:45),Alavés,2@1,Girona,"11,549",Estadio de Mendizorroza,Mario Melero
+38,Sun,5/19/2019,12:00 (10:00),Real Madrid,0@2,Betis,"56,900",Estadio Santiago Bernabéu,Alberto Undiano
+38,Sun,5/19/2019,16:15 (14:15),Eibar,2@2,Barcelona,"5,145",Estadio Municipal de Ipurúa,José Luis Munuera

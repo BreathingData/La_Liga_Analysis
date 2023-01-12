@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee
+1,Fri,8/18/2017,20:15 (18:15),Leganés,1@0,Alavés,"9,231",Estadio Municipal de Butarque,José Munuera
+1,Fri,8/18/2017,22:15 (20:15),Valencia,1@0,Las Palmas,"35,971",Estadio de Mestalla,Jesús Gil
+1,Sat,8/19/2017,18:15 (16:15),Celta Vigo,2@3,Real Sociedad,"16,961",Estadio de Balaídos,Antonio Matéu Lahoz
+1,Sat,8/19/2017,20:15 (18:15),Girona,2@2,Atlético Madrid,"11,511",Estadi Municipal de Montilivi,Juan Martínez
+1,Sat,8/19/2017,22:15 (20:15),Sevilla,1@1,Espanyol,"30,487",Estadio Ramón Sánchez Pizjuán,Alejandro Hernández
+1,Sun,8/20/2017,18:15 (16:15),Athletic Club,0@0,Getafe,"37,884",San Mamés,Mario Melero
+1,Sun,8/20/2017,20:15 (18:15),Barcelona,2@0,Betis,"56,480",Camp Nou,Daniel Trujillo
+1,Sun,8/20/2017,22:15 (20:15),La Coruña,0@3,Real Madrid,"27,770",Estadio Municipal de Riazor,José González
+1,Mon,8/21/2017,20:15 (18:15),Levante,1@0,Villarreal,"19,500",Estadio Ciudad de Valencia,Alfonso Ãlvarez
+1,Mon,8/21/2017,22:00 (20:00),Málaga,0@1,Eibar,"24,753",Estadio La Rosaleda,David Medié
+2,Fri,8/25/2017,20:15 (18:15),Real Sociedad,3@0,Villarreal,"19,931",Estadio Municipal de Anoeta,Javier Estrada
+2,Fri,8/25/2017,22:00 (20:00),Betis,2@1,Celta Vigo,"45,761",Estadio Benito Villamarín,Ricardo de Burgos
+2,Sat,8/26/2017,18:15 (16:15),Alavés,0@2,Barcelona,"19,356",Estadio de Mendizorroza,Carlos del Cerro
+2,Sat,8/26/2017,20:15 (18:15),Girona,1@0,Málaga,"9,966",Estadi Municipal de Montilivi,Santiago Jaime
+2,Sat,8/26/2017,20:15 (18:15),Levante,2@2,La Coruña,"17,370",Estadio Ciudad de Valencia,Alberola Rojas
+2,Sat,8/26/2017,21:15 (20:15),Las Palmas,1@5,Atlético Madrid,"20,384",Estadio de Gran Canaria,Ignacio Iglesias
+2,Sun,8/27/2017,18:15 (16:15),Espanyol,0@1,Leganés,"18,383",RCDE Stadium,Pablo González
+2,Sun,8/27/2017,18:15 (16:15),Eibar,0@1,Athletic Club,"5,932",Estadio Municipal de Ipurúa,José Sánchez
+2,Sun,8/27/2017,20:15 (18:15),Getafe,0@1,Sevilla,"10,039",Coliseum Alfonso Pérez,Alberto Undiano
+2,Sun,8/27/2017,22:15 (20:15),Real Madrid,2@2,Valencia,"65,107",Estadio Santiago Bernabéu,David Fernández
+3,Fri,9/8/2017,21:00 (19:00),Leganés,1@2,Getafe,"11,454",Estadio Municipal de Butarque,Alfonso Ãlvarez
+3,Sat,9/9/2017,13:00 (11:00),Real Madrid,1@1,Levante,"67,789",Estadio Santiago Bernabéu,Alejandro Hernández
+3,Sat,9/9/2017,16:15 (14:15),Valencia,0@0,Atlético Madrid,"43,859",Estadio de Mestalla,José González
+3,Sat,9/9/2017,18:30 (16:30),Sevilla,3@0,Eibar,"32,469",Estadio Ramón Sánchez Pizjuán,Antonio Matéu Lahoz
+3,Sat,9/9/2017,20:45 (18:45),Barcelona,5@0,Espanyol,"72,857",Camp Nou,Jesús Gil
+3,Sun,9/10/2017,12:00 (10:00),La Coruña,2@4,Real Sociedad,"21,942",Estadio Municipal de Riazor,José Munuera
+3,Sun,9/10/2017,16:15 (14:15),Athletic Club,2@0,Girona,"39,952",San Mamés,Daniel Trujillo
+3,Sun,9/10/2017,18:30 (16:30),Celta Vigo,1@0,Alavés,"17,384",Estadio de Balaídos,Mario Melero
+3,Sun,9/10/2017,20:45 (18:45),Villarreal,3@1,Betis,"18,638",Estadio de la Cerámica,David Medié
+3,Mon,9/11/2017,21:00 (19:00),Málaga,1@3,Las Palmas,"22,697",Estadio La Rosaleda,Xavi Estrada
+4,Fri,9/15/2017,21:00 (19:00),Eibar,1@0,Leganés,"4,986",Estadio Municipal de Ipurúa,Juan Martínez
+4,Sat,9/16/2017,13:00 (11:00),Levante,1@1,Valencia,"23,084",Estadio Ciudad de Valencia,Carlos del Cerro
+4,Sat,9/16/2017,16:15 (14:15),Getafe,1@2,Barcelona,"15,164",Coliseum Alfonso Pérez,David Fernández
+4,Sat,9/16/2017,18:30 (16:30),Betis,2@1,La Coruña,"46,174",Estadio Benito Villamarín,Alberto Undiano
+4,Sat,9/16/2017,20:45 (18:45),Atlético Madrid,1@0,Málaga,"63,114",Estadio Wanda Metropolitano,José Sánchez
+4,Sun,9/17/2017,12:00 (10:00),Alavés,0@3,Villarreal,"18,124",Estadio de Mendizorroza,Santiago Jaime
+4,Sun,9/17/2017,16:15 (14:15),Girona,0@1,Sevilla,"11,032",Estadi Municipal de Montilivi,Ricardo de Burgos
+4,Sun,9/17/2017,17:30 (16:30),Las Palmas,1@0,Athletic Club,"19,213",Estadio de Gran Canaria,Pablo González
+4,Sun,9/17/2017,20:45 (18:45),Real Sociedad,1@3,Real Madrid,"24,966",Estadio Municipal de Anoeta,Ignacio Iglesias
+4,Mon,9/18/2017,21:00 (19:00),Espanyol,2@1,Celta Vigo,"15,026",RCDE Stadium,Alberola Rojas
+5,Tue,9/19/2017,20:00 (18:00),Valencia,5@0,Málaga,"36,215",Estadio de Mestalla,Alfonso Ãlvarez
+5,Tue,9/19/2017,22:00 (20:00),Barcelona,6@1,Eibar,"51,645",Camp Nou,Alejandro Hernández
+5,Wed,9/20/2017,20:00 (18:00),Athletic Club,1@2,Atlético Madrid,"43,381",San Mamés,Javier Estrada
+5,Wed,9/20/2017,20:00 (18:00),Leganés,0@0,Girona,"9,781",Estadio Municipal de Butarque,Mario Melero
+5,Wed,9/20/2017,21:00 (19:00),La Coruña,1@0,Alavés,"18,518",Estadio Municipal de Riazor,David Medié
+5,Wed,9/20/2017,22:00 (20:00),Sevilla,1@0,Las Palmas,"35,317",Estadio Ramón Sánchez Pizjuán,José González
+5,Wed,9/20/2017,22:00 (20:00),Real Madrid,0@1,Betis,"65,102",Estadio Santiago Bernabéu,Antonio Matéu Lahoz
+5,Thu,9/21/2017,20:00 (18:00),Villarreal,0@0,Espanyol,"17,094",Estadio de la Cerámica,José Munuera
+5,Thu,9/21/2017,21:00 (19:00),Celta Vigo,1@1,Getafe,"14,700",Estadio de Balaídos,Daniel Trujillo
+5,Thu,9/21/2017,22:00 (20:00),Levante,3@0,Real Sociedad,"17,415",Estadio Ciudad de Valencia,Jesús Gil
+6,Sat,9/23/2017,13:00 (11:00),Atlético Madrid,2@0,Sevilla,"60,823",Estadio Wanda Metropolitano,Juan Martínez
+6,Sat,9/23/2017,16:15 (14:15),Alavés,1@2,Real Madrid,"19,159",Estadio de Mendizorroza,Alberto Undiano
+6,Sat,9/23/2017,18:30 (16:30),Málaga,3@3,Athletic Club,"23,425",Estadio La Rosaleda,Carlos del Cerro
+6,Sat,9/23/2017,20:45 (18:45),Girona,0@3,Barcelona,"13,305",Estadi Municipal de Montilivi,José Sánchez
+6,Sun,9/24/2017,12:00 (10:00),Espanyol,4@1,La Coruña,"19,585",RCDE Stadium,Ricardo de Burgos
+6,Sun,9/24/2017,16:15 (14:15),Getafe,4@0,Villarreal,"10,874",Coliseum Alfonso Pérez,Ignacio Iglesias
+6,Sun,9/24/2017,17:30 (16:30),Las Palmas,0@2,Leganés,"17,560",Estadio de Gran Canaria,Alberola Rojas
+6,Sun,9/24/2017,18:30 (16:30),Eibar,0@4,Celta Vigo,"5,345",Estadio Municipal de Ipurúa,David Fernández
+6,Sun,9/24/2017,20:45 (18:45),Real Sociedad,2@3,Valencia,"20,266",Estadio Municipal de Anoeta,Santiago Jaime
+6,Mon,9/25/2017,21:00 (19:00),Betis,4@0,Levante,"48,237",Estadio Benito Villamarín,Pablo González
+7,Fri,9/29/2017,21:00 (19:00),Celta Vigo,3@3,Girona,"16,126",Estadio de Balaídos,Pablo González
+7,Sat,9/30/2017,13:00 (11:00),La Coruña,2@1,Getafe,"19,323",Estadio Municipal de Riazor,Javier Estrada
+7,Sat,9/30/2017,16:15 (14:15),Sevilla,2@0,Málaga,"34,430",Estadio Ramón Sánchez Pizjuán,Daniel Trujillo
+7,Sat,9/30/2017,18:30 (16:30),Levante,0@2,Alavés,"18,528",Estadio Ciudad de Valencia,David Fernández
+7,Sat,9/30/2017,20:45 (18:45),Leganés,0@0,Atlético Madrid,"11,454",Estadio Municipal de Butarque,Jesús Gil
+7,Sun,10/1/2017,12:00 (10:00),Real Sociedad,4@4,Betis,"19,669",Estadio Municipal de Anoeta,Alfonso Ãlvarez
+7,Sun,10/1/2017,16:15 (14:15),Barcelona,3@0,Las Palmas,,Camp Nou,José Munuera
+7,Sun,10/1/2017,18:30 (16:30),Valencia,3@2,Athletic Club,"42,070",Estadio de Mestalla,Alejandro Hernández
+7,Sun,10/1/2017,18:30 (16:30),Villarreal,3@0,Eibar,"17,090",Estadio de la Cerámica,Mario Melero
+7,Sun,10/1/2017,20:45 (18:45),Real Madrid,2@0,Espanyol,"71,205",Estadio Santiago Bernabéu,José González
+8,Fri,10/13/2017,21:00 (19:00),Espanyol,0@0,Levante,"19,365",RCDE Stadium,Alberto Undiano
+8,Sat,10/14/2017,13:00 (11:00),Athletic Club,1@0,Sevilla,"40,197",San Mamés,Ignacio Iglesias
+8,Sat,10/14/2017,16:15 (14:15),Getafe,1@2,Real Madrid,"15,350",Coliseum Alfonso Pérez,Juan Martínez
+8,Sat,10/14/2017,18:30 (16:30),Alavés,0@2,Real Sociedad,"19,840",Estadio de Mendizorroza,Alberola Rojas
+8,Sat,10/14/2017,20:45 (18:45),Atlético Madrid,1@1,Barcelona,"64,393",Estadio Wanda Metropolitano,Antonio Matéu Lahoz
+8,Sun,10/15/2017,12:00 (10:00),Eibar,0@0,La Coruña,"5,125",Estadio Municipal de Ipurúa,Santiago Jaime
+8,Sun,10/15/2017,16:15 (14:15),Girona,1@2,Villarreal,"9,935",Estadi Municipal de Montilivi,Carlos del Cerro
+8,Sun,10/15/2017,18:30 (16:30),Málaga,0@2,Leganés,"23,951",Estadio La Rosaleda,José González
+8,Sun,10/15/2017,20:45 (18:45),Betis,3@6,Valencia,"48,792",Estadio Benito Villamarín,José Sánchez
+8,Mon,10/16/2017,20:00 (19:00),Las Palmas,2@5,Celta Vigo,"15,799",Estadio de Gran Canaria,David Medié
+9,Sat,10/21/2017,13:00 (11:00),Levante,1@1,Getafe,"18,064",Estadio Ciudad de Valencia,Ricardo de Burgos
+9,Sat,10/21/2017,16:15 (14:15),Betis,2@0,Alavés,"49,243",Estadio Benito Villamarín,Daniel Trujillo
+9,Sat,10/21/2017,18:30 (16:30),Valencia,4@0,Sevilla,"44,307",Estadio de Mestalla,Javier Estrada
+9,Sat,10/21/2017,20:45 (18:45),Barcelona,2@0,Málaga,"74,397",Camp Nou,Pablo González
+9,Sun,10/22/2017,12:00 (10:00),Villarreal,4@0,Las Palmas,"16,606",Estadio de la Cerámica,David Fernández
+9,Sun,10/22/2017,16:15 (14:15),Celta Vigo,0@1,Atlético Madrid,"12,978",Estadio de Balaídos,José Munuera
+9,Sun,10/22/2017,18:30 (16:30),Leganés,1@0,Athletic Club,"11,454",Estadio Municipal de Butarque,Antonio Matéu Lahoz
+9,Sun,10/22/2017,20:45 (18:45),Real Madrid,3@0,Eibar,"66,781",Estadio Santiago Bernabéu,Alfonso Ãlvarez
+9,Mon,10/23/2017,20:00 (18:00),Real Sociedad,1@1,Espanyol,"18,515",Estadio Municipal de Anoeta,Mario Melero
+9,Mon,10/23/2017,21:00 (19:00),La Coruña,1@2,Girona,"17,463",Estadio Municipal de Riazor,Jesús Gil
+10,Sat,10/28/2017,13:00 (11:00),Alavés,1@2,Valencia,"18,638",Estadio de Mendizorroza,José González
+10,Sat,10/28/2017,18:30 (16:30),Atlético Madrid,1@1,Villarreal,"61,421",Estadio Wanda Metropolitano,Alberto Undiano
+10,Sat,10/28/2017,20:45 (18:45),Athletic Club,0@2,Barcelona,"43,570",San Mamés,Juan Martínez
+10,Sat,10/28/2017,22:30 (20:30),Sevilla,2@1,Leganés,"32,097",Estadio Ramón Sánchez Pizjuán,David Medié
+10,Sun,10/29/2017,12:00 (11:00),Getafe,2@1,Real Sociedad,"11,010",Coliseum Alfonso Pérez,José Sánchez
+10,Sun,10/29/2017,16:15 (15:15),Girona,2@1,Real Madrid,"13,382",Estadi Municipal de Montilivi,Alejandro Hernández
+10,Sun,10/29/2017,18:30 (17:30),Eibar,2@2,Levante,"5,131",Estadio Municipal de Ipurúa,Alberola Rojas
+10,Sun,10/29/2017,20:45 (19:45),Málaga,2@1,Celta Vigo,"19,541",Estadio La Rosaleda,Santiago Jaime
+10,Mon,10/30/2017,20:00,Las Palmas,1@3,La Coruña,"14,805",Estadio de Gran Canaria,Carlos del Cerro
+10,Mon,10/30/2017,21:00 (20:00),Espanyol,1@0,Betis,"17,856",RCDE Stadium,Ignacio Iglesias
+11,Fri,11/3/2017,21:00 (20:00),Betis,2@2,Getafe,"42,323",Estadio Benito Villamarín,Antonio Matéu Lahoz
+11,Sat,11/4/2017,13:00 (12:00),Valencia,3@0,Leganés,"39,694",Estadio de Mestalla,Ricardo de Burgos
+11,Sat,11/4/2017,16:15 (15:15),La Coruña,0@1,Atlético Madrid,"22,733",Estadio Municipal de Riazor,Alfonso Ãlvarez
+11,Sat,11/4/2017,18:30 (17:30),Alavés,1@0,Espanyol,"19,368",Estadio de Mendizorroza,Pablo González
+11,Sat,11/4/2017,20:45 (19:45),Barcelona,2@1,Sevilla,"70,723",Camp Nou,José González
+11,Sun,11/5/2017,12:00 (11:00),Levante,1@2,Girona,"18,324",Estadio Ciudad de Valencia,José Munuera
+11,Sun,11/5/2017,16:15 (15:15),Celta Vigo,3@1,Athletic Club,"19,779",Estadio de Balaídos,Jesús Gil
+11,Sun,11/5/2017,18:30 (17:30),Real Sociedad,3@1,Eibar,"20,387",Estadio Municipal de Anoeta,Daniel Trujillo
+11,Sun,11/5/2017,18:30 (17:30),Villarreal,2@0,Málaga,"17,755",Estadio de la Cerámica,Javier Estrada
+11,Sun,11/5/2017,20:45 (19:45),Real Madrid,3@0,Las Palmas,"67,120",Estadio Santiago Bernabéu,José Sánchez
+12,Fri,11/17/2017,21:00 (20:00),Girona,1@1,Real Sociedad,"10,136",Estadi Municipal de Montilivi,Ignacio Iglesias
+12,Sat,11/18/2017,13:00 (12:00),Getafe,4@1,Alavés,"10,014",Coliseum Alfonso Pérez,Santiago Jaime
+12,Sat,11/18/2017,16:15 (15:15),Leganés,0@3,Barcelona,"11,454",Estadio Municipal de Butarque,Alberto Undiano
+12,Sat,11/18/2017,18:30 (17:30),Sevilla,2@1,Celta Vigo,"35,030",Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+12,Sat,11/18/2017,20:45 (19:45),Atlético Madrid,0@0,Real Madrid,"66,496",Estadio Wanda Metropolitano,David Fernández
+12,Sun,11/19/2017,12:00 (11:00),Málaga,3@2,La Coruña,"24,563",Estadio La Rosaleda,Juan Martínez
+12,Sun,11/19/2017,16:15 (15:15),Espanyol,0@2,Valencia,"25,529",RCDE Stadium,Alejandro Hernández
+12,Sun,11/19/2017,17:30,Las Palmas,0@2,Levante,"26,212",Estadio de Gran Canaria,Mario Melero
+12,Sun,11/19/2017,20:45 (19:45),Athletic Club,1@1,Villarreal,"36,666",San Mamés,David Medié
+12,Mon,11/20/2017,21:00 (20:00),Eibar,5@0,Betis,"4,638",Estadio Municipal de Ipurúa,José González
+13,Fri,11/24/2017,21:00 (20:00),Celta Vigo,1@0,Leganés,"10,611",Estadio de Balaídos,Alejandro Hernández
+13,Sat,11/25/2017,13:00 (12:00),Alavés,1@2,Eibar,"19,272",Estadio de Mendizorroza,José Munuera
+13,Sat,11/25/2017,16:15 (15:15),Real Madrid,3@2,Málaga,"75,671",Estadio Santiago Bernabéu,Jesús Gil
+13,Sat,11/25/2017,18:30 (17:30),Betis,2@2,Girona,"45,681",Estadio Benito Villamarín,Carlos del Cerro
+13,Sat,11/25/2017,20:45 (19:45),Levante,0@5,Atlético Madrid,"21,549",Estadio Ciudad de Valencia,Daniel Trujillo
+13,Sun,11/26/2017,12:00 (11:00),La Coruña,2@2,Athletic Club,"20,879",Estadio Municipal de Riazor,José González
+13,Sun,11/26/2017,16:15 (15:15),Real Sociedad,2@2,Las Palmas,"19,780",Estadio Municipal de Anoeta,Pablo González
+13,Sun,11/26/2017,18:30 (17:30),Villarreal,2@3,Sevilla,"18,698",Estadio de la Cerámica,Alberola Rojas
+13,Sun,11/26/2017,20:45 (19:45),Valencia,1@1,Barcelona,"47,775",Estadio de Mestalla,Ignacio Iglesias
+13,Mon,11/27/2017,21:00 (20:00),Espanyol,1@0,Getafe,"11,756",RCDE Stadium,Juan Martínez
+14,Fri,12/1/2017,21:00 (20:00),Málaga,0@0,Levante,"17,886",Estadio La Rosaleda,Ricardo de Burgos
+14,Sat,12/2/2017,13:00 (12:00),Barcelona,2@2,Celta Vigo,"63,208",Camp Nou,Mario Melero
+14,Sat,12/2/2017,16:15 (15:15),Atlético Madrid,2@1,Real Sociedad,"57,394",Estadio Wanda Metropolitano,Santiago Jaime
+14,Sat,12/2/2017,18:30 (17:30),Sevilla,2@0,La Coruña,"32,017",Estadio Ramón Sánchez Pizjuán,José Sánchez
+14,Sat,12/2/2017,20:45 (19:45),Athletic Club,0@0,Real Madrid,"44,884",San Mamés,Antonio Matéu Lahoz
+14,Sun,12/3/2017,12:00 (11:00),Leganés,3@1,Villarreal,"10,017",Estadio Municipal de Butarque,David Fernández
+14,Sun,12/3/2017,16:15 (15:15),Getafe,1@0,Valencia,"12,480",Coliseum Alfonso Pérez,David Medié
+14,Sun,12/3/2017,18:30 (17:30),Eibar,3@1,Espanyol,"4,693",Estadio Municipal de Ipurúa,Alberto Undiano
+14,Sun,12/3/2017,19:45,Las Palmas,1@0,Betis,"16,313",Estadio de Gran Canaria,Javier Estrada
+14,Mon,12/4/2017,21:00 (20:00),Girona,2@3,Alavés,"7,316",Estadi Municipal de Montilivi,Alberola Rojas
+15,Fri,12/8/2017,21:00 (20:00),Alavés,2@0,Las Palmas,"18,567",Estadio de Mendizorroza,David Medié
+15,Sat,12/9/2017,13:00 (12:00),Getafe,0@0,Eibar,"9,317",Coliseum Alfonso Pérez,Alberola Rojas
+15,Sat,12/9/2017,16:15 (15:15),Real Madrid,5@0,Sevilla,"76,924",Estadio Santiago Bernabéu,Juan Martínez
+15,Sat,12/9/2017,18:30 (17:30),La Coruña,1@0,Leganés,"18,366",Estadio Municipal de Riazor,Mario Melero
+15,Sat,12/9/2017,20:45 (19:45),Valencia,2@1,Celta Vigo,"35,633",Estadio de Mestalla,José Munuera
+15,Sun,12/10/2017,12:00 (11:00),Real Sociedad,0@2,Málaga,"16,834",Estadio Municipal de Anoeta,Carlos del Cerro
+15,Sun,12/10/2017,16:15 (15:15),Betis,0@1,Atlético Madrid,"45,517",Estadio Benito Villamarín,Alejandro Hernández
+15,Sun,12/10/2017,18:30 (17:30),Levante,1@2,Athletic Club,"18,005",Estadio Ciudad de Valencia,Javier Estrada
+15,Sun,12/10/2017,20:45 (19:45),Villarreal,0@2,Barcelona,"21,087",Estadio de la Cerámica,Ricardo de Burgos
+15,Mon,12/11/2017,21:00 (20:00),Espanyol,0@1,Girona,"13,846",RCDE Stadium,José González
+16,Fri,12/15/2017,21:00 (20:00),Sevilla,0@0,Levante,"25,934",Estadio Ramón Sánchez Pizjuán,Ignacio Iglesias
+16,Sat,12/16/2017,16:15 (15:15),Athletic Club,0@0,Real Sociedad,"45,504",San Mamés,David Fernández
+16,Sat,12/16/2017,18:30 (17:30),Eibar,2@1,Valencia,"5,219",Estadio Municipal de Ipurúa,Pablo González
+16,Sat,12/16/2017,20:45 (19:45),Atlético Madrid,1@0,Alavés,"49,937",Estadio Wanda Metropolitano,Jesús Gil
+16,Sun,12/17/2017,12:00 (11:00),Girona,1@0,Getafe,"10,095",Estadi Municipal de Montilivi,Alberto Undiano
+16,Sun,12/17/2017,16:15 (15:15),Celta Vigo,0@1,Villarreal,"18,215",Estadio de Balaídos,Javier Estrada
+16,Sun,12/17/2017,17:30,Las Palmas,2@2,Espanyol,"14,020",Estadio de Gran Canaria,José Sánchez
+16,Sun,12/17/2017,20:45 (19:45),Barcelona,4@0,La Coruña,"53,607",Camp Nou,Antonio Matéu Lahoz
+16,Mon,12/18/2017,21:00 (20:00),Málaga,0@2,Betis,"22,488",Estadio La Rosaleda,Alberola Rojas
+17,Tue,12/19/2017,21:30 (20:30),Levante,0@0,Leganés,"14,639",Estadio Ciudad de Valencia,Santiago Jaime
+17,Wed,12/20/2017,19:30 (18:30),Getafe,2@0,Las Palmas,"9,231",Coliseum Alfonso Pérez,Ricardo de Burgos
+17,Wed,12/20/2017,21:30 (20:30),Real Sociedad,3@1,Sevilla,"17,205",Estadio Municipal de Anoeta,Alejandro Hernández
+17,Thu,12/21/2017,19:30 (18:30),Eibar,4@1,Girona,"4,867",Estadio Municipal de Ipurúa,Ignacio Iglesias
+17,Thu,12/21/2017,21:30 (20:30),Alavés,1@0,Málaga,"18,733",Estadio de Mendizorroza,Alfonso Ãlvarez
+17,Fri,12/22/2017,19:30 (18:30),Betis,0@2,Athletic Club,"42,713",Estadio Benito Villamarín,Juan Martínez
+17,Fri,12/22/2017,21:30 (20:30),Espanyol,1@0,Atlético Madrid,"19,327",RCDE Stadium,Mario Melero
+17,Sat,12/23/2017,13:00 (12:00),Real Madrid,0@3,Barcelona,"80,264",Estadio Santiago Bernabéu,José Sánchez
+17,Sat,12/23/2017,16:15 (15:15),Valencia,0@1,Villarreal,"39,181",Estadio de Mestalla,Daniel Trujillo
+17,Sat,12/23/2017,18:30 (17:30),La Coruña,1@3,Celta Vigo,"27,877",Estadio Municipal de Riazor,Alberto Undiano
+18,Sat,1/6/2018,13:00 (12:00),Atlético Madrid,2@0,Getafe,"47,023",Estadio Wanda Metropolitano,José Munuera
+18,Sat,1/6/2018,16:15 (15:15),Valencia,2@1,Girona,"27,749",Estadio de Mestalla,David Fernández
+18,Sat,1/6/2018,17:30,Las Palmas,1@2,Eibar,"12,059",Estadio de Gran Canaria,José González
+18,Sat,1/6/2018,20:45 (19:45),Sevilla,3@5,Betis,"40,282",Estadio Ramón Sánchez Pizjuán,Jesús Gil
+18,Sun,1/7/2018,12:00 (11:00),Leganés,1@0,Real Sociedad,"7,523",Estadio Municipal de Butarque,Javier Estrada
+18,Sun,1/7/2018,16:15 (15:15),Barcelona,3@0,Levante,"56,380",Camp Nou,Carlos del Cerro
+18,Sun,1/7/2018,18:30 (17:30),Villarreal,1@1,La Coruña,"15,442",Estadio de la Cerámica,David Medié
+18,Sun,1/7/2018,18:30 (17:30),Athletic Club,2@0,Alavés,"41,000",San Mamés,Pablo González
+18,Sun,1/7/2018,20:45 (19:45),Celta Vigo,2@2,Real Madrid,"20,872",Estadio de Balaídos,Santiago Jaime
+18,Mon,1/8/2018,21:00 (20:00),Málaga,0@1,Espanyol,"12,149",Estadio La Rosaleda,Antonio Matéu Lahoz
+19,Fri,1/12/2018,21:00 (20:00),Getafe,1@0,Málaga,"9,513",Coliseum Alfonso Pérez,Juan Martínez
+19,Sat,1/13/2018,13:00 (12:00),Girona,6@0,Las Palmas,"10,037",Estadi Municipal de Montilivi,Mario Melero
+19,Sat,1/13/2018,16:15 (15:15),Real Madrid,0@1,Villarreal,"63,403",Estadio Santiago Bernabéu,Alberto Undiano
+19,Sat,1/13/2018,18:30 (17:30),Eibar,0@1,Atlético Madrid,"6,186",Estadio Municipal de Ipurúa,Antonio Matéu Lahoz
+19,Sat,1/13/2018,20:45 (19:45),La Coruña,1@2,Valencia,"19,031",Estadio Municipal de Riazor,Alberola Rojas
+19,Sun,1/14/2018,12:00 (11:00),Levante,0@1,Celta Vigo,"17,007",Estadio Ciudad de Valencia,Alfonso Ãlvarez
+19,Sun,1/14/2018,16:15 (15:15),Alavés,1@0,Sevilla,"19,413",Estadio de Mendizorroza,José Sánchez
+19,Sun,1/14/2018,18:30 (17:30),Espanyol,1@1,Athletic Club,"20,228",RCDE Stadium,Daniel Trujillo
+19,Sun,1/14/2018,20:45 (19:45),Real Sociedad,2@4,Barcelona,"23,277",Estadio Municipal de Anoeta,José González
+19,Mon,1/15/2018,21:00 (20:00),Betis,3@2,Leganés,"41,777",Estadio Benito Villamarín,Ignacio Iglesias
+20,Fri,1/19/2018,21:00 (20:00),Getafe,2@2,Athletic Club,"11,457",Coliseum Alfonso Pérez,Jesús Gil
+20,Sat,1/20/2018,13:00 (12:00),Espanyol,0@3,Sevilla,"19,607",RCDE Stadium,Alberto Undiano
+20,Sat,1/20/2018,16:15 (15:15),Atlético Madrid,1@1,Girona,"55,076",Estadio Wanda Metropolitano,Ricardo de Burgos
+20,Sat,1/20/2018,18:30 (17:30),Villarreal,2@1,Levante,"16,773",Estadio de la Cerámica,José González
+20,Sat,1/20/2018,19:45,Las Palmas,2@1,Valencia,"20,242",Estadio de Gran Canaria,José Munuera
+20,Sun,1/21/2018,12:00 (11:00),Alavés,2@2,Leganés,"19,637",Estadio de Mendizorroza,Daniel Trujillo
+20,Sun,1/21/2018,16:15 (15:15),Real Madrid,7@1,La Coruña,"63,504",Estadio Santiago Bernabéu,David Fernández
+20,Sun,1/21/2018,18:30 (17:30),Real Sociedad,1@2,Celta Vigo,"19,081",Estadio Municipal de Anoeta,Antonio Matéu Lahoz
+20,Sun,1/21/2018,20:45 (19:45),Betis,0@5,Barcelona,"53,426",Estadio Benito Villamarín,Santiago Jaime
+20,Mon,1/22/2018,21:00 (20:00),Eibar,1@1,Málaga,"4,520",Estadio Municipal de Ipurúa,David Medié
+21,Fri,1/26/2018,21:00 (20:00),Athletic Club,1@1,Eibar,"39,331",San Mamés,Mario Melero
+21,Sat,1/27/2018,13:00 (12:00),La Coruña,2@2,Levante,"19,973",Estadio Municipal de Riazor,Pablo González
+21,Sat,1/27/2018,16:15 (15:15),Valencia,1@4,Real Madrid,"47,034",Estadio de Mestalla,Javier Estrada
+21,Sat,1/27/2018,18:30 (17:30),Málaga,0@0,Girona,"22,125",Estadio La Rosaleda,Alberto Undiano
+21,Sat,1/27/2018,20:45 (19:45),Villarreal,4@2,Real Sociedad,"15,052",Estadio de la Cerámica,Carlos del Cerro
+21,Sun,1/28/2018,12:00 (11:00),Leganés,3@2,Espanyol,"10,132",Estadio Municipal de Butarque,Juan Martínez
+21,Sun,1/28/2018,16:15 (15:15),Atlético Madrid,3@0,Las Palmas,"55,363",Estadio Wanda Metropolitano,Alfonso Ãlvarez
+21,Sun,1/28/2018,18:30 (17:30),Sevilla,1@1,Getafe,"34,011",Estadio Ramón Sánchez Pizjuán,Alberola Rojas
+21,Sun,1/28/2018,20:45 (19:45),Barcelona,2@1,Alavés,"62,369",Camp Nou,Ignacio Iglesias
+21,Mon,1/29/2018,21:00 (20:00),Celta Vigo,3@2,Betis,"14,667",Estadio de Balaídos,José Sánchez
+22,Fri,2/2/2018,21:00 (20:00),Real Sociedad,5@0,La Coruña,"15,626",Estadio Municipal de Anoeta,Alberto Undiano
+22,Sat,2/3/2018,13:00 (12:00),Eibar,5@1,Sevilla,"5,311",Estadio Municipal de Ipurúa,Daniel Trujillo
+22,Sat,2/3/2018,16:15 (15:15),Betis,2@1,Villarreal,"50,102",Estadio Benito Villamarín,Alberola Rojas
+22,Sat,2/3/2018,18:30 (17:30),Alavés,2@1,Celta Vigo,"19,437",Estadio de Mendizorroza,Juan Martínez
+22,Sat,2/3/2018,20:45 (19:45),Levante,2@2,Real Madrid,"23,542",Estadio Ciudad de Valencia,Mario Melero
+22,Sun,2/4/2018,12:00 (11:00),Getafe,0@0,Leganés,"10,657",Coliseum Alfonso Pérez,Alfonso Ãlvarez
+22,Sun,2/4/2018,16:15 (15:15),Espanyol,1@1,Barcelona,"23,287",RCDE Stadium,Jesús Gil
+22,Sun,2/4/2018,18:30 (17:30),Girona,2@0,Athletic Club,"9,602",Estadi Municipal de Montilivi,José Munuera
+22,Sun,2/4/2018,20:45 (19:45),Atlético Madrid,1@0,Valencia,"49,596",Estadio Wanda Metropolitano,Ignacio Iglesias
+22,Mon,2/5/2018,20:00,Las Palmas,1@0,Málaga,"17,424",Estadio de Gran Canaria,Ricardo de Burgos
+23,Fri,2/9/2018,21:00 (20:00),Athletic Club,0@0,Las Palmas,"33,679",San Mamés,Javier Estrada
+23,Sat,2/10/2018,13:00 (12:00),Villarreal,1@2,Alavés,"14,984",Estadio de la Cerámica,Daniel Trujillo
+23,Sat,2/10/2018,16:15 (15:15),Málaga,0@1,Atlético Madrid,"25,482",Estadio La Rosaleda,José Sánchez
+23,Sat,2/10/2018,18:30 (17:30),Leganés,0@1,Eibar,"9,327",Estadio Municipal de Butarque,Pablo González
+23,Sat,2/10/2018,20:45 (19:45),Real Madrid,5@2,Real Sociedad,"63,811",Estadio Santiago Bernabéu,Alejandro Hernández
+23,Sun,2/11/2018,12:00 (11:00),Sevilla,1@0,Girona,"33,129",Estadio Ramón Sánchez Pizjuán,Santiago Jaime
+23,Sun,2/11/2018,16:15 (15:15),Barcelona,0@0,Getafe,"75,681",Camp Nou,David Fernández
+23,Sun,2/11/2018,18:30 (17:30),Celta Vigo,2@2,Espanyol,"15,649",Estadio de Balaídos,José González
+23,Sun,2/11/2018,20:45 (19:45),Valencia,3@1,Levante,"38,199",Estadio de Mestalla,David Medié
+23,Mon,2/12/2018,21:00 (20:00),La Coruña,0@1,Betis,"20,490",Estadio Municipal de Riazor,Carlos del Cerro
+24,Fri,2/16/2018,21:00 (20:00),Girona,3@0,Leganés,"9,142",Estadi Municipal de Montilivi,Antonio Matéu Lahoz
+24,Sat,2/17/2018,12:00,Las Palmas,1@2,Sevilla,"19,161",Estadio de Gran Canaria,Ignacio Iglesias
+24,Sat,2/17/2018,16:15 (15:15),Eibar,0@2,Barcelona,"6,760",Estadio Municipal de Ipurúa,Alejandro Hernández
+24,Sat,2/17/2018,18:30 (17:30),Alavés,1@0,La Coruña,"19,453",Estadio de Mendizorroza,Mario Melero
+24,Sat,2/17/2018,20:45 (19:45),Málaga,1@2,Valencia,"21,134",Estadio La Rosaleda,Daniel Trujillo
+24,Sun,2/18/2018,12:00 (11:00),Real Sociedad,3@0,Levante,"18,189",Estadio Municipal de Anoeta,Santiago Jaime
+24,Sun,2/18/2018,16:15 (15:15),Atlético Madrid,2@0,Athletic Club,"60,022",Estadio Wanda Metropolitano,José González
+24,Sun,2/18/2018,18:30 (17:30),Espanyol,1@1,Villarreal,"19,688",RCDE Stadium,José Munuera
+24,Sun,2/18/2018,20:45 (19:45),Betis,3@5,Real Madrid,"53,486",Estadio Benito Villamarín,Jesús Gil
+24,Mon,2/19/2018,21:00 (20:00),Getafe,3@0,Celta Vigo,"8,367",Coliseum Alfonso Pérez,Pablo González
+16,Wed,2/21/2018,18:45 (17:45),Leganés,1@3,Real Madrid,"11,423",Estadio Municipal de Butarque,José González
+25,Fri,2/23/2018,21:00 (20:00),La Coruña,0@0,Espanyol,"18,028",Estadio Municipal de Riazor,David Fernández
+25,Sat,2/24/2018,13:00 (12:00),Celta Vigo,2@0,Eibar,"15,383",Estadio de Balaídos,Carlos del Cerro
+25,Sat,2/24/2018,16:15 (15:15),Real Madrid,4@0,Alavés,"75,181",Estadio Santiago Bernabéu,Javier Estrada
+25,Sat,2/24/2018,18:30 (17:30),Leganés,0@0,Las Palmas,"9,325",Estadio Municipal de Butarque,Santiago Jaime
+25,Sat,2/24/2018,20:45 (19:45),Barcelona,6@1,Girona,"85,417",Camp Nou,Alberola Rojas
+25,Sun,2/25/2018,12:00 (11:00),Villarreal,1@0,Getafe,"16,125",Estadio de la Cerámica,José Sánchez
+25,Sun,2/25/2018,16:15 (15:15),Athletic Club,2@1,Málaga,"37,518",San Mamés,Alejandro Hernández
+25,Sun,2/25/2018,18:30 (17:30),Valencia,2@1,Real Sociedad,"37,195",Estadio de Mestalla,Pablo González
+25,Sun,2/25/2018,20:45 (19:45),Sevilla,2@5,Atlético Madrid,"37,884",Estadio Ramón Sánchez Pizjuán,Juan Martínez
+25,Mon,2/26/2018,21:00 (20:00),Levante,0@2,Betis,"16,545",Estadio Ciudad de Valencia,Ricardo de Burgos
+26,Tue,2/27/2018,20:00 (19:00),Espanyol,1@0,Real Madrid,"19,805",RCDE Stadium,José Sánchez
+26,Tue,2/27/2018,21:30 (20:30),Girona,1@0,Celta Vigo,"6,392",Estadi Municipal de Montilivi,Daniel Trujillo
+26,Wed,2/28/2018,19:30 (18:30),Málaga,0@1,Sevilla,"15,516",Estadio La Rosaleda,Carlos del Cerro
+26,Wed,2/28/2018,19:30 (18:30),Athletic Club,1@1,Valencia,"34,382",San Mamés,Jesús Gil
+26,Wed,2/28/2018,19:30 (18:30),Getafe,3@0,La Coruña,"5,097",Coliseum Alfonso Pérez,José Munuera
+26,Wed,2/28/2018,21:30 (20:30),Atlético Madrid,4@0,Leganés,"35,033",Estadio Wanda Metropolitano,Javier Estrada
+26,Wed,2/28/2018,21:30 (20:30),Eibar,1@0,Villarreal,"4,056",Estadio Municipal de Ipurúa,Mario Melero
+26,Thu,3/1/2018,19:30 (18:30),Betis,0@0,Real Sociedad,"40,288",Estadio Benito Villamarín,José González
+26,Thu,3/1/2018,20:00,Las Palmas,1@1,Barcelona,"23,778",Estadio de Gran Canaria,Antonio Matéu Lahoz
+26,Thu,3/1/2018,21:30 (20:30),Alavés,1@0,Levante,"16,812",Estadio de Mendizorroza,David Fernández
+27,Sat,3/3/2018,13:00 (12:00),Villarreal,0@2,Girona,"14,540",Estadio de la Cerámica,Pablo González
+27,Sat,3/3/2018,16:15 (15:15),Sevilla,2@0,Athletic Club,"25,185",Estadio Ramón Sánchez Pizjuán,Alberto Undiano
+27,Sat,3/3/2018,18:30 (17:30),La Coruña,1@1,Eibar,"19,317",Estadio Municipal de Riazor,Santiago Jaime
+27,Sat,3/3/2018,18:30 (17:30),Leganés,2@0,Málaga,"6,937",Estadio Municipal de Butarque,Ignacio Iglesias
+27,Sat,3/3/2018,20:45 (19:45),Real Madrid,3@1,Getafe,"55,106",Estadio Santiago Bernabéu,Mario Melero
+27,Sun,3/4/2018,12:00 (11:00),Levante,1@1,Espanyol,"17,143",Estadio Ciudad de Valencia,Alberola Rojas
+27,Sun,3/4/2018,16:15 (15:15),Barcelona,1@0,Atlético Madrid,"90,356",Camp Nou,Jesús Gil
+27,Sun,3/4/2018,18:30 (17:30),Real Sociedad,2@1,Alavés,"21,445",Estadio Municipal de Anoeta,Juan Martínez
+27,Sun,3/4/2018,20:45 (19:45),Valencia,2@0,Betis,"35,565",Estadio de Mestalla,Alejandro Hernández
+27,Mon,3/5/2018,21:00 (20:00),Celta Vigo,2@1,Las Palmas,"11,276",Estadio de Balaídos,Ricardo de Burgos
+28,Fri,3/9/2018,21:00 (20:00),Girona,2@0,La Coruña,"10,663",Estadi Municipal de Montilivi,Alberto Undiano
+28,Sat,3/10/2018,13:00 (12:00),Eibar,1@2,Real Madrid,"6,707",Estadio Municipal de Ipurúa,José Munuera
+28,Sat,3/10/2018,16:15 (15:15),Sevilla,0@2,Valencia,"33,287",Estadio Ramón Sánchez Pizjuán,Ricardo de Burgos
+28,Sat,3/10/2018,18:30 (17:30),Getafe,0@1,Levante,"8,136",Coliseum Alfonso Pérez,Daniel Trujillo
+28,Sat,3/10/2018,20:45 (19:45),Málaga,0@2,Barcelona,"26,667",Estadio La Rosaleda,Juan Martínez
+28,Sun,3/11/2018,12:00 (11:00),Espanyol,2@1,Real Sociedad,"20,314",RCDE Stadium,Antonio Matéu Lahoz
+28,Sun,3/11/2018,16:15 (15:15),Atlético Madrid,3@0,Celta Vigo,"55,076",Estadio Wanda Metropolitano,Alberola Rojas
+28,Sun,3/11/2018,17:30,Las Palmas,0@2,Villarreal,"18,907",Estadio de Gran Canaria,David Medié
+28,Sun,3/11/2018,20:45 (19:45),Athletic Club,2@0,Leganés,"30,787",San Mamés,José Sánchez
+28,Mon,3/12/2018,21:00 (20:00),Alavés,1@3,Betis,"17,239",Estadio de Mendizorroza,Carlos del Cerro
+29,Fri,3/16/2018,21:00 (20:00),Levante,2@1,Eibar,"16,028",Estadio Ciudad de Valencia,Ignacio Iglesias
+29,Sat,3/17/2018,13:00 (12:00),La Coruña,1@1,Las Palmas,"18,773",Estadio Municipal de Riazor,Juan Martínez
+29,Sat,3/17/2018,16:15 (15:15),Valencia,3@1,Alavés,"35,264",Estadio de Mestalla,José Munuera
+29,Sat,3/17/2018,18:30 (17:30),Real Sociedad,1@2,Getafe,"17,509",Estadio Municipal de Anoeta,Javier Estrada
+29,Sat,3/17/2018,20:45 (19:45),Betis,3@0,Espanyol,"31,230",Estadio Benito Villamarín,Ricardo de Burgos
+29,Sun,3/18/2018,12:00 (11:00),Leganés,2@1,Sevilla,"10,037",Estadio Municipal de Butarque,Alberola Rojas
+29,Sun,3/18/2018,16:15 (15:15),Barcelona,2@0,Athletic Club,"84,053",Camp Nou,Santiago Jaime
+29,Sun,3/18/2018,18:30 (17:30),Villarreal,2@1,Atlético Madrid,"19,385",Estadio de la Cerámica,David Fernández
+29,Sun,3/18/2018,18:30 (17:30),Celta Vigo,0@0,Málaga,"17,230",Estadio de Balaídos,Alberto Undiano
+29,Sun,3/18/2018,20:45 (19:45),Real Madrid,6@3,Girona,"59,097",Estadio Santiago Bernabéu,Jesús Gil
+30,Sat,3/31/2018,13:00 (11:00),Girona,1@1,Levante,"11,391",Estadi Municipal de Montilivi,Ricardo de Burgos
+30,Sat,3/31/2018,16:15 (14:15),Athletic Club,1@1,Celta Vigo,"33,657",San Mamés,Carlos del Cerro
+30,Sat,3/31/2018,17:30 (16:30),Las Palmas,0@3,Real Madrid,"22,942",Estadio de Gran Canaria,Pablo González
+30,Sat,3/31/2018,20:45 (18:45),Sevilla,2@2,Barcelona,"37,588",Estadio Ramón Sánchez Pizjuán,José González
+30,Sun,4/1/2018,12:00 (10:00),Espanyol,0@0,Alavés,"15,448",RCDE Stadium,Ignacio Iglesias
+30,Sun,4/1/2018,16:15 (14:15),Leganés,0@1,Valencia,"10,697",Estadio Municipal de Butarque,Mario Melero
+30,Sun,4/1/2018,18:30 (16:30),Eibar,0@0,Real Sociedad,"6,233",Estadio Municipal de Ipurúa,José Sánchez
+30,Sun,4/1/2018,18:30 (16:30),Málaga,1@0,Villarreal,"19,142",Estadio La Rosaleda,Alfonso Ãlvarez
+30,Sun,4/1/2018,20:45 (18:45),Atlético Madrid,1@0,La Coruña,"49,351",Estadio Wanda Metropolitano,Daniel Trujillo
+30,Mon,4/2/2018,21:00 (19:00),Getafe,0@1,Betis,"10,628",Coliseum Alfonso Pérez,Alberto Undiano
+31,Fri,4/6/2018,21:00 (19:00),La Coruña,3@2,Málaga,"16,932",Estadio Municipal de Riazor,Antonio Matéu Lahoz
+31,Sat,4/7/2018,13:00 (11:00),Alavés,2@0,Getafe,"18,241",Estadio de Mendizorroza,Santiago Jaime
+31,Sat,4/7/2018,16:15 (14:15),Celta Vigo,4@0,Sevilla,"16,919",Estadio de Balaídos,Alfonso Ãlvarez
+31,Sat,4/7/2018,18:30 (16:30),Betis,2@0,Eibar,"50,194",Estadio Benito Villamarín,David Medié
+31,Sat,4/7/2018,20:45 (18:45),Barcelona,3@1,Leganés,"72,126",Camp Nou,Ricardo de Burgos
+31,Sun,4/8/2018,12:00 (10:00),Levante,2@1,Las Palmas,"18,402",Estadio Ciudad de Valencia,David Fernández
+31,Sun,4/8/2018,16:15 (14:15),Real Madrid,1@1,Atlético Madrid,"78,769",Estadio Santiago Bernabéu,Javier Estrada
+31,Sun,4/8/2018,18:30 (16:30),Real Sociedad,5@0,Girona,"18,027",Estadio Municipal de Anoeta,José Munuera
+31,Sun,4/8/2018,20:45 (18:45),Valencia,1@0,Espanyol,"36,296",Estadio de Mestalla,Jesús Gil
+31,Mon,4/9/2018,21:00 (19:00),Villarreal,1@3,Athletic Club,"14,879",Estadio de la Cerámica,Ignacio Iglesias
+32,Fri,4/13/2018,21:00 (19:00),Girona,0@1,Betis,"11,286",Estadi Municipal de Montilivi,Santiago Jaime
+32,Sat,4/14/2018,13:00 (11:00),Sevilla,2@2,Villarreal,"32,192",Estadio Ramón Sánchez Pizjuán,Pablo González
+32,Sat,4/14/2018,16:15 (14:15),Barcelona,2@1,Valencia,"69,544",Camp Nou,Carlos del Cerro
+32,Sat,4/14/2018,17:30 (16:30),Las Palmas,0@1,Real Sociedad,"10,531",Estadio de Gran Canaria,Alfonso Ãlvarez
+32,Sat,4/14/2018,18:30 (16:30),Leganés,1@0,Celta Vigo,"10,393",Estadio Municipal de Butarque,Alejandro Hernández
+32,Sat,4/14/2018,20:45 (18:45),Athletic Club,2@3,La Coruña,"37,715",San Mamés,José González
+32,Sun,4/15/2018,12:00 (10:00),Eibar,0@1,Alavés,"5,754",Estadio Municipal de Ipurúa,Alberto Undiano
+32,Sun,4/15/2018,16:15 (14:15),Atlético Madrid,3@0,Levante,"58,043",Estadio Wanda Metropolitano,Jesús Gil
+32,Sun,4/15/2018,18:30 (16:30),Getafe,1@0,Espanyol,"10,593",Coliseum Alfonso Pérez,Mario Melero
+32,Sun,4/15/2018,20:45 (18:45),Málaga,1@2,Real Madrid,"27,112",Estadio La Rosaleda,Ricardo de Burgos
+33,Tue,4/17/2018,19:30 (17:30),La Coruña,0@0,Sevilla,"24,374",Estadio Municipal de Riazor,David Medié
+33,Tue,4/17/2018,21:00 (19:00),Celta Vigo,2@2,Barcelona,"20,347",Estadio de Balaídos,David Fernández
+33,Tue,4/17/2018,21:30 (19:30),Villarreal,2@1,Leganés,"12,556",Estadio de la Cerámica,Daniel Trujillo
+33,Wed,4/18/2018,19:30 (17:30),Espanyol,0@1,Eibar,"12,113",RCDE Stadium,Alejandro Hernández
+33,Wed,4/18/2018,19:30 (17:30),Valencia,1@2,Getafe,"35,829",Estadio de Mestalla,Ricardo de Burgos
+33,Wed,4/18/2018,21:30 (19:30),Real Madrid,1@1,Athletic Club,"59,193",Estadio Santiago Bernabéu,Juan Martínez
+33,Thu,4/19/2018,19:30 (17:30),Alavés,1@2,Girona,"18,366",Estadio de Mendizorroza,Pablo González
+33,Thu,4/19/2018,19:30 (17:30),Real Sociedad,3@0,Atlético Madrid,"21,404",Estadio Municipal de Anoeta,Alberola Rojas
+33,Thu,4/19/2018,21:30 (19:30),Levante,1@0,Málaga,"17,372",Estadio Ciudad de Valencia,Santiago Jaime
+33,Thu,4/19/2018,21:30 (19:30),Betis,1@0,Las Palmas,"45,151",Estadio Benito Villamarín,José Sánchez
+34,Fri,4/20/2018,21:00 (19:00),Leganés,0@0,La Coruña,"10,124",Estadio Municipal de Butarque,Alfonso Ãlvarez
+34,Sat,4/21/2018,13:00 (11:00),Eibar,0@1,Getafe,"4,860",Estadio Municipal de Ipurúa,Ignacio Iglesias
+34,Sat,4/21/2018,16:15 (14:15),Celta Vigo,1@1,Valencia,"17,316",Estadio de Balaídos,Alberto Undiano
+34,Sun,4/22/2018,12:00 (10:00),Girona,0@2,Espanyol,"12,313",Estadi Municipal de Montilivi,Alberola Rojas
+34,Sun,4/22/2018,16:15 (14:15),Málaga,2@0,Real Sociedad,"14,102",Estadio La Rosaleda,Javier Estrada
+34,Sun,4/22/2018,17:30 (16:30),Las Palmas,0@4,Alavés,"7,143",Estadio de Gran Canaria,Mario Melero
+34,Sun,4/22/2018,20:45 (18:45),Atlético Madrid,0@0,Betis,200,Estadio Wanda Metropolitano,Juan Martínez
+34,Mon,4/23/2018,21:00 (19:00),Athletic Club,1@3,Levante,"24,587",San Mamés,José Munuera
+35,Fri,4/27/2018,21:00 (19:00),Levante,2@1,Sevilla,"17,240",Estadio Ciudad de Valencia,José González
+35,Sat,4/28/2018,13:00 (11:00),Espanyol,1@1,Las Palmas,"13,589",RCDE Stadium,Pablo González
+35,Sat,4/28/2018,16:15 (14:15),Real Sociedad,3@1,Athletic Club,"23,972",Estadio Municipal de Anoeta,José Sánchez
+35,Sat,4/28/2018,18:30 (16:30),Real Madrid,2@1,Leganés,"59,905",Estadio Santiago Bernabéu,Ignacio Iglesias
+35,Sat,4/28/2018,20:45 (18:45),Villarreal,4@1,Celta Vigo,"14,135",Estadio de la Cerámica,Alberola Rojas
+35,Sun,4/29/2018,12:00 (10:00),Getafe,1@1,Girona,"8,011",Coliseum Alfonso Pérez,Alejandro Hernández
+35,Sun,4/29/2018,16:15 (14:15),Alavés,0@1,Atlético Madrid,"18,944",Estadio de Mendizorroza,David Fernández
+35,Sun,4/29/2018,18:30 (16:30),Valencia,0@0,Eibar,"40,328",Estadio de Mestalla,Santiago Jaime
+35,Sun,4/29/2018,20:45 (18:45),La Coruña,2@4,Barcelona,"25,721",Estadio Municipal de Riazor,Ricardo de Burgos
+35,Mon,4/30/2018,21:00 (19:00),Betis,2@1,Málaga,"53,163",Estadio Benito Villamarín,Carlos del Cerro
+36,Fri,5/4/2018,21:00 (19:00),Sevilla,1@0,Real Sociedad,"34,733",Estadio Ramón Sánchez Pizjuán,Santiago Jaime
+36,Sat,5/5/2018,13:00 (11:00),Girona,1@4,Eibar,"9,706",Estadi Municipal de Montilivi,Daniel Trujillo
+36,Sat,5/5/2018,16:15 (14:15),Athletic Club,2@0,Betis,"34,491",San Mamés,Alberola Rojas
+36,Sat,5/5/2018,18:30 (16:30),Celta Vigo,1@1,La Coruña,"20,816",Estadio de Balaídos,Carlos del Cerro
+36,Sat,5/5/2018,20:45 (18:45),Villarreal,1@0,Valencia,"19,079",Estadio de la Cerámica,Jesús Gil
+36,Sun,5/6/2018,12:00 (10:00),Málaga,0@3,Alavés,"14,024",Estadio La Rosaleda,José González
+36,Sun,5/6/2018,16:15 (14:15),Atlético Madrid,0@2,Espanyol,"49,834",Estadio Wanda Metropolitano,José Munuera
+36,Sun,5/6/2018,17:30 (16:30),Las Palmas,0@1,Getafe,"4,624",Estadio de Gran Canaria,Alberto Undiano
+36,Sun,5/6/2018,20:45 (18:45),Barcelona,2@2,Real Madrid,"97,939",Camp Nou,Alejandro Hernández
+36,Mon,5/7/2018,21:00 (19:00),Leganés,0@3,Levante,"7,832",Estadio Municipal de Butarque,José Sánchez
+34,Wed,5/9/2018,20:00 (18:00),Barcelona,5@1,Villarreal,"54,743",Camp Nou,José Sánchez
+34,Wed,5/9/2018,21:30 (19:30),Sevilla,3@2,Real Madrid,"38,524",Estadio Ramón Sánchez Pizjuán,Antonio Matéu Lahoz
+37,Sat,5/12/2018,16:15 (14:15),Real Sociedad,3@2,Leganés,"19,981",Estadio Municipal de Anoeta,David Medié
+37,Sat,5/12/2018,18:30 (16:30),Girona,0@1,Valencia,"10,850",Estadi Municipal de Montilivi,Ignacio Iglesias
+37,Sat,5/12/2018,18:30 (16:30),La Coruña,2@4,Villarreal,"12,789",Estadio Municipal de Riazor,Alejandro Hernández
+37,Sat,5/12/2018,18:30 (16:30),Betis,2@2,Sevilla,"55,588",Estadio Benito Villamarín,Alfonso Ãlvarez
+37,Sat,5/12/2018,18:30 (16:30),Getafe,0@1,Atlético Madrid,"12,187",Coliseum Alfonso Pérez,Alberola Rojas
+37,Sat,5/12/2018,18:30 (16:30),Eibar,1@0,Las Palmas,"5,107",Estadio Municipal de Ipurúa,Antonio Matéu Lahoz
+37,Sat,5/12/2018,18:30 (16:30),Alavés,3@1,Athletic Club,"19,458",Estadio de Mendizorroza,Javier Estrada
+37,Sat,5/12/2018,20:45 (18:45),Real Madrid,6@0,Celta Vigo,"56,474",Estadio Santiago Bernabéu,Pablo González
+37,Sun,5/13/2018,16:15 (14:15),Espanyol,4@1,Málaga,"15,004",RCDE Stadium,Juan Martínez
+37,Sun,5/13/2018,20:45 (18:45),Levante,5@4,Barcelona,"22,384",Estadio Ciudad de Valencia,Mario Melero
+38,Sat,5/19/2018,13:00 (11:00),Celta Vigo,4@2,Levante,"10,480",Estadio de Balaídos,Ricardo de Burgos
+38,Sat,5/19/2018,16:15 (14:15),Leganés,3@2,Betis,"10,813",Estadio Municipal de Butarque,Jesús Gil
+38,Sat,5/19/2018,17:30 (16:30),Las Palmas,1@2,Girona,"6,362",Estadio de Gran Canaria,Santiago Jaime
+38,Sat,5/19/2018,18:30 (16:30),Málaga,0@1,Getafe,"9,570",Estadio La Rosaleda,Daniel Trujillo
+38,Sat,5/19/2018,18:30 (16:30),Sevilla,1@0,Alavés,"22,513",Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+38,Sat,5/19/2018,20:45 (18:45),Villarreal,2@2,Real Madrid,"18,891",Estadio de la Cerámica,José Sánchez
+38,Sun,5/20/2018,12:00 (10:00),Valencia,2@1,La Coruña,"35,376",Estadio de Mestalla,David Medié
+38,Sun,5/20/2018,16:15 (14:15),Athletic Club,0@1,Espanyol,"28,492",San Mamés,David Fernández
+38,Sun,5/20/2018,18:30 (16:30),Atlético Madrid,2@2,Eibar,"63,229",Estadio Wanda Metropolitano,Alfonso Ãlvarez
+38,Sun,5/20/2018,20:45 (18:45),Barcelona,1@0,Real Sociedad,"84,168",Camp Nou,José Munuera
